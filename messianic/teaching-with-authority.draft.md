@@ -1,5 +1,9 @@
 # Teaching with Authority
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The passage is not considered messianic by Jewish scholars and could refer to general Torah education rather than a specific messianic figure.
+
 ## The Prophecy
 
 Isaiah prophesied:

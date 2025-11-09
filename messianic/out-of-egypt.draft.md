@@ -1,5 +1,9 @@
 # Out of Egypt (Hosea 11:1)
 
+> **Fulfillment Category:** Misunderstood Context
+>
+> The original text clearly refers to Israel's historical exodus from Egypt, not a messianic prediction. Christians apply it to Jesus through typological interpretation, seeing Jesus as fulfilling a pattern rather than a direct prediction.
+
 ## The Prophecy
 
 The prophet Hosea wrote about God's relationship with Israel:

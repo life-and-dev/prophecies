@@ -1,5 +1,9 @@
 # Pierced Hands and Feet
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The Hebrew text is disputed ("like a lion" in Masoretic vs. "pierced" in Septuagint), and the messianic interpretation relies heavily on the Greek translation rather than the original Hebrew.
+
 ## The Prophecy
 
 > For dogs encompass me; a company of evildoers encircles me; **they have pierced my hands and feet**—I can count all my bones—they stare and gloat over me. — Psalm 22:16-17 (ESV)

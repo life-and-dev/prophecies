@@ -1,5 +1,9 @@
 # Divine Sonship Declared
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The interpretation depends on whether "Son" is metaphorical (Jewish view) or unique divine Sonship (Christian view), whether "begetting" refers to coronation or resurrection, and whether the visible inheritance of nations remains incomplete.
+
 ## The Prophecy
 
 Psalm 2 presents God's decree concerning His anointed king:

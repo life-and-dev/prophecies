@@ -1,5 +1,9 @@
 # The Lord at God's Right Hand
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The visible subjugation of enemies remains incomplete, and the interpretation hinges on whether one accepts Messiah as divine (David's Lord), progressive enemy subjugation, Melchizedek priesthood as superior to Levitical system, and Jesus' resurrection establishing eternal priesthood.
+
 ## The Prophecy
 
 Psalm 110 presents a startling image—David calling his own descendant "Lord":

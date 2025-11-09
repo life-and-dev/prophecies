@@ -1,5 +1,9 @@
 # Garments Divided by Casting Lots
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes Roman soldiers spontaneously fulfilling the dual action at the crucifixion: dividing Jesus' outer garments among themselves and casting lots for his seamless inner tunic.
+
 ## The Prophecy
 
 > **They divide my garments among them, and for my clothing they cast lots**. — Psalm 22:18 (ESV)

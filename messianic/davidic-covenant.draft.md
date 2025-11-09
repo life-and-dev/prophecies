@@ -1,5 +1,9 @@
 # The Davidic Covenant: An Eternal Throne
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The Davidic lineage is documented, but the nature of the kingdom (spiritual vs. political) and timing of fulfillment represent fundamental interpretive differences.
+
 ## The Prophecy
 
 God made a covenant with King David, promising an eternal kingdom through his descendant:

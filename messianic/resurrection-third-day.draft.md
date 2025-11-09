@@ -1,5 +1,9 @@
 # Resurrection on the Third Day
 
+> **Fulfillment Category:** Misunderstood Context
+>
+> The original text clearly refers to Israel's national restoration in 2-3 days, not a messianic prediction. Christians apply it to Jesus through typological interpretation, seeing Jesus as fulfilling a pattern rather than a direct prediction.
+
 ## The Prophecy
 
 While Hosea 6:2 in context refers to Israel ("After two days he will revive us; on the third day he will raise us up"), Jesus applied the "third day" pattern to himself:

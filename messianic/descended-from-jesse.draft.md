@@ -1,5 +1,9 @@
 # Descended from Jesse
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The genealogical connection is strong and documented, but fulfillment of judgment and universal peace requires acceptance of a two-stage messianic framework.
+
 ## The Prophecy
 
 Isaiah specified the Messiah's lineage through Jesse (David's father):

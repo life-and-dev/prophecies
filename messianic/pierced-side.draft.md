@@ -1,5 +1,9 @@
 # Pierced Side
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The "piercing" could refer to warfare casualties in a future battle rather than crucifixion specifically, making the messianic application uncertain.
+
 ## The Prophecy
 
 Zechariah saw a future mourning over one who was pierced:

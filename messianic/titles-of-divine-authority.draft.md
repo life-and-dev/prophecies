@@ -1,5 +1,9 @@
 # Titles of Divine Authority
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The visible endless government and peace are not yet realized, and the immediate contextual shift to judgment on Israel creates legitimate questions about whether the original prophecy was messianic or addressed immediate historical circumstances.
+
 ## The Prophecy
 
 Isaiah described the coming child with remarkable titles:

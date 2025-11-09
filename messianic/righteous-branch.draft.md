@@ -1,5 +1,9 @@
 # The Righteous Branch (Jeremiah 23:5-6)
 
+> **Fulfillment Category:** Partially Fulfilled
+>
+> This prophecy has elements fulfilled in Jesus' first coming, but significant portions await future fulfillment. Spiritual salvation has been accomplished through Jesus, but the physical salvation of Judah and Israel dwelling securely in their land remains unfulfilled.
+
 ## The Prophecy
 
 The prophet Jeremiah prophesied about a future righteous king from David's line:

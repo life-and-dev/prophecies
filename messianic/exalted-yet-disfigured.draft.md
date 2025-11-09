@@ -1,5 +1,9 @@
 # Exalted Yet Disfigured
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The interpretation hinges on whether the servant is individual or collective, and whether exaltation means resurrection or national restoration.
+
 ## The Prophecy
 
 > Behold, **my servant shall act wisely; he shall be high and lifted up**, and shall be exalted. As many were astonished at you—**his appearance was so marred, beyond human semblance**, and his form beyond that of the children of mankind—so shall he sprinkle many nations. Kings shall shut their mouths because of him. — Isaiah 52:13-15 (ESV)

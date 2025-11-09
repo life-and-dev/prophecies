@@ -1,5 +1,9 @@
 # Born of a Virgin
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The interpretation hinges on whether "almah" means virgin, whether Isaiah 7:14 has messianic intent beyond its immediate context, and whether Matthew's apostolic authority validates connections not explicit in the original text.
+
 ## The Prophecy
 
 Isaiah prophesied an extraordinary birth:

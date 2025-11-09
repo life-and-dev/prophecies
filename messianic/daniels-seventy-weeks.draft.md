@@ -1,5 +1,9 @@
 # Daniel's Seventy Weeks
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The interpretation hinges on how to calculate the 70 weeks, whether "cut off" is substitutionary or punishment, whether goals must be fully realized or can be inaugurated progressively, and whether the destruction refers to Antiochus' desecration or Rome's destruction.
+
 ## The Prophecy
 
 The prophet Daniel received a vision specifying *when* the Messiah would appear:

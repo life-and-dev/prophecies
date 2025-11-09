@@ -1,5 +1,9 @@
 # Disciples Scattered
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The passage is not considered messianic by Jewish scholars and appears to refer to false prophets and God's judgment on Israel rather than the Messiah.
+
 ## The Prophecy
 
 Zechariah prophesied:

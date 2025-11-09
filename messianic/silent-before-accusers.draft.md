@@ -1,5 +1,9 @@
 # Silent Before Accusers
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes Jesus' unusual silence during his trial before both the Sanhedrin and Pilate, documented in multiple Gospel accounts, which astonished those present.
+
 ## The Prophecy
 
 > He was oppressed, and he was afflicted, **yet he opened not his mouth**; **like a lamb that is led to the slaughter**, and like a sheep that before its shearers is silent, so he opened not his mouth. By oppression and judgment he was taken away; and as for his generation, who considered that he was cut off out of the land of the living, **stricken for the transgression of my people**? — Isaiah 53:7-8 (ESV)

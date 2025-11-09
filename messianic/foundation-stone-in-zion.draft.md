@@ -1,5 +1,9 @@
 # Foundation Stone in Zion
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. Jewish tradition does not interpret this as messianic, seeing it instead as referring to the Torah or the community itself as God's foundation.
+
 ## The Prophecy
 
 Isaiah prophesied about a precious cornerstone that God would establish:

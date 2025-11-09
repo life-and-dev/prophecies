@@ -1,5 +1,9 @@
 # The Abrahamic Blessing
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The Hebrew word "seed" (zera) could refer to the collective nation of Israel or a singular descendant, leading to fundamentally different interpretations.
+
 ## The Prophecy
 
 God promised Abraham that through his descendant, all nations would be blessed:

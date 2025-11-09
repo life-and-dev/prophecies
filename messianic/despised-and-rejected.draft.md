@@ -1,5 +1,9 @@
 # Despised and Rejected
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes historical rejection by religious leaders who conspired to kill him and the people who chose Barabbas over Jesus, shouting "Crucify him!"
+
 ## The Prophecy
 
 > **He was despised and rejected by men, a man of sorrows, and acquainted with grief**; and as one from whom men hide their faces he was despised, and we esteemed him not. Surely **he has borne our griefs and carried our sorrows**; yet we esteemed him stricken, smitten by God, and afflicted. — Isaiah 53:3-4 (ESV)

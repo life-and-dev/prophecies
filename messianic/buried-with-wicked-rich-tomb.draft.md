@@ -1,5 +1,9 @@
 # Buried with Wicked, Yet in Rich Man's Tomb
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes the dual fulfillment of being crucified between two criminals (buried with the wicked) and being buried in Joseph of Arimathea's wealthy tomb (with the rich in his death).
+
 ## The Prophecy
 
 > And they made **his grave with the wicked and with a rich man in his death**, although **he had done no violence, and there was no deceit in his mouth**. Yet it was the will of the LORD to crush him; he has put him to grief; **when his soul makes an offering for guilt**, he shall see his offspring; he shall prolong his days; the will of the LORD shall prosper in his hand. — Isaiah 53:9-10 (ESV)

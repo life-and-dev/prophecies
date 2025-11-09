@@ -1,5 +1,9 @@
 # Ascended to God's Right Hand
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes multiple eyewitness testimony of Jesus' ascension to heaven in Jerusalem, with Stephen later seeing him "standing at the right hand of God" shortly before his martyrdom.
+
 ## The Prophecy
 
 As noted in the "Lord at God's Right Hand" prophecy, Psalm 110:1 prophesied:

@@ -1,5 +1,9 @@
 # Pierced for Our Transgressions
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes the literal piercing of Jesus on the cross (nails and spear) and the development of vicarious atonement theology in early Christianity based on his sacrificial death.
+
 ## The Prophecy
 
 > But **he was pierced for our transgressions; he was crushed for our iniquities**; upon him was the chastisement that brought us peace, and **with his wounds we are healed**. All we like sheep have gone astray; we have turned—every one—to his own way; and **the LORD has laid on him the iniquity of us all**. — Isaiah 53:5-6 (ESV)

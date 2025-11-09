@@ -1,5 +1,9 @@
 # The Prophet Like Moses
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes miraculous provision of food like Moses' manna and covenant mediation establishing reconciliation, along with first-century recognition by crowds who witnessed the feeding miracle.
+
 ## The Prophecy
 
 Moses, the great lawgiver, predicted a future prophet who would surpass even his own authority:

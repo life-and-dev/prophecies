@@ -1,5 +1,9 @@
 # The Seed of the Woman
 
+> **Fulfillment Category:** Misunderstood Context
+>
+> The original text clearly refers to explaining the ongoing conflict between humans and snakes after the Fall in Eden, not a messianic prediction. Christians apply it to Jesus through typological interpretation, seeing Jesus as fulfilling a pattern rather than a direct prediction.
+
 ## The Prophecy
 
 The first messianic prophecy appears immediately after the Fall, when God addresses the serpent (Satan):

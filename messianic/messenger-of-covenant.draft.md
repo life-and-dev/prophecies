@@ -1,5 +1,9 @@
 # Messenger of the Covenant
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The assessment depends on whether one accepts functional fulfillment ("in the spirit of Elijah") vs. literal fulfillment, spiritual purification of believers as priests vs. restoration of Levitical priesthood, and new covenant as fulfillment vs. replacement of old covenant.
+
 ## The Prophecy
 
 Malachi, the last prophet of the Old Testament, prophesied about a messenger who would prepare the way for the Lord's coming:

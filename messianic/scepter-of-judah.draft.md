@@ -1,5 +1,9 @@
 # The Scepter of Judah
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. While Jesus' Davidic lineage through Judah is documented, the "obedience of the peoples" remains disputed between spiritual and political interpretations.
+
 ## The Prophecy
 
 Jacob, blessing his sons before death, prophesied about Judah's line:

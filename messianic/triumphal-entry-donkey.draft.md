@@ -1,5 +1,9 @@
 # Triumphal Entry on a Donkey
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The donkey entry is historically documented and matches the prophecy, but the immediate context (peace, disarmament, worldwide rule) remains unfulfilled, requiring two-stage framework.
+
 ## The Prophecy
 
 Zechariah foresaw the Messiah's entry into Jerusalem:

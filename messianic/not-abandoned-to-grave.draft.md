@@ -1,5 +1,9 @@
 # Not Abandoned to the Grave
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes the third-day resurrection before bodily decomposition could occur, along with Peter's apostolic argument in Acts 2:27-31 explicitly applying this psalm to Jesus' resurrection.
+
 ## The Prophecy
 
 David wrote prophetically:

@@ -1,5 +1,9 @@
 # Given All Authority
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The interpretation depends on whether Son of Man is individual (Christian) or collective Israel (Jewish), whether coming to Ancient of Days is ascension or future earthly arrival, and whether universal service can be progressive or must be immediate and complete.
+
 ## The Prophecy
 
 Daniel's apocalyptic vision foretold universal dominion:

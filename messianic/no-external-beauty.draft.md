@@ -1,5 +1,9 @@
 # No External Beauty
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes Jesus' humble circumstances growing up in insignificant Nazareth, a town so obscure that Nathanael asked, "Can anything good come out of Nazareth?"
+
 ## The Prophecy
 
 > Who has believed what he has heard from us? And to whom has the arm of the LORD been revealed? For he grew up before him like a young plant, and like a root out of dry ground; **he had no form or majesty that we should look at him, and no beauty that we should desire him**. — Isaiah 53:1-2 (ESV)

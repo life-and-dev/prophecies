@@ -1,5 +1,9 @@
 # Betrayed for Thirty Pieces of Silver
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The passage is not considered messianic by Jewish scholars and likely refers to a symbolic prophetic action in Zechariah's own time rather than a future prediction.
+
 ## The Prophecy
 
 Zechariah recorded a symbolic act involving a specific price:

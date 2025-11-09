@@ -1,5 +1,9 @@
 # Cry of Forsakenness
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes Jesus quoting Psalm 22:1 word-for-word from the cross ("My God, my God, why have you forsaken me?"), documented in both Matthew and Mark's Gospels.
+
 ## The Prophecy
 
 > **My God, my God, why have you forsaken me?** — Psalm 22:1 (ESV)

@@ -1,5 +1,9 @@
 # Makes Many Righteous
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes Jesus himself quoting Isaiah 53:12, his crucifixion between criminals as "numbered with the transgressors," and the development of justification theology throughout the New Testament.
+
 ## The Prophecy
 
 > Out of the anguish of his soul he shall see and be satisfied; by his knowledge shall the righteous one, my servant, **make many to be accounted righteous**, and he shall bear their iniquities. Therefore I will divide him a portion with the many, and he shall divide the spoil with the strong, because he poured out his soul to death and **was numbered with the transgressors**; yet **he bore the sin of many, and makes intercession for the transgressors**. — Isaiah 53:11-12 (ESV)

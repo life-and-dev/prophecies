@@ -1,5 +1,9 @@
 # Money Thrown in Temple, Used for Potter's Field
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. This passage shares the same context as the thirty silver pieces prophecy and likely refers to Zechariah's symbolic action, though the specific details about the potter are remarkable.
+
 ## The Prophecy
 
 > Then the LORD said to me, "**Throw it to the potter**"—the lordly price at which I was priced by them. So I took the thirty pieces of silver and **threw them into the house of the LORD, to the potter**. — Zechariah 11:13 (ESV)

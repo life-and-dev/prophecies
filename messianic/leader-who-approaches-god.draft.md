@@ -1,5 +1,9 @@
 # Leader Who Approaches God
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The passage is not considered messianic by Jewish tradition and could refer to post-exilic leaders like Zerubbabel rather than a future Messiah.
+
 ## The Prophecy
 
 Jeremiah prophesied about a unique leader with unprecedented access to God:

@@ -1,5 +1,9 @@
 # Born in Bethlehem
 
+> **Fulfillment Category:** Vague or Debatable
+>
+> This prophecy either lacks specific details or its original context makes messianic interpretation questionable. The literal birth in Bethlehem is historically documented and specific, but the contextual requirements (peace, security, military deliverance) remain unfulfilled, creating legitimate tension.
+
 ## The Prophecy
 
 The prophet Micah, writing approximately 700 BC during the reigns of Jotham, Ahaz, and Hezekiah (Micah 1:1), specified the Messiah's birthplace:

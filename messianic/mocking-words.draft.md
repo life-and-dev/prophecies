@@ -1,5 +1,9 @@
 # Mocking Words
 
+> **Fulfillment Category:** Complete Fulfillment
+>
+> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes the mockers at the crucifixion unknowingly quoting Psalm 22:8 verbatim: "He trusts in the LORD; let the LORD rescue him."
+
 ## The Prophecy
 
 > All who see me mock me; they make mouths at me; they wag their heads; **"He trusts in the LORD; let him deliver him; let him rescue him, for he delights in him!"** — Psalm 22:7-8 (ESV)

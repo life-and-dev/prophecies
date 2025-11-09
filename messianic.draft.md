@@ -18,7 +18,7 @@ Luke, who gathered many witness accounts, recorded:
 
 > Beginning with **Moses and all the Prophets**, he *(Jesus)* interpreted to them in all the Scriptures the things concerning himself. — Luke 24:27 (ESV)
 
-The Old Testament was completed ~400 BC (Malachi). The **Dead Sea Scrolls** (discovered 1947) contain complete copies of Isaiah and other prophetic books dating to ~200 BC—**before Jesus was born**.
+The Old Testament was completed ~400 BC (Malachi). The **Dead Sea Scrolls** (discovered 1947) contain complete copies of Isaiah and other prophetic books dating to ~200 BC—**before Jesus was born** (see [Britannica: Dead Sea Scrolls](https://www.britannica.com/topic/Dead-Sea-Scrolls)).
 
 No one can claim the prophecies were written after the fact. They're documented in manuscripts predating Jesus by centuries.
 
@@ -28,13 +28,13 @@ Jesus claimed that the Old Testament Scriptures testified about him. The questio
 
 Not all prophecies are equally clear or compelling. To help you focus on the strongest evidence, each prophecy is categorized by fulfillment strength:
 
-**Complete Fulfillment (13 prophecies)** - Christians present strong evidence that Jesus fulfilled the entire prophecy as originally described. These prophecies contain specific, verifiable details that match historical records of Jesus' life.
+**Complete Fulfillment** - Christians present strong evidence that Jesus fulfilled the entire prophecy as originally described. These prophecies contain specific, verifiable details that match historical records of Jesus' life.
 
-**Vague or Debatable (23 prophecies)** - Jesus could have fulfilled these prophecies, but they are either so general that they could apply to others, or the original context makes it unclear whether they are messianic predictions at all. These rely heavily on interpretation rather than specific details. The individual prophecy files conclude with "Possibly" or "Debatable" as their strength of fulfillment.
+**Vague** - Jesus could have fulfilled these prophecies, but they are either so general that they could apply to others, or the original context makes it unclear whether they are messianic predictions at all. These rely heavily on interpretation rather than specific details.
 
-**Partially Fulfilled (1 prophecy)** - Only part of the prophecy has been fulfilled according to the original text. Christians argue the remaining portions will be fulfilled at Jesus' second coming due to the dual-nature of messianic prophecy (suffering servant at first coming, conquering king at second coming). Jews argue a true Messiah should fulfill all prophecies in one lifetime.
+**Partially Fulfilled** - Only part of the prophecy has been fulfilled according to the original text. Christians argue the remaining portions will be fulfilled at Jesus' second coming due to the dual-nature of messianic prophecy (suffering servant at first coming, conquering king at second coming). Jews argue a true Messiah should fulfill all prophecies in one lifetime.
 
-**Misunderstood Context (3 prophecies)** - The original text clearly refers to something else (Israel's history, David's life, etc.), but Christians apply them to Jesus through typological interpretation—seeing Jesus as fulfilling a pattern, not a direct prediction. Jews reject this interpretive method.
+**Misunderstood Context** - The original text clearly refers to something else (Israel's history, David's life, etc.), but Christians apply them to Jesus through typological interpretation—seeing Jesus as fulfilling a pattern, not a direct prediction. Jews reject this interpretive method.
 
 ---
 
@@ -58,9 +58,9 @@ These prophecies contain specific details that were demonstrably fulfilled in Je
 | Buried with Wicked, Yet in Rich Man's Tomb | Isaiah 53:9-10 | Dual fulfillment: crucified with criminals, buried in Joseph's tomb | [Read more](prophecies/messianic/buried-with-wicked-rich-tomb.md) |
 | Makes Many Righteous | Isaiah 53:11-12 | Jesus cited it, crucified with criminals, NT justification theology | [Read more](prophecies/messianic/makes-many-righteous.md) |
 
-## Vague or Debatable
+## Vague
 
-These prophecies either lack specific details, or their original context makes messianic interpretation questionable. They could apply to Jesus, but could also fit other interpretations. The individual prophecy files conclude with "Possibly" or "Debatable" as their strength of fulfillment.
+These prophecies either lack specific details, or their original context makes messianic interpretation questionable. They could apply to Jesus, but could also fit other interpretations.
 
 | Prophecy | Reference | Why Debatable | Link |
 |----------|-----------|---------------|------|

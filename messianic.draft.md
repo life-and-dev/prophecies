@@ -44,7 +44,6 @@ These prophecies contain specific details that were demonstrably fulfilled in Je
 
 | Prophecy | Reference | Key Evidence | Link |
 |----------|-----------|--------------|------|
-| No External Beauty | Isaiah 53:1-2 | Humble circumstances from insignificant town | [Read more](prophecies/messianic/no-external-beauty.md) |
 | Despised and Rejected | Isaiah 53:3-4 | Historical record of rejection by leaders and people | [Read more](prophecies/messianic/despised-and-rejected.md) |
 | Pierced for Our Transgressions | Isaiah 53:5-6 | Literal piercing documented, NT vicarious atonement theology | [Read more](prophecies/messianic/pierced-for-transgressions.md) |
 | Silent Before Accusers | Isaiah 53:7-8 | Historical accounts record unusual silence during trial | [Read more](prophecies/messianic/silent-before-accusers.md) |
@@ -101,3 +100,21 @@ These passages clearly refer to Israel's history or other subjects in their orig
 | Garments Divided by Casting Lots | Psalm 22:18 | Roman soldiers spontaneously fulfilled dual action | [Read more](prophecies/messianic/garments-divided-lots.md) |
 | Out of Egypt | Hosea 11:1 | Israel's historical exodus from Egypt | Matthew uses typology: Jesus recapitulates Israel's story | [Read more](prophecies/messianic/out-of-egypt.md) |
 | Resurrection on the Third Day | Hosea 6:2 | Israel's national restoration in 2-3 days | Christians see pattern/typology in third-day resurrection | [Read more](prophecies/messianic/resurrection-third-day.md) |
+| Dominion Over Creation | Psalm 8:4-6 | Celebrating humanity's honored position in creation | Hebrews applies to Jesus' authority over creation | [Read more](prophecies/messianic/dominion-over-creation.md) |
+| The LORD Lives, Ruling Over Gentiles | Psalm 18:46-50 | David's thanksgiving for his own military victories | Both David and Jesus ruled gentiles, but this is David's psalm | [Read more](prophecies/messianic/lord-lives-ruling-gentiles.md) |
+| The LORD Saves His Anointed | Psalm 20:6-9 | Prayer for Israel's king going into battle | David was anointed; God didn't protect Jesus as promised here | [Read more](prophecies/messianic/lord-saves-his-anointed.md) |
+| Crown of Gold and Eternal Life | Psalm 21:3-4 | Celebrating the king's victory with a gold crown | Jesus received a crown of thorns, not gold | [Read more](prophecies/messianic/crown-of-gold-eternal-life.md) |
+| The King of Glory Entering Gates | Psalm 24:7-10 | God (YHWH) entering Jerusalem in liturgical procession | Applied to Jesus' triumphal entry or ascension | [Read more](prophecies/messianic/king-of-glory-entering-gates.md) |
+| Into Your Hand I Commit My Spirit | Psalm 31:5 | David's prayer for deliverance from enemies | Jesus quoted one line while dying on the cross | [Read more](prophecies/messianic/commit-my-spirit.md) |
+| Sacrifice and Offering You Did Not Desire | Psalm 40:6-8 | David's words acknowledging his own iniquities | Hebrews applies to Jesus' incarnation despite sin confession | [Read more](prophecies/messianic/sacrifice-not-desired.md) |
+| Your Throne, O God, Is Forever | Psalm 45:6-7 | Royal wedding song with earthly details | Hebrews extracts two verses about eternal throne | [Read more](prophecies/messianic/your-throne-o-god.md) |
+| The LORD Most High Is Awesome | Psalm 47:2,5,9 | Celebrating God (YHWH) as King over all earth | Applied to Jesus' ascension; God doesn't exalt himself | [Read more](prophecies/messianic/lord-most-high-awesome.md) |
+| Ascended on High, Led Captives | Psalm 68:18 | God receiving tribute after military victory | Paul changes "received" to "gave" gifts for Christ's ascension | [Read more](prophecies/messianic/ascended-on-high.md) |
+| I Will Open My Mouth in Parables | Psalm 78:2 | Historical recitation of Israel's story as a lesson | Matthew applies to Jesus' distinctive teaching method | [Read more](prophecies/messianic/speaking-in-parables.md) |
+| I Said, You Are Gods | Psalm 82:6 | Addressing corrupt human judges who will die | Jesus used defensively to counter blasphemy charges | [Read more](prophecies/messianic/you-are-gods.md) |
+| Covenant with My Chosen, David | Psalm 89:3-4,26-29 | God's covenant with David about his dynasty ("his sons") | Jesus had no biological children for dynastic succession | [Read more](prophecies/messianic/covenant-with-david-psalm.md) |
+| He Will Command His Angels Concerning You | Psalm 91:11-12 | General promise for anyone trusting God | Satan quoted this; promises long life unlike Jesus' brief life | [Read more](prophecies/messianic/angels-bear-you-up.md) |
+| Let All God's Angels Worship Him | Psalm 97:7 | Worship directed to YHWH (the LORD) throughout psalm | Hebrews applies to Son; Jesus taught worship the Father | [Read more](prophecies/messianic/angels-worship-him.md) |
+| You Laid the Foundation of the Earth | Psalm 102:25-27 | Prayer to YHWH contrasting mortality with God's eternality | Hebrews reframes prayer to God as words about the Son | [Read more](prophecies/messianic/laid-foundation-of-earth.md) |
+| May Another Take His Office | Psalm 109:8 | David's curse prayer against his personal enemies | Peter applied general principle to replace Judas | [Read more](prophecies/messianic/another-take-his-office.md) |
+| The Stone the Builders Rejected | Psalm 118:22 | Thanksgiving hymn with one metaphor of vindication | Jesus and apostles applied imagery to his rejection | [Read more](prophecies/messianic/stone-builders-rejected.md) |

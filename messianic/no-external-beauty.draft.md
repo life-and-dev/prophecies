@@ -1,18 +1,27 @@
 # No External Beauty
 
-> **Fulfillment Category:** Complete Fulfillment
->
-> This prophecy contains specific, verifiable details that were demonstrably fulfilled in Jesus' documented life. The evidence includes Jesus' humble circumstances growing up in insignificant Nazareth, a town so obscure that Nathanael asked, "Can anything good come out of Nazareth?"
-
 ## The Prophecy
 
 > Who has believed what he has heard from us? And to whom has the arm of the LORD been revealed? For he grew up before him like a young plant, and like a root out of dry ground; **he had no form or majesty that we should look at him, and no beauty that we should desire him**. — Isaiah 53:1-2 (ESV)
 
-No external beauty or royal appearance—easily overlooked.
+## Fulfillment
 
-## Fulfillment in Jesus
+Isaiah's prophecy is often misunderstood in the western world that Isaiah prophecied that Jesus would look ugly. However, the Hebrew mindset is not about how things look, but instead what things does. In this case Isaiah prophecied not to expect a royal prince in a beautiful palace to proclaim the Messiah title.
 
-Jesus grew up in humble circumstances, not in a palace. He was a carpenter's son from Nazareth, a town so insignificant it provoked the question: "Can anything good come out of Nazareth?" (John 1:46).
+> Philip found Nathanael and said to him, “**We have found him of whom Moses in the Law and also the prophets wrote**, Jesus of Nazareth, the son of Joseph.”   
+> Nathanael said to him, **“Can anything good come out of Nazareth?”**  
+> Philip said to him, “Come and see.” 
+>
+> Jesus saw Nathanael coming toward him and said of him, “Behold, an Israelite indeed, in whom there is no deceit!”  
+> Nathanael said to him, “How do you know me?”  
+> Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.”  
+> Nathanael answered him, “Rabbi, you are [the Son of God](https://son.ofgod.info)! You are [the King](https://kingdom.ofgod.info/christ) of Israel!”  
+> Jesus answered him, “Because I said to you, ‘I saw you under the fig tree,’ do you believe? You will see greater things than these.”  
+> And he said to him, “Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on [the Son of Man](https://son.ofgod.info/son-of-man).”
+>
+> — John 1:45-51 (ESV)
+
+Jesus grew up in humble circumstances, not in a palace. He was a carpenter's son from Nazareth, a town so insignificant it provoked the question: *"Can anything good come out of Nazareth?"*
 
 ### Evidence from the New Testament
 

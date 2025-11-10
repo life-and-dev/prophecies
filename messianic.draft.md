@@ -44,13 +44,6 @@ These prophecies contain specific details that were demonstrably fulfilled in Je
 
 | Prophecy | Reference | Key Evidence | Link |
 |----------|-----------|--------------|------|
-| The Prophet Like Moses | Deuteronomy 18:15,18-19 | Miraculous provision, covenant mediation, first-century recognition | [Read more](prophecies/messianic/prophet-like-moses.md) |
-| Not Abandoned to the Grave | Psalm 16:10-11 | Peter's apostolic argument, third-day resurrection before decomposition | [Read more](prophecies/messianic/not-abandoned-to-grave.md) |
-| Cry of Forsakenness | Psalm 22:1 | Jesus quoted Psalm 22:1 word-for-word from the cross | [Read more](prophecies/messianic/cry-of-forsakenness.md) |
-| Mocking Words | Psalm 22:7-8 | Mockers unknowingly quoted Psalm 22:8 verbatim | [Read more](prophecies/messianic/mocking-words.md) |
-| Garments Divided by Casting Lots | Psalm 22:18 | Roman soldiers spontaneously fulfilled dual action | [Read more](prophecies/messianic/garments-divided-lots.md) |
-| Ascended to God's Right Hand | Psalm 110:1 | Multiple eyewitnesses, early church testimony in Jerusalem | [Read more](prophecies/messianic/ascended-gods-right-hand.md) |
-| The Beloved Servant of God | Isaiah 42:1-3 | Matthew's citation, God's declarations, Spirit-empowerment | [Read more](prophecies/messianic/beloved-servant.md) |
 | No External Beauty | Isaiah 53:1-2 | Humble circumstances from insignificant town | [Read more](prophecies/messianic/no-external-beauty.md) |
 | Despised and Rejected | Isaiah 53:3-4 | Historical record of rejection by leaders and people | [Read more](prophecies/messianic/despised-and-rejected.md) |
 | Pierced for Our Transgressions | Isaiah 53:5-6 | Literal piercing documented, NT vicarious atonement theology | [Read more](prophecies/messianic/pierced-for-transgressions.md) |
@@ -103,5 +96,8 @@ These passages clearly refer to Israel's history or other subjects in their orig
 | Prophecy | Reference | Original Context | Christian Application | Link |
 |----------|-----------|------------------|----------------------|------|
 | The Seed of the Woman | Genesis 3:15 | Explaining human-snake conflict after Eden | Christians see proto-gospel, Jesus crushing Satan | [Read more](prophecies/messianic/seed-of-woman.md) |
+| Cry of Forsakenness | Psalm 22:1 | Jesus quoted Psalm 22:1 word-for-word from the cross | [Read more](prophecies/messianic/cry-of-forsakenness.md) |
+| Mocking Words | Psalm 22:7-8 | Mockers unknowingly quoted Psalm 22:8 verbatim | [Read more](prophecies/messianic/mocking-words.md) |
+| Garments Divided by Casting Lots | Psalm 22:18 | Roman soldiers spontaneously fulfilled dual action | [Read more](prophecies/messianic/garments-divided-lots.md) |
 | Out of Egypt | Hosea 11:1 | Israel's historical exodus from Egypt | Matthew uses typology: Jesus recapitulates Israel's story | [Read more](prophecies/messianic/out-of-egypt.md) |
 | Resurrection on the Third Day | Hosea 6:2 | Israel's national restoration in 2-3 days | Christians see pattern/typology in third-day resurrection | [Read more](prophecies/messianic/resurrection-third-day.md) |

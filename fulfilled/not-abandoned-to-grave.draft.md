@@ -1,3 +1,8 @@
+---
+description: Psalm 16 prophesied Messiah would not see corruption in the grave, fulfilled in Jesus' resurrection before bodily decay.
+keywords: resurrection, Psalm 16, not abandoned, grave, corruption, bodily decay, Acts 2, Peter Pentecost, three days
+---
+
 # Not Abandoned to the Grave
 
 ## The Prophecy
@@ -15,7 +20,7 @@ The apostle Peter preached at Pentecost:
 
 According to Peter the prophecy was fulfilled because:
 
-* Jesus is a decendant of David
+* Jesus is a descendant of David
 * Jesus' body did not "see corruption" (decay)
 * Jesus was "raised up" (resurrected)
 
@@ -42,7 +47,7 @@ The Jews does not view this psalm as a Messianic prophecy.
 
 1. **Peter's argument**: Peter explicitly argues David couldn't be speaking about himself because David died and his tomb remained. Therefore, David spoke prophetically about Messiah (Acts 2:29-31).
 
-2. **Translation error**: The Jews are correct. Sheol does not mean hell. Before the concept of "Hades" existed (Greek metheology), the general understanding was that when one dies, you are destroyed. Sheol was known graveyard where dead bodies decompose which actually support Peter's view of the resurrection because David prophecied that "the Holy One" will not decay in a grave.
+2. **Translation error**: The Jews are correct. Sheol does not mean hell. Before the concept of "Hades" existed (Greek mythology), the general understanding was that when one dies, you are destroyed. Sheol was known graveyard where dead bodies decompose which actually support Peter's view of the resurrection because David prophesied that "the Holy One" will not decay in a grave.
 
 3. **"See corruption" implies resurrection**: It is debatable what the word "corruption" technically mean. [The Hebrew word "shachath"](https://biblehub.com/hebrew/7845.htm) [translated as "corruption"](https://biblehub.com/interlinear/psalms/16-10.htm) could also mean: pit (a grave in the ground) or destruction.  So David could have meant one of 3 possibilities which all support the Christian view:
   - The holy one would not be buried in a pit (grave hole in the ground) - Instead, Jesus' body was put in a rich man's tomb, locked behind a stone protected by Roman guards.

@@ -1,3 +1,8 @@
+---
+description: Moses prophesied God would raise a prophet-mediator like himself, fulfilled in Jesus as covenant intermediary and reconciler.
+keywords: prophet like Moses, Deuteronomy 18, covenant mediator, reconciliation, John 6, Acts 3, feeding 5000, new covenant
+---
+
 # The Prophet Like Moses
 
 ## The Prophecy

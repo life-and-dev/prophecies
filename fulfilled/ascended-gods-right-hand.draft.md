@@ -1,3 +1,8 @@
+---
+description: Jesus ascended to God's right hand fulfilling Psalm 110:1, witnessed by disciples and testified by apostles.
+keywords: ascension, right hand of God, Psalm 110, Jesus ascension, Mark 16:19, Acts 2, exaltation, session at God's right hand
+---
+
 # Ascended to God's Right Hand
 
 ## The Prophecy
@@ -30,4 +35,4 @@ Jews debate whether Psalm 110 is messianic. Some interpretations suggest David s
 - **Current position** (Colossians 3:1): Jesus currently seated there
 - **Intercession** (Romans 8:34): Christ intercedes at God's right hand
 
-**Present reality**: Unlike other prophecies awaiting future fulfillment, this is currently true—Jesus is now seated at God's right hand, interceding for believers and reigning until all enemies are subdued. Paul including many modern time Christians testify that they saw Jesus appeart to them in visions.
+**Present reality**: Unlike other prophecies awaiting future fulfillment, this is currently true—Jesus is now seated at God's right hand, interceding for believers and reigning until all enemies are subdued. Paul including many modern time Christians testify that Jesus appeared to them in visions.

@@ -40,7 +40,7 @@ The psalm is understood as prophesying either Jesus' triumphal entry into Jerusa
    - "Who is this King of glory? **The LORD**, strong and mighty"
    - "Who is this King of glory? **The LORD of hosts**"
 
-   This is about God (YHWH), not about a separate messianic figure. If Christians interpret this as Jesus, they must argue Jesus is YHWH—which creates theological complexity.
+   This is about God (YHWH), not about a separate messianic figure. If Christians interpret this as Jesus, they must argue Jesus is YHWH, which creates theological complexity.
 
 2. **"Everlasting doors" don't match Jerusalem's literal gates**: The phrase "ancient doors" or "everlasting doors" (Hebrew: *pitchei olam*) suggests eternal, timeless gates. Jerusalem's literal city gates were:
    - Built in historical time

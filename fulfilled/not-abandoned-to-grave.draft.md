@@ -31,13 +31,13 @@ Other witnesses that testified:
 
 ## Jewish Objections
 
-The Jews does not view this psalm as a Messianic prophecy.
+Judaism does not view this psalm as a Messianic prophecy. [Traditional rabbinic sources](https://www.ariel.org/arnold-answered/doesnt-psalm-1610-refer-to-david-since-david-seems-to-be-speaking-about-himself-in-the-psalm) consistently interpret Psalm 16 as David speaking about himself rather than the Messiah.
 
-1. **David speaking about himself**: The entire psalm is first-person ("my," "me," "I")—David expressing confidence God will protect him from death during his lifetime.
+1. **David speaking about himself**: The entire psalm is first-person ("my," "me," "I"). David is expressing confidence God will protect him from death during his lifetime.
 
-2. **Sheol doesn't mean hell**: In Hebrew thought, Sheol is the grave or realm of the dead—everyone goes there. "Not abandon to Sheol" means "preserve from death" or "rescue from dying," not "resurrect after death." However, Jesus was put in a grave.
+2. **Sheol doesn't mean hell**: In Hebrew thought, Sheol is the grave or realm of the dead. Everyone goes there. "Not abandon to Sheol" means "preserve from death" or "rescue from dying," not "resurrect after death." However, Jesus was put in a grave.
 
-3. **"See corruption" means "experience death"**: The phrase means "don't let me die" or "protect me from decay while alive"—a prayer for protection from premature death, not prediction of resurrection.
+3. **"See corruption" means "experience death"**: The phrase means "don't let me die" or "protect me from decay while alive." This is a prayer for protection from premature death, not prediction of resurrection.
 
 4. **David's confidence fulfilled**: God did protect David from many dangers. The psalm was fulfilled in David's own experience.
 
@@ -47,7 +47,7 @@ The Jews does not view this psalm as a Messianic prophecy.
 
 1. **Peter's argument**: Peter explicitly argues David couldn't be speaking about himself because David died and his tomb remained. Therefore, David spoke prophetically about Messiah (Acts 2:29-31).
 
-2. **Translation error**: The Jews are correct. Sheol does not mean hell. Before the concept of "Hades" existed (Greek mythology), the general understanding was that when one dies, you are destroyed. Sheol was known graveyard where dead bodies decompose which actually support Peter's view of the resurrection because David prophesied that "the Holy One" will not decay in a grave.
+2. **Sheol and the grave**: The Jewish understanding of Sheol is correct. Sheol does not mean hell. Before the concept of "Hades" existed (Greek mythology), the general understanding was that when one dies, you are destroyed. Sheol was the graveyard where dead bodies decompose. This actually supports Peter's view of the resurrection because David prophesied that "the Holy One" will not decay in a grave.
 
 3. **"See corruption" implies resurrection**: It is debatable what the word "corruption" technically mean. [The Hebrew word "shachath"](https://biblehub.com/hebrew/7845.htm) [translated as "corruption"](https://biblehub.com/interlinear/psalms/16-10.htm) could also mean: pit (a grave in the ground) or destruction.  So David could have meant one of 3 possibilities which all support the Christian view:
   - The holy one would not be buried in a pit (grave hole in the ground) - Instead, Jesus' body was put in a rich man's tomb, locked behind a stone protected by Roman guards.

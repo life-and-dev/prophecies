@@ -60,7 +60,7 @@ Although Jesus completely fulfills the prophecy, there were many other great "se
 
 For example:
 
-- David — a shepherd anointed by Samuel before he was publicly known (1 Samuel 16:11-13); his shepherd background is emphasized (1 Samuel 17:34-37).
-- Amos — explicitly describes himself as not being a professional prophet but a shepherd and a dresser of sycamore trees (Amos 7:14-15).
-- The Twelve (including fishermen like Peter and Andrew) — ordinary working men called from their nets to follow Jesus (Matthew 4:18-22).
-- John the Baptist — lived and ministered in the wilderness, wore rough clothing, and had no courtly standing (Matthew 3:4; Mark 1:6; Luke 1:80).
+- David: a shepherd anointed by Samuel before he was publicly known (1 Samuel 16:11-13); his shepherd background is emphasized (1 Samuel 17:34-37).
+- Amos: explicitly describes himself as not being a professional prophet but a shepherd and a dresser of sycamore trees (Amos 7:14-15).
+- The Twelve (including fishermen like Peter and Andrew): ordinary working men called from their nets to follow Jesus (Matthew 4:18-22).
+- John the Baptist: lived and ministered in the wilderness, wore rough clothing, and had no courtly standing (Matthew 3:4; Mark 1:6; Luke 1:80).

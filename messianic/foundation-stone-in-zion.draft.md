@@ -26,7 +26,7 @@ The cornerstone metaphor is architectural—the first stone laid, determining th
 
 ## Fulfillment in Jesus
 
-Paul explicitly applied this prophecy to Jesus Christ and salvation through faith:
+Christians believe this prophecy was fulfilled in Jesus Christ. Paul explicitly applied this prophecy to Jesus Christ and salvation through faith:
 
 > Brothers, my heart's desire and prayer to God for them is that they may be saved... For, being ignorant of the righteousness of God, and seeking to establish their own, they did not submit to God's righteousness. For **Christ is the end of the law for righteousness to everyone who believes**.
 >
@@ -48,7 +48,7 @@ And Paul wrote to the Ephesian church:
 - **Faith-based** (Romans 10:9-11): Salvation through believing in Jesus
 - **Never put to shame** (Romans 10:11; 1 Peter 2:6): Believers will not be disappointed
 
-Jesus Christ is the foundation stone—the cornerstone upon which God builds His church. Everyone who believes in him will never be put to shame.
+Christians believe Jesus Christ is the foundation stone, the cornerstone upon which God builds His church. Everyone who believes in him will never be put to shame.
 
 ## Jewish Perspective
 
@@ -100,7 +100,7 @@ Jesus Christ is the foundation stone—the cornerstone upon which God builds His
 
 ## Assessment
 
-**Christian View**: Jesus is the cornerstone God laid in Zion—the tested, precious foundation upon which God builds His people. Everyone who believes in Jesus will never be put to shame or disappointed.
+**Christian View**: Christians believe Jesus is the cornerstone God laid in Zion, the tested, precious foundation upon which God builds His people. Everyone who believes in Jesus will never be put to shame or disappointed.
 
 **Strength of Fulfillment**: Debatable. The apostolic application to Jesus by both Peter and Paul is clear and consistent. The faith-based language ("whoever believes") fits Christian theology of salvation through faith in Christ. However, Jews legitimately question whether Isaiah 28:16 was originally messianic or described God's standard/remnant in immediate historical context. The interpretation hinges on whether:
 - Stone imagery in Isaiah is messianic or metaphorical for community/Torah

@@ -48,7 +48,7 @@ The psalm is understood as describing the Messiah's ultimate victory and worldwi
    - He defeated nations and expanded Israel's territory
    - He gave thanks for these victories
 
-3. **David also ruled over gentiles**: David conquered and ruled over numerous gentile nations—the Philistines, Moabites, Ammonites, Edomites, Arameans, and others (2 Samuel 8). The psalm's reference to subduing peoples and ruling nations describes David's historical military victories.
+3. **David also ruled over gentiles**: David conquered and ruled over numerous gentile nations. The Philistines, Moabites, Ammonites, Edomites, Arameans, and others (2 Samuel 8). The psalm's reference to subduing peoples and ruling nations describes David's historical military victories.
 
 4. **Praising among gentiles fits David's context**: After conquering gentile nations, David would naturally give thanks to God among those peoples. This is a historical description, not a prophecy.
 

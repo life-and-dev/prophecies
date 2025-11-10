@@ -18,7 +18,7 @@ Luke, who gathered many witness accounts, recorded:
 
 > Beginning with **Moses and all the Prophets**, he *(Jesus)* interpreted to them in all the Scriptures the things concerning himself. — Luke 24:27 (ESV)
 
-The Old Testament was completed ~400 BC (Malachi). The **Dead Sea Scrolls** (discovered 1947) contain complete copies of Isaiah and other prophetic books dating to ~200 BC—**before Jesus was born** (see [Britannica: Dead Sea Scrolls](https://www.britannica.com/topic/Dead-Sea-Scrolls)).
+The Old Testament was completed ~400 BC (Malachi). The **Dead Sea Scrolls** (discovered 1947) contain complete copies of Isaiah and other prophetic books dating to ~200 BC. **Before Jesus was born** (see [Britannica: Dead Sea Scrolls](https://www.britannica.com/topic/Dead-Sea-Scrolls)).
 
 No one can claim the prophecies were written after the fact. They're documented in manuscripts predating Jesus by centuries.
 
@@ -90,7 +90,7 @@ These prophecies have elements fulfilled in Jesus' first coming, but significant
 
 ## Misunderstood Context
 
-These passages clearly refer to Israel's history or other subjects in their original context. Christians apply them to Jesus through typological interpretation—arguing Jesus fulfills a pattern rather than a direct prediction. Jews reject this method as reading meaning into the text.
+These passages clearly refer to Israel's history or other subjects in their original context. Christians apply them to Jesus through typological interpretation. They argue Jesus fulfills a pattern rather than a direct prediction. Jews reject this method as reading meaning into the text.
 
 | Prophecy | Reference | Original Context | Christian Application | Link |
 |----------|-----------|------------------|----------------------|------|

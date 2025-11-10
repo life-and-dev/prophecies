@@ -46,11 +46,11 @@ Jesus explicitly claimed to fulfill Isaiah's prophecy and demonstrated it throug
 
 ### Jewish Objections
 
-1. **Incomplete reading**: Jesus stopped mid-sentence at "the year of the LORD's favor" but didn't read the next phrase: "and the day of vengeance of our God" (Isaiah 61:2b). Jews argue the Messiah must fulfill the complete prophecy, including executing divine judgment.
+1. **Incomplete reading**: Jesus stopped mid-sentence at "the year of the LORD's favor" but didn't read the next phrase: "and the day of vengeance of our God" (Isaiah 61:2b). [Jews argue the Messiah must fulfill the complete prophecy](https://hermeneutics.stackexchange.com/questions/66961/from-what-version-of-isaiah-61-was-jesus-reading-in-luke-4), including executing divine judgment.
 
 2. **Physical liberation**: "Liberty to the captives" is understood as literal release of Jewish exiles and prisoners, not merely spiritual freedom. During Jesus' time, Israel remained under Roman occupation.
 
-3. **National restoration**: The full context (Isaiah 61:3-11) describes Israel's national restoration, rebuilding of ruins (Isaiah 61:4), and recognition by all nations (Isaiah 61:11). Jews expect the Messiah to bring immediate national restoration upon his arrival, but during Jesus' time none of this occurred—Israel remained under Roman occupation and conditions deteriorated.
+3. **National restoration**: The full context (Isaiah 61:3-11) describes Israel's national restoration, rebuilding of ruins (Isaiah 61:4), and recognition by all nations (Isaiah 61:11). [Jews expect the Messiah to bring immediate national restoration](https://en.wikipedia.org/wiki/Jewish_views_on_Jesus) upon his arrival, but during Jesus' time none of this occurred. Israel remained under Roman occupation and conditions deteriorated.
 
 4. **Permanent transformation**: The prophecy promises permanent changes ("they shall build up the ancient ruins"), but conditions in Israel worsened after Jesus, culminating in the temple's destruction in 70 AD.
 
@@ -66,7 +66,7 @@ Jesus' deliberate stopping point reveals two distinct comings. The "year of the 
 
 #### 2. Spiritual Primacy
 
-Christians view spiritual liberation as more fundamental than political freedom. Jesus freed humanity from sin, death, and spiritual bondage—a more profound captivity than Roman occupation. The Kingdom of God begins spiritually (Luke 17:21) and will be consummated physically at Christ's return.
+Christians view spiritual liberation as more fundamental than political freedom. Jesus freed humanity from sin, death, and spiritual bondage. A more profound captivity than Roman occupation. The Kingdom of God begins spiritually (Luke 17:21) and will be consummated physically at Christ's return.
 
 **Greater freedom**: "If the Son sets you free, you will be free indeed" (John 8:36). Spiritual freedom from sin's slavery is more valuable than political autonomy without reconciliation with God.
 

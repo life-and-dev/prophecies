@@ -50,7 +50,7 @@ However, Jesus rejected Satan's application of this psalm.
 3. **The psalm promises "long life"**: Verse 16 says:
    > "**With long life I will satisfy him** and show him my salvation."
 
-   Jesus lived only about 33 years—not a long life by ancient standards. People in that era could live 70-80 years or more (Psalm 90:10). Jesus' life was cut short by crucifixion, the opposite of this promise.
+   Jesus lived only about 33 years. Not a long life by ancient standards. People in that era could live 70-80 years or more (Psalm 90:10). Jesus' life was cut short by crucifixion, the opposite of this promise.
 
 4. **The psalm promises protection from harm**: The psalm repeatedly promises:
    - Deliverance from snares and pestilence
@@ -74,7 +74,7 @@ However, Jesus rejected Satan's application of this psalm.
 
    This is wisdom literature offering encouragement to all who trust God, not a specific prophecy about one individual.
 
-7. **The promises are idealized, not absolute**: Like many wisdom psalms, Psalm 91 presents an idealized picture of divine protection for the faithful. It's meant to encourage trust in God, not promise that no harm will ever come to believers. History shows many faithful people suffered (Job, the prophets, martyrs). The psalm is poetic encouragement, not a guarantee—and not a messianic prophecy.
+7. **The promises are idealized, not absolute**: Like many wisdom psalms, Psalm 91 presents an idealized picture of divine protection for the faithful. It's meant to encourage trust in God, not promise that no harm will ever come to believers. History shows many faithful people suffered (Job, the prophets, martyrs). The psalm is poetic encouragement, not a guarantee. And not a messianic prophecy.
 
 8. **Satan's use proves it's not obviously messianic**: If this psalm were clearly about the Messiah, Satan's temptation would make no sense. Satan was testing whether Jesus would presume upon God's protection. The fact that this was presented as a test shows the psalm wasn't understood as exclusively messianic—it was a general promise Satan tried to get Jesus to misapply.
 

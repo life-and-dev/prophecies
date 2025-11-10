@@ -35,4 +35,4 @@ Jews debate whether Psalm 110 is messianic. Some interpretations suggest David s
 - **Current position** (Colossians 3:1): Jesus currently seated there
 - **Intercession** (Romans 8:34): Christ intercedes at God's right hand
 
-**Present reality**: Unlike other prophecies awaiting future fulfillment, this is currently true—Jesus is now seated at God's right hand, interceding for believers and reigning until all enemies are subdued. Paul including many modern time Christians testify that Jesus appeared to them in visions.
+**Present reality**: Unlike other prophecies awaiting future fulfillment, Christians believe this is currently true. Jesus is now seated at God's right hand, interceding for believers and reigning until all enemies are subdued. Paul and many modern Christians testify that Jesus appeared to them in visions.

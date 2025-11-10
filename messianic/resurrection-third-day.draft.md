@@ -37,19 +37,9 @@ Jesus rose on the third day:
 
 **Not Considered Messianic.**
 
-### Jewish Objections
+### Jewish Interpretation
 
-1. **Context: Israel's national restoration**: Hosea 6:1-3 is Israel's call to repentance after judgment. "After two days... on the third day" is metaphorical language about Israel's restoration from exile—the nation will be "revived" after brief punishment. Describes national restoration, not individual resurrection.
-
-2. **"Days" are figurative periods**: The "two days" and "third day" represent short, indefinite periods—not literal 24-hour days. "Day" often symbolizes an era in prophetic literature. The point is God's restoration will come quickly.
-
-3. **Already fulfilled**: Fulfilled when Israel returned from Babylonian exile after ~70 years (a "short time" in covenant history). The nation was "revived" when they rebuilt Jerusalem and temple.
-
-4. **No individual in view**: Pronouns are plural—"us," "we"—clearly referring to Israel collectively, not one person. Nothing suggests individual Messiah.
-
-5. **Jesus' application not in text**: While Jesus predicted his resurrection on third day (Mark 8:31), he didn't explicitly cite Hosea 6:2. The "third day" detail became significant to Christians post-resurrection, but this doesn't make Hosea 6:2 a prophecy about it.
-
-6. **Pattern vs. prophecy**: Even if there's a "third day" pattern in Scripture (Genesis 22:4; Exodus 19:11, 16; Hosea 6:2), this doesn't make each instance a prophecy of Jesus' resurrection. It's a common biblical motif for divine action, not specific prediction.
+Hosea 6:1-3 is understood as Israel's call to repentance after judgment. The "two days" and "third day" are metaphorical language about Israel's restoration from exile. The pronouns are plural ("us," "we"), clearly referring to Israel collectively, not one individual. The "days" represent short, indefinite periods (eras in prophetic literature), not literal 24-hour days. This was fulfilled when Israel returned from Babylonian exile and rebuilt Jerusalem and the temple.
 
 ## Christian Perspective
 

@@ -27,16 +27,16 @@ The mockers unknowingly quoted Psalm 22 verbatim.
 
 ## Jewish Perspective
 
-*See "Jewish Perspective on Psalm 22 (Overview)"—lament psalm, not prophecy.*
+*See "Jewish Perspective on Psalm 22 (Overview)." Lament psalm, not prophecy.*
 
 ## Christian Perspective
 
 ### Response
 
-The remarkable detail is that the mockers quoted Psalm 22:8 almost verbatim without realizing they were fulfilling prophecy. This wasn't something Jesus could control or fabricate—the mockers' spontaneous words matched David's psalm.
+The remarkable detail is that the mockers quoted Psalm 22:8 almost verbatim without realizing they were fulfilling prophecy. This wasn't something Jesus could control or fabricate. The mockers' spontaneous words matched David's psalm.
 
 ## Assessment
 
-**Christian View**: The mockers at Jesus' crucifixion unknowingly quoted Psalm 22:8, fulfilling the prophecy.
+**Christian View**: Christians believe the mockers at Jesus' crucifixion unknowingly quoted Psalm 22:8, fulfilling the prophecy.
 
-**Strength of Fulfillment**: Yes. The verbatim quote by the mockers is striking. This wasn't orchestrated by Jesus—his opponents spontaneously spoke words written 1000 years earlier, matching Psalm 22:8 almost exactly.
+**Strength of Fulfillment**: Yes. The verbatim quote by the mockers is striking. This wasn't orchestrated by Jesus. His opponents spontaneously spoke words written 1000 years earlier, matching Psalm 22:8 almost exactly.

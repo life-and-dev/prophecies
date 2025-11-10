@@ -19,7 +19,7 @@ This prophecy raises a profound question: Who would dare approach the holy God? 
 
 ## Fulfillment in Jesus
 
-Jesus Christ serves as our great high priest who has opened the way for all believers to approach God:
+Christians believe Jesus Christ serves as our great high priest who has opened the way for all believers to approach God:
 
 > Since then we have a great **high priest who has passed through the heavens, Jesus, the Son of God**, let us hold fast our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. **Let us then with confidence draw near to the throne of grace**, that we may receive mercy and find grace to help in time of need. — Hebrews 4:14-16 (ESV)
 
@@ -37,7 +37,7 @@ Through Jesus' sacrificial death, the curtain separating humanity from God was t
 - **Curtain torn** (Matthew 27:51): Barrier removed at Jesus' death
 - **From among the people** (Hebrews 2:17): "He had to be made like his brothers in every respect"
 
-Jesus is the leader who dared approach God—and through him, we too can approach the throne of grace with confidence.
+Christians believe Jesus is the leader who dared approach God. Through him, believers can approach the throne of grace with confidence.
 
 ## Jewish Perspective
 
@@ -79,6 +79,6 @@ Jesus is the leader who dared approach God—and through him, we too can approac
 
 ## Assessment
 
-**Christian View**: Jesus is the leader from among the people who dares approach God with unique authorization, serving as high priest who opens access to God's presence for all believers.
+**Christian View**: Christians believe Jesus is the leader from among the people who dares approach God with unique authorization, serving as high priest who opens access to God's presence for all believers.
 
 **Strength of Fulfillment**: Debatable. The book of Hebrews extensively develops Jesus as the superior high priest who provides unprecedented access to God—this is substantial theological fulfillment. However, Jews legitimately question whether Jeremiah 30:21 was intended as messianic prophecy or described immediate post-exilic leadership. The interpretation depends on whether one reads Jeremiah 30-31 as containing both immediate (return from exile) and ultimate (messianic restoration) fulfillment, and whether the unique "daring to approach" suggests something beyond ordinary high priestly function.

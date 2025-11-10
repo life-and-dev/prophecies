@@ -36,15 +36,9 @@ The Gospel of Matthew establishes Jesus' Judahite lineage:
 
 **Accepted as Messianic.** Genesis 49:10 is universally recognized in Jewish tradition as a prophecy about the Messiah. Ancient Jewish sources (Targum Onkelos, Targum Pseudo-Jonathan, Talmud, Midrash) interpret "until Shiloh comes" or "until tribute comes to him" as referring to the Messiah from Judah's line.
 
-### Jewish Expectations and Objections
+### Jewish Interpretation
 
-1. **Political ruler required**: The "scepter" (שֵׁבֶט, *shevet*) symbolizes royal political authority. Jews expected the Messiah to establish a visible political kingdom ruling from Jerusalem, which Jesus did not do.
-
-2. **Universal obedience not achieved**: "To him shall be the obedience of the peoples" implies the nations would submit to Messiah's rule. The world demonstrably does not obey Jesus as king—wars continue, injustice prevails, and most nations don't acknowledge him.
-
-3. **Timing issue**: Some Jewish scholars argue the scepter did depart from Judah when Rome destroyed Jerusalem (70 AD) and the Jewish political state ended. If Jesus was the Messiah, why did Judah's kingship cease shortly after?
-
-4. **Continuity of rulership**: The phrase "shall not depart" suggests continuous royal authority from Judah's line until Messiah comes. But there were periods without Judahite kings (Babylonian exile, Roman occupation), creating questions about literal fulfillment.
+The "scepter" (שֵׁבֶט, *shevet*) symbolizes royal political authority. Jewish interpretation expects the Messiah to establish a visible political kingdom ruling from Jerusalem. The phrase "to him shall be the obedience of the peoples" implies the nations would submit to Messiah's rule. Christians claim this prophecy points to Jesus, but the world demonstrably does not obey Jesus as king.
 
 ## Christian Perspective
 
@@ -88,4 +82,4 @@ The Gospel of Matthew establishes Jesus' Judahite lineage:
 
 **Christian View**: Jesus, from Judah's tribe, is the prophesied ruler to whom the obedience of peoples belongs. His spiritual kingdom is established, with political manifestation awaiting the second coming.
 
-**Strength of Fulfillment**: Possibly fulfilled. Jesus is demonstrably from Judah's line (genealogical evidence strong). However, "obedience of the peoples" remains disputed—Christians see progressive spiritual fulfillment, while Jews require visible political submission. The interpretation hinges on whether spiritual obedience suffices or whether physical, universal political rule is necessary to fulfill "to him shall be the obedience of the peoples."
+**Strength of Fulfillment**: Possibly fulfilled. Jesus is demonstrably from Judah's line (genealogical evidence strong). However, "obedience of the peoples" remains disputed. Christians see progressive spiritual fulfillment, while Jews require visible political submission. The interpretation hinges on whether spiritual obedience suffices or whether physical, universal political rule is necessary to fulfill "to him shall be the obedience of the peoples."

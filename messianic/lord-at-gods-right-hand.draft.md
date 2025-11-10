@@ -11,7 +11,7 @@ keywords: Psalm 110, right hand of God, Melchizedek priesthood, David's Lord, en
 
 ## The Prophecy
 
-Psalm 110 presents a startling image—David calling his own descendant "Lord":
+Psalm 110 presents a startling image. David calls his own descendant "Lord":
 
 > The LORD *(YHWH)* says to my Lord: **"Sit at my right hand, until I make your enemies your footstool**." The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies! Your people will offer themselves freely on the day of your power, in holy garments; from the womb of the morning, the dew of your youth will be yours. The LORD has sworn and will not change his mind, **"You are a priest forever after the order of Melchizedek."** — Psalm 110:1-4 (ESV)
 
@@ -20,7 +20,7 @@ This Messiah would:
 - Rule over enemies
 - Serve as *eternal priest* (combining king and priest roles)
 
-The Melchizedek reference is significant—this priesthood predates and transcends the Levitical system.
+The Melchizedek reference is significant. This priesthood predates and transcends the Levitical system.
 
 ## Fulfillment in Jesus
 
@@ -48,7 +48,7 @@ Regarding the eternal priesthood:
 - **Eternal priesthood** (Hebrews 5:6; 6:20; 7:17, 21): Jesus priest forever after Melchizedek's order
 - **Current reign** (Ephesians 1:20-22; Colossians 3:1): Jesus currently seated at God's right hand
 
-Jesus serves as both king (Davidic line) and eternal priest (Melchizedek order)—a unique combination.
+Christians believe Jesus serves as both king (Davidic line) and eternal priest (Melchizedek order). This is a unique combination.
 
 ## Jewish Perspective
 
@@ -112,7 +112,7 @@ Jesus serves as both king (Davidic line) and eternal priest (Melchizedek order)�
 
 ## Assessment
 
-**Christian View**: Jesus is the Lord at God's right hand, fulfilling Psalm 110 as the divine Messiah who is both king and eternal priest. His ascension, current session at God's right hand, and role as Melchizedek priest demonstrate fulfillment.
+**Christian View**: Christians believe Jesus is the Lord at God's right hand, fulfilling Psalm 110 as the divine Messiah who is both king and eternal priest. His ascension, current session at God's right hand, and role as Melchizedek priest demonstrate fulfillment.
 
 **Strength of Fulfillment**: Possibly. The evidence is substantial: Jesus' use of the psalm to teach about Messiah's nature, multiple apostolic testimonies of ascension and session at God's right hand, and the unique priest-king combination. However, the visible subjugation of enemies remains incomplete (requiring eschatological fulfillment), and the non-Levitical priesthood is controversial from a Jewish perspective. The interpretation hinges on whether one accepts:
 - Messiah as divine (David's Lord, not just descendant)

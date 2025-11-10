@@ -59,7 +59,7 @@ Christians identify Jesus as the "righteous Branch" from David's line, pointing 
 2. **Israel does not dwell securely**: The prophecy states "**Israel will dwell securely**" (verse 6). This has demonstrably not occurred:
    - Israel was destroyed as a nation in 70 AD
    - Jews have been persecuted throughout history (pogroms, Inquisition, Holocaust)
-   - Even modern Israel (re-established 1948) does not dwell in complete security—surrounded by hostile neighbors, ongoing conflicts
+   - Even modern Israel (re-established 1948) does not dwell in complete security. It is surrounded by hostile neighbors with ongoing conflicts.
    - The Hebrew word for "securely" (בֶּטַח, *betach*) means physical safety and security, not merely spiritual peace
 
 3. **Physical kingdom required**: The prophecy says "**he shall reign as king**" (verse 5). Jews argue this means a literal, visible political reign:
@@ -82,19 +82,19 @@ Christians identify Jesus as the "righteous Branch" from David's line, pointing 
 
 **Spiritual salvation accomplished**: Christians argue that "Judah will be saved" was fulfilled spiritually through Jesus:
 - Thousands of Jews believed in Jesus (Acts 2:41; 4:4; 21:20: "many thousands among the Jews")
-- They experienced spiritual salvation—forgiveness of sins, reconciliation with God, eternal life
+- They experienced spiritual salvation. This includes forgiveness of sins, reconciliation with God, and eternal life.
 - This is the deeper, more important salvation than political deliverance
 
 **Physical salvation postponed**: Christians acknowledge the physical, national salvation has not yet occurred but argue this awaits Christ's second coming:
 - Romans 11:25-27: "All Israel will be saved" is a future promise
 - Zechariah 12:10; 14:1-9 describe a future day when Israel will recognize their Messiah
-- The "already but not yet" kingdom means spiritual salvation came first, physical restoration comes later
+- The "already but not yet" kingdom means spiritual salvation came first. Physical restoration comes later.
 
 **Israel's rejection delayed fulfillment**: Because Israel as a nation rejected Jesus, the physical kingdom blessings were postponed (Matthew 23:37-39; Luke 19:41-44). When they accept him at his return, the full blessings will come.
 
 #### 2. "Dwell Securely" is Future Fulfillment
 
-**Ultimate security through resurrection**: Christians argue the deepest security isn't political but eternal—victory over death. Jesus provides eternal security (John 10:28-29: "No one will snatch them out of my hand").
+**Ultimate security through resurrection**: Christians argue the deepest security isn't political but eternal. It is victory over death. Jesus provides eternal security (John 10:28-29: "No one will snatch them out of my hand").
 
 **Awaits second coming**: Christians point to prophecies about Christ's return when Israel will experience physical security:
 - Ezekiel 34:25-28: God's shepherd will make Israel "dwell securely" with no one to make them afraid
@@ -113,7 +113,7 @@ Christians identify Jesus as the "righteous Branch" from David's line, pointing 
 
 **Physical reign future**: Revelation 20:4-6 describes Jesus reigning on earth for 1,000 years. Christians argue the visible, political reign from Jerusalem awaits the Second Coming (Zechariah 14:9, 16-17).
 
-**Already King, not yet enthroned in Jerusalem**: The kingship exists but full manifestation is future—like a king in exile who will return to claim his throne.
+**Already King, not yet enthroned in Jerusalem**: The kingship exists but full manifestation is future. This is like a king in exile who will return to claim his throne.
 
 #### 4. Return from Exile Still Future
 
@@ -132,24 +132,24 @@ Christians identify Jesus as the "righteous Branch" from David's line, pointing 
 - **First coming** (past): Suffering servant (Isaiah 53), spiritual salvation, kingdom inaugurated
 - **Second coming** (future): Conquering king (Revelation 19), physical restoration, kingdom consummated
 
-**Old Testament didn't distinguish**: The prophets saw the Messiah's work as one event, like looking at two mountain peaks that appear as one from a distance. Only with New Testament revelation did it become clear there are two comings separated by time.
+**Old Testament didn't distinguish**: The prophets saw the Messiah's work as one event. This is like looking at two mountain peaks that appear as one from a distance. Only with New Testament revelation did it become clear there are two comings separated by time.
 
-**Both necessary**: Spiritual salvation had to come first (dealing with sin problem) before physical kingdom could be established. Can't have righteous kingdom with unrighteous hearts.
+**Both necessary**: Spiritual salvation had to come first (dealing with sin problem) before physical kingdom could be established. A righteous kingdom cannot exist with unrighteous hearts.
 
 #### 6. "The LORD is Our Righteousness" Points to Deity
 
 **More than national condition**: Christians argue the name "The LORD is our righteousness" indicates the Messiah's identity, not just Israel's condition:
-- Uses the divine name YHWH (יְהוָה, *Yahweh*)—extremely rare to apply to a human
+- Uses the divine name YHWH (יְהוָה, *Yahweh*). This is extremely rare to apply to a human.
 - Suggests the Messiah himself is the source of righteousness, not just a channel
 - Parallels Isaiah 9:6 where the child is called "Mighty God"
 
-**Jesus is YHWH**: Christians see this as evidence Jesus is divine—he doesn't just represent YHWH's righteousness, he is YHWH who provides righteousness (John 8:58; 10:30).
+**Jesus is YHWH**: Christians see this as evidence Jesus is divine. He doesn't just represent YHWH's righteousness. He is YHWH who provides righteousness (John 8:58; 10:30).
 
 **Fulfilled in Christian experience**: Believers are declared righteous through Jesus (2 Corinthians 5:21: "We might become the righteousness of God in him"). Jesus is literally "our righteousness" as Paul states in 1 Corinthians 1:30.
 
 ### Challenges Christians Acknowledge
 
-**Strongest Jewish objection**: The explicit statements "Judah will be saved" and "Israel will dwell securely" remain visibly unfulfilled. The two-comings framework explains this, but requires accepting that prophecies can have multi-stage fulfillments separated by millennia.
+**Strongest Jewish objection**: The explicit statements "Judah will be saved" and "Israel will dwell securely" remain visibly unfulfilled. The two-comings framework explains this. However, it requires accepting that prophecies can have multi-stage fulfillments separated by millennia.
 
 **Requires future fulfillment**: Almost all Christians acknowledge significant aspects of Jeremiah 23:5-6 await future fulfillment at Christ's return. The prophecy cannot be said to be completely fulfilled yet.
 

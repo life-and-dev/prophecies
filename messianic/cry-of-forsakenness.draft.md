@@ -21,7 +21,7 @@ keywords: My God why forsaken, Psalm 22:1, Eli Eli lema sabachthani, cry from cr
 
 - **Exact quotation** (Matthew 27:46; Mark 15:34): Jesus quoted Psalm 22:1 word-for-word from the cross
 
-Jesus quoted Psalm 22's opening words on the cross—experiencing the spiritual anguish David prophetically described.
+Jesus quoted Psalm 22's opening words on the cross. He experienced the spiritual anguish David prophetically described.
 
 ## Jewish Perspective
 

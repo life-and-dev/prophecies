@@ -15,7 +15,7 @@ Zechariah recorded a symbolic act involving a specific price:
 
 > Then I said to them, "If it seems good to you, give me my wages; but if not, keep them." And they weighed out as my wages **thirty pieces of silver**. — Zechariah 11:12 (ESV)
 
-Thirty silver pieces (the price of a slave)—a contemptuous valuation.
+Thirty silver pieces (the price of a slave). A contemptuous valuation.
 
 ## Fulfillment in Jesus
 
@@ -37,11 +37,11 @@ The exact amount Zechariah predicted.
 
 ### Jewish Objections
 
-1. **Symbolic action drama**: Zechariah acts out God's relationship with Israel using shepherd imagery. The "thirty pieces of silver" represents God's contemptuous payment for His rejected care of Israel—it's the price of a slave, showing how little Israel valued God's shepherding.
+1. **Symbolic action drama**: [Zechariah acts out God's relationship with Israel using shepherd imagery](https://en.wikipedia.org/wiki/Zechariah_11). The "thirty pieces of silver" represents God's contemptuous payment for His rejected care of Israel. It's the price of a slave, showing how little Israel valued God's shepherding.
 
-2. **Historical context**: This passage describes events in Zechariah's own time or immediate future (pre-exilic or post-exilic period), not the Messiah 500+ years later.
+2. **Historical context**: [This passage describes events in Zechariah's own time](https://www.ncesc.com/is-zechariah-1112-13-a-messianic-prophecy/) or immediate future (pre-exilic or post-exilic period), not the Messiah 500+ years later.
 
-3. **No messianic markers**: The passage contains no reference to the Messiah, Davidic king, salvation, or redemption—only judgment on Israel for rejecting God's care.
+3. **No messianic markers**: The passage contains no reference to the Messiah, Davidic king, salvation, or redemption. Only judgment on Israel for rejecting God's care.
 
 4. **Coincidental details**: The thirty silver pieces coincidentally matched Judas' betrayal, but this doesn't make it prophecy. Silver was common currency for payments.
 

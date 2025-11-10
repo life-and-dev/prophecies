@@ -1,3 +1,8 @@
+---
+description: Isaiah 52:13-15 prophesied the servant would be marred beyond recognition yet exalted, fulfilled in Jesus' suffering and resurrection.
+keywords: marred appearance, exalted servant, Isaiah 52:13, disfigured beyond recognition, suffering and glory
+---
+
 # Exalted Yet Disfigured
 
 > **Fulfillment Category:** Vague or Debatable

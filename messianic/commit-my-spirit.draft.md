@@ -1,3 +1,8 @@
+---
+description: Psalm 31 is David's prayer for deliverance from enemies; Jesus quoted one line expressing trust but context doesn't match crucifixion.
+keywords: commit my spirit, Psalm 31, into your hands, Father commit spirit, David's prayer deliverance
+---
+
 # Into Your Hand I Commit My Spirit
 
 > **Fulfillment Category:** Misunderstood Context

@@ -1,3 +1,8 @@
+---
+description: Psalm 110:1-4 foretold the Messiah sitting at God's right hand as eternal priest, fulfilled in Jesus' ascension and priesthood.
+keywords: Psalm 110, right hand of God, Melchizedek priesthood, David's Lord, enemies footstool
+---
+
 # The Lord at God's Right Hand
 
 > **Fulfillment Category:** Vague or Debatable

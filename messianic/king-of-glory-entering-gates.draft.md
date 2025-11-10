@@ -1,3 +1,8 @@
+---
+description: Psalm 24 celebrates YHWH (the LORD) as King of glory entering Jerusalem, likely for bringing the Ark of the Covenant.
+keywords: King of glory, Psalm 24, lift up gates, ancient doors, LORD of hosts, everlasting doors
+---
+
 # The King of Glory Entering Gates
 
 > **Fulfillment Category:** Misunderstood Context

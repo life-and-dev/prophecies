@@ -1,3 +1,8 @@
+---
+description: Isaiah 28:16's cornerstone prophecy applied to Jesus by Peter and Paul as the foundation of salvation through faith.
+keywords: cornerstone prophecy, Isaiah 28:16, foundation stone Zion, tested stone, whoever believes
+---
+
 # Foundation Stone in Zion
 
 > **Fulfillment Category:** Vague or Debatable

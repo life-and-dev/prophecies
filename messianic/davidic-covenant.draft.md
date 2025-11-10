@@ -1,3 +1,8 @@
+---
+description: God's covenant with David promising an eternal throne, fulfilled in Jesus' resurrection and everlasting kingdom.
+keywords: Davidic covenant, 2 Samuel 7, eternal throne, David's descendant, kingdom forever, messianic king
+---
+
 # The Davidic Covenant: An Eternal Throne
 
 > **Fulfillment Category:** Vague or Debatable

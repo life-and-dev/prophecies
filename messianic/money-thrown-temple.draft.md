@@ -1,3 +1,8 @@
+---
+description: Zechariah 11:13 foretold silver thrown in the temple for the potter, fulfilled when Judas' betrayal money bought a potter's field.
+keywords: money thrown temple, Zechariah 11:13, potter field, thirty silver temple, Judas threw silver
+---
+
 # Money Thrown in Temple, Used for Potter's Field
 
 > **Fulfillment Category:** Vague or Debatable

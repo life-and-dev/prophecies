@@ -1,3 +1,8 @@
+---
+description: Daniel 7:13-14's Son of Man receiving universal dominion, fulfilled when Jesus claimed all authority after his resurrection.
+keywords: Son of Man, Daniel 7:13, all authority, everlasting dominion, clouds of heaven, Ancient of Days
+---
+
 # Given All Authority
 
 > **Fulfillment Category:** Vague or Debatable

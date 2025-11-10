@@ -1,3 +1,8 @@
+---
+description: Psalm 20 is a prayer for Israel's king in battle requesting protection, contradicting Jesus' experience of crucifixion.
+keywords: Psalm 20, saves his anointed, save the king, answer from heaven, day of trouble, trust in LORD
+---
+
 # The LORD Saves His Anointed
 
 > **Fulfillment Category:** Misunderstood Context

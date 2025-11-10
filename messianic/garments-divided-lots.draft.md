@@ -1,3 +1,8 @@
+---
+description: Psalm 22:18 prophesied dividing garments and casting lots, precisely fulfilled by soldiers at Jesus' crucifixion.
+keywords: divide garments, casting lots, Psalm 22:18, seamless tunic, soldiers gambled, crucifixion garments
+---
+
 # Garments Divided by Casting Lots
 
 > **Fulfillment Category:** Complete Fulfillment

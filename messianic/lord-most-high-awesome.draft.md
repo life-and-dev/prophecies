@@ -1,3 +1,8 @@
+---
+description: Psalm 47 celebrates YHWH as King over all earth with liturgical worship language, not prophesying Messiah's ascension.
+keywords: Psalm 47, LORD Most High, God gone up, highly exalted, King over all earth, sound of trumpet
+---
+
 # The LORD Most High Is Awesome
 
 > **Fulfillment Category:** Misunderstood Context

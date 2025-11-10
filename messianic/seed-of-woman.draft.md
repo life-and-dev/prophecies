@@ -1,3 +1,8 @@
+---
+description: Genesis 3:15 describes conflict between serpent and woman's seed, typologically applied to Jesus defeating Satan through crucifixion.
+keywords: seed of woman, Genesis 3:15, bruise head, crush Satan, protoevangelium, serpent defeat
+---
+
 # The Seed of the Woman
 
 > **Fulfillment Category:** Misunderstood Context

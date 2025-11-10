@@ -1,3 +1,8 @@
+---
+description: Jeremiah 30:21 foretold a unique leader authorized to approach God, fulfilled in Jesus as high priest opening access to God.
+keywords: approach God, Jeremiah 30:21, high priest, draw near God, who would dare approach
+---
+
 # Leader Who Approaches God
 
 > **Fulfillment Category:** Vague or Debatable

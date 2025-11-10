@@ -1,3 +1,8 @@
+---
+description: Psalm 22:7-8's mocking words quoted verbatim by mockers at Jesus' crucifixion, unknowingly fulfilling ancient prophecy.
+keywords: Psalm 22:8, mocking words, He trusts in God, wagging heads, mockers at cross
+---
+
 # Mocking Words
 
 > **Fulfillment Category:** Complete Fulfillment

@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:11-12 prophesied the servant making many righteous and bearing sins, fulfilled in Jesus' atoning death and justification.
+keywords: make many righteous, Isaiah 53:11, numbered with transgressors, bore sins, intercession for sinners
+---
+
 # Makes Many Righteous
 
 > **Fulfillment Category:** Complete Fulfillment

@@ -1,3 +1,8 @@
+---
+description: Psalm 82 addresses unjust judges as "gods"; Jesus cited this to defend his divine claims, not as messianic prophecy.
+keywords: Psalm 82, you are gods, sons of Most High, unjust judges, John 10:34, divine judges, Jesus defense
+---
+
 # I Said, You Are Gods
 
 > **Fulfillment Category:** Misunderstood Context

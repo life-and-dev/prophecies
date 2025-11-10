@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:7 prophesied silence before accusers like a lamb to slaughter, fulfilled in Jesus' trial silence before Pilate.
+keywords: silent before accusers, Isaiah 53:7, opened not mouth, lamb to slaughter, gave no answer
+---
+
 # Silent Before Accusers
 
 > **Fulfillment Category:** Complete Fulfillment

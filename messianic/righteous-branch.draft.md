@@ -1,3 +1,8 @@
+---
+description: Jeremiah 23:5-6 prophesied a righteous Branch from David bringing salvation, partially fulfilled in Jesus with future completion.
+keywords: righteous Branch, Jeremiah 23:5, Yahweh Tsidkenu, LORD our righteousness, Judah saved, Israel dwell securely
+---
+
 # The Righteous Branch (Jeremiah 23:5-6)
 
 > **Fulfillment Category:** Partially Fulfilled

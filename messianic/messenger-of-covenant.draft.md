@@ -1,3 +1,8 @@
+---
+description: Malachi 3:1 foretold a messenger preparing the way and the Lord coming to his temple, fulfilled in John the Baptist and Jesus.
+keywords: Malachi 3:1, messenger prepare way, John the Baptist, Lord come to temple, covenant messenger
+---
+
 # Messenger of the Covenant
 
 > **Fulfillment Category:** Vague or Debatable

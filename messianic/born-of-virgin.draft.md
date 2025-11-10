@@ -1,3 +1,8 @@
+---
+description: Isaiah 7:14's virgin birth prophecy and its debated fulfillment in Jesus Christ's miraculous conception through the Holy Spirit.
+keywords: virgin birth, Isaiah 7:14, almah, parthenos, Immanuel, Mary, Emmanuel, miraculous conception
+---
+
 # Born of a Virgin
 
 > **Fulfillment Category:** Vague or Debatable

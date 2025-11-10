@@ -1,3 +1,8 @@
+---
+description: Isaiah 42:1-4 describes God's servant bringing justice gently; Matthew applies this to Jesus' Spirit-empowered ministry to Gentiles.
+keywords: Isaiah 42, beloved servant, My servant, Spirit upon him, justice to Gentiles, bruised reed not break
+---
+
 # The Beloved Servant of God
 
 ## The Prophecy

@@ -1,3 +1,8 @@
+---
+description: Psalm 78 recounts Israel's history in parable form; Matthew notes Jesus taught in parables but psalm doesn't predict Messiah's teaching method.
+keywords: Psalm 78, speak in parables, Matthew 13:35, hidden since foundation, teaching method, parabolic teaching
+---
+
 # I Will Open My Mouth in Parables
 
 > **Fulfillment Category:** Misunderstood Context

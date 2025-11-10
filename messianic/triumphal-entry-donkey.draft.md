@@ -1,3 +1,8 @@
+---
+description: Zechariah 9:9 foretold the king entering Jerusalem on a donkey, fulfilled in Jesus' deliberate triumphal entry.
+keywords: triumphal entry, Zechariah 9:9, riding on donkey, king comes humbly, Palm Sunday, colt foal donkey
+---
+
 # Triumphal Entry on a Donkey
 
 > **Fulfillment Category:** Vague or Debatable

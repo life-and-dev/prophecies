@@ -1,3 +1,8 @@
+---
+description: Daniel 9:24-26 prophesied the Messiah's appearance and being cut off, debated as fulfilled in Jesus' ministry and crucifixion.
+keywords: Daniel 70 weeks, seventy weeks prophecy, Daniel 9, Messiah cut off, anointed one, Jerusalem decree
+---
+
 # Daniel's Seventy Weeks
 
 > **Fulfillment Category:** Vague or Debatable

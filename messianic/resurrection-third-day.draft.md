@@ -1,3 +1,8 @@
+---
+description: Hosea 6:2 refers to Israel's restoration, typologically applied to Jesus' resurrection on the third day.
+keywords: third day resurrection, Hosea 6:2, raised third day, resurrection prophecy, in accordance with Scriptures
+---
+
 # Resurrection on the Third Day
 
 > **Fulfillment Category:** Misunderstood Context

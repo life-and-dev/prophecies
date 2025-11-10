@@ -1,3 +1,8 @@
+---
+description: Psalm 18 is David's thanksgiving for his own victories over gentile nations, not a prophecy about the Messiah.
+keywords: Psalm 18, LORD lives, David's anointed, among gentiles, subdued peoples, offspring forever
+---
+
 # The LORD Lives, Ruling Over Gentiles
 
 > **Fulfillment Category:** Misunderstood Context

@@ -1,3 +1,8 @@
+---
+description: Hosea 11:1 historically refers to Israel's exodus, typologically applied by Matthew to Jesus' return from Egypt as a child.
+keywords: out of Egypt, Hosea 11:1, called my son, flee to Egypt, typological fulfillment, Israel exodus
+---
+
 # Out of Egypt (Hosea 11:1)
 
 > **Fulfillment Category:** Misunderstood Context

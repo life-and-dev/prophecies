@@ -1,3 +1,8 @@
+---
+description: Isaiah 54:13 prophesied being taught by the LORD, applied by Jesus to himself as the divine teacher with authority.
+keywords: taught by God, Isaiah 54:13, teaching with authority, divine teacher, learned from Father
+---
+
 # Teaching with Authority
 
 > **Fulfillment Category:** Vague or Debatable

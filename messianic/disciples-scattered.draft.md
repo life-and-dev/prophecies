@@ -1,3 +1,8 @@
+---
+description: Zechariah 13:7's prophecy of striking the shepherd and scattering sheep, cited by Jesus before his disciples fled at his arrest.
+keywords: strike shepherd, scatter sheep, Zechariah 13:7, disciples fled, disciples abandoned Jesus
+---
+
 # Disciples Scattered
 
 > **Fulfillment Category:** Vague or Debatable

@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:2 prophesied the Messiah would have no external majesty or beauty, fulfilled in Jesus' humble origin in Nazareth.
+keywords: no external beauty, Isaiah 53:2, no form majesty, Nazareth, carpenter's son, humble circumstances
+---
+
 # No External Beauty
 
 ## The Prophecy
@@ -30,7 +35,7 @@ Another example:
 > And they took offense at him.  
 > But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” 
 >
-> -- Matthew 13:53-57 (ESV)
+> — Matthew 13:53-57 (ESV)
 
 In addition, Jesus had:
 

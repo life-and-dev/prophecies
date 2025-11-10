@@ -1,3 +1,8 @@
+---
+description: Zechariah 11:12's prophecy of betrayal for thirty silver pieces, the exact price Judas received to betray Jesus.
+keywords: thirty pieces silver, Judas betrayal, Zechariah 11:12, slave price, betrayal prophecy
+---
+
 # Betrayed for Thirty Pieces of Silver
 
 > **Fulfillment Category:** Vague or Debatable

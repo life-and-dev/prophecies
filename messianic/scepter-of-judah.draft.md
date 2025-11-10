@@ -1,3 +1,8 @@
+---
+description: Genesis 49:10 prophesied a ruler from Judah commanding obedience of peoples, fulfilled in Jesus from Judah's tribe.
+keywords: scepter of Judah, Genesis 49:10, Shiloh comes, obedience of peoples, tribe of Judah, Lion of Judah
+---
+
 # The Scepter of Judah
 
 > **Fulfillment Category:** Vague or Debatable

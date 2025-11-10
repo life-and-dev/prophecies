@@ -1,3 +1,8 @@
+---
+description: Psalm 8 celebrates humanity's honored position in creation, not exclusively Jesus, addressing humans generally with dominion.
+keywords: Psalm 8, dominion over creation, son of man, all things under feet, crowned with glory
+---
+
 # Dominion Over Creation
 
 > **Fulfillment Category:** Misunderstood Context

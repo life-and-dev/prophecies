@@ -1,3 +1,8 @@
+---
+description: Psalm 22:1's cry of forsakenness quoted exactly by Jesus from the cross, documented in Matthew and Mark's Gospels.
+keywords: My God why forsaken, Psalm 22:1, Eli Eli lema sabachthani, cry from cross, Jesus crucifixion words
+---
+
 # Cry of Forsakenness
 
 > **Fulfillment Category:** Complete Fulfillment

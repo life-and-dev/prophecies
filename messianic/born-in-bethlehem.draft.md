@@ -1,3 +1,8 @@
+---
+description: Micah 5:2 prophesied the Messiah's birth in Bethlehem, fulfilled when Jesus was born there during a Roman census.
+keywords: Bethlehem birth, Micah 5:2, birthplace prophecy, Ephrathah, Caesar Augustus census
+---
+
 # Born in Bethlehem
 
 > **Fulfillment Category:** Vague or Debatable

@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:3's prophecy of rejection and sorrow, fulfilled in Jesus' rejection by Jewish leaders and his own people.
+keywords: despised and rejected, Isaiah 53:3, man of sorrows, rejected by men, religious leaders rejection
+---
+
 # Despised and Rejected
 
 > **Fulfillment Category:** Complete Fulfillment

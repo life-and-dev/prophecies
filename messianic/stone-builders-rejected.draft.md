@@ -1,3 +1,8 @@
+---
+description: Psalm 118:22 about rejected stone becoming cornerstone, applied by Jesus to himself but originally celebrating Israel's deliverance.
+keywords: Psalm 118, stone builders rejected, cornerstone, marvelous in our eyes, rejected stone, chief cornerstone
+---
+
 # The Stone the Builders Rejected
 
 > **Fulfillment Category:** Misunderstood Context

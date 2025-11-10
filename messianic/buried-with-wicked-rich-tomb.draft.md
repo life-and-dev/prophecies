@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:9 prophesied burial with the wicked and rich, fulfilled when Jesus was crucified with criminals yet buried in Joseph's tomb.
+keywords: buried with wicked, rich man tomb, Isaiah 53:9, Joseph of Arimathea, crucified between thieves
+---
+
 # Buried with Wicked, Yet in Rich Man's Tomb
 
 > **Fulfillment Category:** Complete Fulfillment

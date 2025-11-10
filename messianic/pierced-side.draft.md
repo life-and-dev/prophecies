@@ -1,3 +1,8 @@
+---
+description: Zechariah 12:10 prophesied looking on the one pierced, fulfilled when a soldier pierced Jesus' side with a spear.
+keywords: pierced side, Zechariah 12:10, look on him pierced, spear in side, they shall mourn
+---
+
 # Pierced Side
 
 > **Fulfillment Category:** Vague or Debatable

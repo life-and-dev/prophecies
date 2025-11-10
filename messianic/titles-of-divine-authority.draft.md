@@ -1,3 +1,8 @@
+---
+description: Isaiah 9:6-7 foretold divine titles for a child establishing endless government, debated as fulfilled in Jesus' eternal kingdom.
+keywords: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace, Isaiah 9:6, divine titles
+---
+
 # Titles of Divine Authority
 
 > **Fulfillment Category:** Vague or Debatable

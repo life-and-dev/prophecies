@@ -1,3 +1,8 @@
+---
+description: Psalm 97 calls angels to worship YHWH; Hebrews applies this to Jesus, but the psalm's original context addresses the Father alone.
+keywords: Psalm 97, angels worship, Hebrews 1:6, worship YHWH, monotheism, Jesus worship, divine worship, LORD reigns
+---
+
 # Let All God's Angels Worship Him
 
 > **Fulfillment Category:** Misunderstood Context

@@ -1,3 +1,8 @@
+---
+description: Psalm 91 promises divine protection to all believers; Satan quoted this to tempt Jesus, but the psalm's context and promises don't align with Christ's mission.
+keywords: Psalm 91, angels protect, Satan temptation, Matthew 4:6, divine protection, long life promise, Jesus temptation wilderness
+---
+
 # He Will Command His Angels Concerning You
 
 > **Fulfillment Category:** Misunderstood Context

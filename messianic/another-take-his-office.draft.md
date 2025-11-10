@@ -1,3 +1,8 @@
+---
+description: Psalm 109 is David's curse prayer against enemies; Peter applied one phrase to replace Judas among the Twelve, not claiming direct prophecy.
+keywords: Psalm 109, another take office, Judas replacement, Acts 1:20, imprecatory psalm, apostolic succession, twelve apostles
+---
+
 # May Another Take His Office
 
 > **Fulfillment Category:** Misunderstood Context

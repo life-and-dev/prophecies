@@ -1,3 +1,8 @@
+---
+description: Jesus claimed to fulfill Isaiah 61, proclaiming good news and freedom; He stopped mid-verse before "day of vengeance," indicating two-stage fulfillment.
+keywords: Isaiah 61, anointed proclaim good news, Luke 4:18, Spirit upon me, liberty captives, Nazareth synagogue, year Lord's favor
+---
+
 # Anointed to Proclaim Good News
 
 > **Fulfillment Category:** Vague or Debatable

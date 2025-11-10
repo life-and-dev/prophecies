@@ -1,3 +1,8 @@
+---
+description: God promised Abraham that all nations would be blessed through his offspring; Christians see Jesus as that singular seed blessing the world.
+keywords: Abrahamic blessing, Genesis 22:18, seed of Abraham, all nations blessed, Galatians 3:16, Acts 3:25-26, covenant promise
+---
+
 # The Abrahamic Blessing
 
 > **Fulfillment Category:** Vague or Debatable

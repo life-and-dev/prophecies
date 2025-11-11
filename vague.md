@@ -5,3 +5,4 @@ Jesus could have fulfilled these prophecies, but they are either so general that
 | Prophecy | Reference | Why Debatable |
 |----------|-----------|---------------|
 | [No External Beauty](prophecies/messianic/no-external-beauty.md) | Isaiah 53:1-2 | Not specific enough to prove the Messiah's identity |
+| [Despised and Rejected](prophecies/vague/despised-and-rejected.md) | Isaiah 53:3-4 | Historical record of rejection by leaders and people |

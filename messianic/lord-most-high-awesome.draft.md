@@ -1,3 +1,8 @@
+---
+description: Psalm 47 celebrates YHWH as King over all earth with liturgical worship language, not prophesying Messiah's ascension.
+keywords: Psalm 47, LORD Most High, God gone up, highly exalted, King over all earth, sound of trumpet
+---
+
 # The LORD Most High Is Awesome
 
 > **Fulfillment Category:** Misunderstood Context
@@ -31,7 +36,7 @@ The psalm is understood as prophesying the Messiah's ascension and enthronement.
 
 1. **The psalm explicitly addresses YHWH (the LORD)**: Throughout the psalm, "the LORD" (YHWH), "God" (Elohim), and "Most High" (Elyon) all refer to God the Father, not a separate messianic figure. The psalm celebrates God himself, not someone else.
 
-2. **God doesn't exalt himself**: The psalm says "**he is highly exalted**" (v. 9). In Christian theology, God the Father exalted Jesus (Philippians 2:9; Acts 2:33). But God the Father doesn't exalt himself—he is inherently supreme. The psalm's statement makes sense for a human king or for God's reputation being elevated among the nations, not for God exalting himself.
+2. **God doesn't exalt himself**: The psalm says "**he is highly exalted**" (v. 9). In Christian theology, God the Father exalted Jesus (Philippians 2:9; Acts 2:33). But God the Father doesn't exalt himself. He is inherently supreme. The psalm's statement makes sense for a human king or for God's reputation being elevated among the nations, not for God exalting himself.
 
 3. **Monotheistic Jews wouldn't understand God exalting God**: A Jewish audience reading "the LORD Most High" being "highly exalted" would not think of one person of a Trinity exalting another. They understood YHWH as one indivisible God. The language means God's reputation and recognition among nations is elevated, not divine ascension.
 

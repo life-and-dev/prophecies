@@ -1,3 +1,8 @@
+---
+description: Psalm 22:18 prophesied dividing garments and casting lots, precisely fulfilled by soldiers at Jesus' crucifixion.
+keywords: divide garments, casting lots, Psalm 22:18, seamless tunic, soldiers gambled, crucifixion garments
+---
+
 # Garments Divided by Casting Lots
 
 > **Fulfillment Category:** Complete Fulfillment
@@ -24,16 +29,16 @@ John provides more detail:
 
 ## Jewish Perspective
 
-*See "Jewish Perspective on Psalm 22 (Overview)"—ancient victors plundered defeated; not necessarily prophetic.*
+*See "Jewish Perspective on Psalm 22 (Overview)." Ancient victors plundered defeated; not necessarily prophetic.*
 
 ## Christian Perspective
 
 ### Response
 
-John explicitly states this fulfilled Scripture (Psalm 22:18). The detail that soldiers divided garments but cast lots for the seamless tunic shows how the prophecy was fulfilled precisely—both actions described in one verse occurred.
+John explicitly states this fulfilled Scripture (Psalm 22:18). The detail that soldiers divided garments but cast lots for the seamless tunic shows how the prophecy was fulfilled precisely. Both actions described in one verse occurred.
 
 ## Assessment
 
-**Christian View**: Roman soldiers unknowingly fulfilled Psalm 22:18 by dividing Jesus' garments and casting lots for his tunic.
+**Christian View**: Christians believe Roman soldiers unknowingly fulfilled Psalm 22:18 by dividing Jesus' garments and casting lots for his tunic.
 
-**Strength of Fulfillment**: Yes. This was not something Jesus could orchestrate—Roman soldiers spontaneously did what David wrote 1000 years earlier. John's eyewitness account and explicit citation of the prophecy strengthen the case. The dual action (dividing + casting lots) matches the psalm's dual statement.
+**Strength of Fulfillment**: Yes. This was not something Jesus could orchestrate. Roman soldiers spontaneously did what David wrote 1000 years earlier. John's eyewitness account and explicit citation of the prophecy strengthen the case. The dual action (dividing + casting lots) matches the psalm's dual statement.

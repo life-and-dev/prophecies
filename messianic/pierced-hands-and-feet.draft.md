@@ -1,3 +1,8 @@
+---
+description: Psalm 22:16 describes pierced hands and feet, debated between Hebrew ka'ari and Septuagint's pierced, matching crucifixion.
+keywords: pierced hands feet, Psalm 22:16, crucifixion nails, ka'ari controversy, nail wounds
+---
+
 # Pierced Hands and Feet
 
 > **Fulfillment Category:** Vague or Debatable

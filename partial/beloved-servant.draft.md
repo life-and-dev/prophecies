@@ -1,3 +1,8 @@
+---
+description: Isaiah 42:1-4 describes God's servant bringing justice gently; Matthew applies this to Jesus' Spirit-empowered ministry to Gentiles.
+keywords: Isaiah 42, beloved servant, My servant, Spirit upon him, justice to Gentiles, bruised reed not break
+---
+
 # The Beloved Servant of God
 
 ## The Prophecy
@@ -55,9 +60,9 @@ The passage emphasizes bringing justice to Gentiles, but Jews argue the Messiah'
 Christians respond that while Israel is called "servant" in some contexts (Isaiah 41:8-9; 44:1-2), the Servant Songs (Isaiah 42:1-4; 49:1-6; 50:4-9; 52:13-53:12) describe an individual who:
 
 - **Brings Israel back to God** (Isaiah 49:5-6): The servant cannot be Israel bringing itself back to God, so must be distinct from the nation
-- **Suffers for Israel's sins** (Isaiah 53:4-6, 8): "He was wounded for our transgressions... the LORD has laid on him the iniquity of us all"—Israel cannot vicariously suffer for its own sins
-- **Is sinless** (Isaiah 53:9): "He had done no violence, nor was any deceit in his mouth"—this doesn't describe sinful Israel
-- **Dies and rises** (Isaiah 53:8-10, 12): The servant is "cut off from the land of the living" yet "shall prolong his days"—describing resurrection, not national restoration
+- **Suffers for Israel's sins** (Isaiah 53:4-6, 8): "He was wounded for our transgressions... the LORD has laid on him the iniquity of us all." Israel cannot vicariously suffer for its own sins.
+- **Is sinless** (Isaiah 53:9): "He had done no violence, nor was any deceit in his mouth." This doesn't describe sinful Israel.
+- **Dies and rises** (Isaiah 53:8-10, 12): The servant is "cut off from the land of the living" yet "shall prolong his days." This describes resurrection, not national restoration.
 
 The shift from corporate "servant" (Isaiah 41-44) to individual "servant" (in the Servant Songs) indicates a specific person who represents and redeems Israel (Romans 9:6; Galatians 3:16, 29).
 
@@ -109,6 +114,6 @@ Christians point to apostolic testimony that Isaiah's visions were specifically 
 
 John declares that when Isaiah saw the Lord in the temple vision (Isaiah 6:1-5), he was actually seeing **Christ**. This is significant because:
 
-- **Individual, Not Collective**: If Isaiah saw Christ's personal glory in Isaiah 6 (around 740 BC), then Isaiah's subsequent prophecies—including the Servant Songs in Isaiah 42-53—refer to this same individual Christ, not to Israel as a nation
-- **Unified Interpretation**: John quotes both Isaiah 53:1 (the Suffering Servant passage) and Isaiah 6:10 (the temple vision), attributing both to Isaiah "seeing his [Christ's] glory"—demonstrating that the Servant prophecies concern the same divine figure Isaiah saw in the temple
-- **Apostolic Authority**: This interpretation comes from John, an eyewitness apostle who walked with Jesus—his testimony that "Isaiah said these things because he saw his [Christ's] glory"
+- **Individual, Not Collective**: If Isaiah saw Christ's personal glory in Isaiah 6 (around 740 BC), then Isaiah's subsequent prophecies refer to this same individual Christ, not to Israel as a nation. This includes the Servant Songs in Isaiah 42-53.
+- **Unified Interpretation**: John quotes both Isaiah 53:1 (the Suffering Servant passage) and Isaiah 6:10 (the temple vision), attributing both to Isaiah "seeing his [Christ's] glory." This demonstrates that the Servant prophecies concern the same divine figure Isaiah saw in the temple.
+- **Apostolic Authority**: This interpretation comes from John, an eyewitness apostle who walked with Jesus. His testimony is that "Isaiah said these things because he saw his [Christ's] glory."

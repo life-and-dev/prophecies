@@ -1,3 +1,8 @@
+---
+description: Moses prophesied God would raise a prophet-mediator like himself, fulfilled in Jesus as covenant intermediary and reconciler.
+keywords: prophet like Moses, Deuteronomy 18, covenant mediator, reconciliation, John 6, Acts 3, feeding 5000, new covenant
+---
+
 # The Prophet Like Moses
 
 ## The Prophecy
@@ -6,7 +11,7 @@ Moses, the great lawgiver, predicted a future prophet who would surpass even his
 
 > "The LORD your God will raise up for you **a prophet like me from among you**, from your brothers—it is to him you shall listen— **just as you desired of the LORD your God at Horeb on the day of the assembly**, when you said, 'Let me not hear again the voice of the LORD my God or see this great fire any more, lest I die.' And the LORD said to me, 'They are right in what they have spoken. **I will raise up for them a prophet like you from among their brothers**. And **I will put my words in his mouth, and he shall speak to them all that I command him**. And whoever will not listen to my words that he shall speak in my name, I myself will require it of him. — Deuteronomy 18:15-19 (ESV)
 
-The prophecy emphasizes that this prophet would be a unique **prophet-mediator like Moses**—one who both **speaks God's words** ("I will put my words in his mouth") and **stands as covenant intermediary** between God and the people. This refers to what happened at Mount Horeb: when Israel heard God's terrifying voice directly, they asked Moses to mediate—to stand between them and God, receiving God's words and conveying them to the people. God approved this arrangement, making Moses the covenant mediator through whom He would communicate.
+The prophecy emphasizes that this prophet would be a unique **prophet-mediator like Moses**. One who both **speaks God's words** ("I will put my words in his mouth") and **stands as covenant intermediary** between God and the people. This refers to what happened at Mount Horeb: when Israel heard God's terrifying voice directly, they asked Moses to mediate. To stand between them and God, receiving God's words and conveying them to the people. God approved this arrangement, making Moses the covenant mediator through whom He would communicate.
 
 Moses' role was unique. While there were many prophets after Moses who spoke God's words, none functioned as a prophet-mediator in the way Moses did:
 
@@ -20,7 +25,7 @@ Biblical mediation involves both **communication** (speaking God's words as inte
 
 ### The Crowd Recognizes the Sign
 
-After Jesus miraculously fed 5,000 people, the crowd immediately recognized him as the prophet Moses foretold, focusing on the miraculous sign—a prophet who could provide food like Moses provided manna:
+After Jesus miraculously fed 5,000 people, the crowd immediately recognized him as the prophet Moses foretold. They focused on the miraculous sign: a prophet who could provide food like Moses provided manna:
 
 > Jesus then took the loaves, and when he had given thanks, he distributed them to those who were seated. So also the fish, as much as they wanted. And when they had eaten their fill, he told his disciples, "Gather up the leftover fragments, that nothing may be lost."
 >
@@ -34,7 +39,7 @@ The crowd's response shows they recognized that Jesus could provide food like Mo
 
 ### Peter Emphasizes the Purpose
 
-Peter explicitly identified Jesus as the prophet Moses foretold, emphasizing the purpose of the prophet-mediator role—**reconciling humanity to God**:
+Peter explicitly identified Jesus as the prophet Moses foretold. He emphasized the purpose of the prophet-mediator role: **reconciling humanity to God**.
 
 > For Moses truly said to the fathers,
 >
@@ -42,7 +47,7 @@ Peter explicitly identified Jesus as the prophet Moses foretold, emphasizing the
 >
 > To you first, God, having **raised up his servant Jesus, sent him** to bless you, in **turning away every one of you from your iniquities**. — Acts 3:22-26 (NKJV)
 
-Peter's interpretation focuses on the reconciliation aspect of mediation: "turning away from your iniquities" and "blessing you." This is the covenant mediator's ultimate purpose—not merely to perform signs or deliver messages, but to establish peace between God and humanity by resolving sin. Peter understood the prophetic purpose was to establish a covenant of reconciliation like Moses establishing the Mosaic Covenant.
+Peter's interpretation focuses on the reconciliation aspect of mediation: "turning away from your iniquities" and "blessing you." This is the covenant mediator's ultimate purpose. Not merely to perform signs or deliver messages, but to establish peace between God and humanity by resolving sin. Peter understood the prophetic purpose was to establish a covenant of reconciliation like Moses establishing the Mosaic Covenant.
 
 ### Evidence from the New Testament
 
@@ -60,13 +65,13 @@ Peter's interpretation focuses on the reconciliation aspect of mediation: "turni
 
 ### Jewish Objections
 
-1. **Continuous fulfillment**: Many Jewish scholars argue this refers to the entire line of prophets throughout Israel's history, not one specific individual. Each authentic prophet was "like Moses" in speaking God's words. The prophecy establishes the office of prophet generally, not one future individual.
+1. **Continuous fulfillment**: [Many Jewish scholars argue](https://jewsforjudaism.org/knowledge/articles/chapter-14-second-moses) this refers to the entire line of prophets throughout Israel's history, not one specific individual. Each authentic prophet was "like Moses" in speaking God's words. [The prophecy establishes the office of prophet generally](https://sharetorah.com/torah/deuteronomy-devarim/deuteronomy-1815/), not one future individual.
 
-2. **The Messiah as political leader**: Some rabbinic sources do apply this to the Messiah, but emphasize the Messiah will be "like Moses" in leading Israel to political freedom from oppression and establishing God's law throughout the earth, which Jesus did not do.
+2. **The Messiah as political leader**: Some rabbinic sources do apply this to the Messiah. They emphasize the Messiah will be "like Moses" in leading Israel to political freedom from oppression and establishing God's law throughout the earth, which Jesus did not do.
 
-3. **Criteria not met**: Jews argue Jesus doesn't match Moses' role—Moses gave the Torah which remains eternal and unchangeable (Deuteronomy 4:2; 13:1-5), whereas Christians claim Jesus brought a "new covenant" superseding Mosaic law. This contradicts the "like Moses" comparison since Moses' law was meant to be permanent.
+3. **Criteria not met**: Jews argue Jesus doesn't match Moses' role. Moses gave the Torah which remains eternal and unchangeable (Deuteronomy 4:2; 13:1-5), whereas Christians claim Jesus brought a "new covenant" superseding Mosaic law. This contradicts the "like Moses" comparison since Moses' law was meant to be permanent.
 
-4. **False prophet test**: Deuteronomy 13:1-5 warns against prophets who perform signs but lead Israel away from Torah observance. Jews claim Jesus fits this description by advocating for setting aside dietary laws, Sabbath restrictions, and temple sacrifice—leading people away from God's commands through Moses.
+4. **False prophet test**: Deuteronomy 13:1-5 warns against prophets who perform signs but lead Israel away from Torah observance. Jews claim Jesus fits this description by advocating for setting aside dietary laws, Sabbath restrictions, and temple sacrifice. Leading people away from God's commands through Moses.
 
 ## Christian Perspective
 
@@ -80,7 +85,7 @@ Peter's interpretation focuses on the reconciliation aspect of mediation: "turni
 
 **Dead Sea Scrolls**: The Dead Sea Scrolls (4Q175, c. 100 BCE) list a singular "prophet like Moses" as an expected messianic figure, demonstrating pre-Christian Jewish expectation of one specific prophet.
 
-**Deuteronomy 34:10**: "No prophet has risen in Israel like Moses, whom the LORD knew face to face"—this emphasizes Moses' unique status that no subsequent prophet matched until Jesus came. If the prophecy meant all prophets generally, this statement would be false since many prophets arose after Moses.
+**Deuteronomy 34:10**: "No prophet has risen in Israel like Moses, whom the LORD knew face to face". Christians believe this emphasizes Moses' unique status that no subsequent prophet matched until Jesus came. If the prophecy meant all prophets generally, this statement would be false since many prophets arose after Moses.
 
 #### 2. Spiritual Freedom Precedes Political Kingdom
 
@@ -88,7 +93,7 @@ Peter's interpretation focuses on the reconciliation aspect of mediation: "turni
 
 **Two comings**: The Old Testament prophecies describe two comings of Messiah: first for spiritual redemption (Isaiah 53—suffering servant) and second for political kingdom (Isaiah 11:1-10). Jesus fulfilled the first coming by delivering humanity from spiritual bondage to sin (John 8:36, 18:36), with the visible messianic kingdom awaiting the Second Coming.
 
-**Greater liberation**: Jesus liberates from sin and death—more fundamental than political oppression. Physical freedom without spiritual freedom leaves humanity enslaved to sin.
+**Greater liberation**: Christians believe Jesus liberates from sin and death. More fundamental than political oppression. Physical freedom without spiritual freedom leaves humanity enslaved to sin.
 
 #### 3. Fulfillment, Not Abolition
 
@@ -108,7 +113,7 @@ Peter's interpretation focuses on the reconciliation aspect of mediation: "turni
 
 **Traditions vs. Torah**: Jesus challenged Pharisaic hand-washing traditions (human additions, not Torah itself, Mark 7:1-13). He performed works of necessity and mercy on Sabbath while regularly attending synagogue (Luke 4:16, Matthew 12:1-14).
 
-**Higher standard**: Far from lowering Torah's standards, Jesus intensified moral requirements—declaring anger equivalent to murder and lust to adultery (Matthew 5:21-48).
+**Higher standard**: Far from lowering Torah's standards, Jesus intensified moral requirements. He declared anger equivalent to murder and lust to adultery (Matthew 5:21-48).
 
 **No sin proven**: The Pharisees could never prove Jesus broke God's law (John 8:46: "Which one of you convicts me of sin?") and resorted to false witnesses at His trial (Matthew 26:59-60).
 

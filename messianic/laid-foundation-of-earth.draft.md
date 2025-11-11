@@ -1,3 +1,8 @@
+---
+description: Psalm 102 is a lament prayer to YHWH contrasting human mortality with God's eternality, not a messianic prophecy.
+keywords: laid foundation earth, Psalm 102, hear my prayer LORD, creation language, you remain forever
+---
+
 # You Laid the Foundation of the Earth
 
 > **Fulfillment Category:** Misunderstood Context

@@ -1,3 +1,8 @@
+---
+description: Isaiah 7:14's virgin birth prophecy and its debated fulfillment in Jesus Christ's miraculous conception through the Holy Spirit.
+keywords: virgin birth, Isaiah 7:14, almah, parthenos, Immanuel, Mary, Emmanuel, miraculous conception
+---
+
 # Born of a Virgin
 
 > **Fulfillment Category:** Vague or Debatable
@@ -35,15 +40,15 @@ Nobody called Jesus "Immanuel," yet Matthew considered Jesus' birth a fulfillmen
 
 ### Jewish Objections
 
-1. **Translation dispute**: The Hebrew word "almah" (עַלְמָה) means "young woman," not necessarily "virgin"—the specific word for virgin is "betulah" (בְּתוּלָה). The Septuagint translated it as "parthenos" (virgin), but Jews argue this was an error or interpretive choice, not the text's plain meaning.
+1. **Translation dispute**: [The Hebrew word "almah" (עַלְמָה) means "young woman," not necessarily "virgin"](https://jewsforjudaism.org/knowledge/articles/isaiah-714-a-virgin-birth/). The specific word for virgin is "betulah" (בְּתוּלָה). [The Septuagint translated it as "parthenos" (virgin)](https://aish.com/does-isaiah-714-refer-to-a-virgin-birth/), but Jews argue this was an error or interpretive choice, not the text's plain meaning.
 
-2. **Historical context**: Isaiah 7:14 was a sign given to King Ahaz about events in his own time (~735 BC), not 700 years in the future. The child is widely interpreted as King Hezekiah or Isaiah's own son (see Isaiah 8:3-4).
+2. **Historical context**: [Isaiah 7:14 was a sign given to King Ahaz about events in his own time (~735 BC)](https://outreachjudaism.org/dual-prophecy-virgin-birth/), not 700 years in the future. The child is widely interpreted as King Hezekiah or Isaiah's own son (see Isaiah 8:3-4).
 
 3. **Immediate fulfillment**: Isaiah 7:15-16 describes the child eating "curds and honey" and knowing good from evil before the two threatening kings are destroyed. This happened within a few years, not centuries later. The sign needed to be relevant to Ahaz's immediate crisis.
 
 4. **Not a messianic passage**: Jews argue Isaiah 7 contains no messianic context. The chapter addresses the Syro-Ephraimite War (alliance between Syria and Northern Israel against Judah), not the Messiah. The virgin birth concept is seen as a later Christian reinterpretation of a text with an original, contemporary meaning.
 
-5. **"Immanuel" not applied**: The name "Immanuel" means "God is with us"—referring to God's presence and help during Ahaz's crisis. No one ever called Jesus by this name, suggesting Matthew's application is symbolic, not literal fulfillment.
+5. **"Immanuel" not applied**: The name "Immanuel" means "God is with us." Referring to God's presence and help during Ahaz's crisis. No one ever called Jesus by this name, suggesting Matthew's application is symbolic, not literal fulfillment.
 
 ## Christian Perspective
 

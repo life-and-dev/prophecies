@@ -1,3 +1,8 @@
+---
+description: Isaiah 52:13-15 prophesied the servant would be marred beyond recognition yet exalted, fulfilled in Jesus' suffering and resurrection.
+keywords: marred appearance, exalted servant, Isaiah 52:13, disfigured beyond recognition, suffering and glory
+---
+
 # Exalted Yet Disfigured
 
 > **Fulfillment Category:** Vague or Debatable
@@ -8,11 +13,11 @@
 
 > Behold, **my servant shall act wisely; he shall be high and lifted up**, and shall be exalted. As many were astonished at you—**his appearance was so marred, beyond human semblance**, and his form beyond that of the children of mankind—so shall he sprinkle many nations. Kings shall shut their mouths because of him. — Isaiah 52:13-15 (ESV)
 
-The Messiah would be both *exalted* and *disfigured*—glory through suffering.
+The Messiah would be both *exalted* and *disfigured*. Glory through suffering.
 
 ## Fulfillment in Jesus
 
-Jesus was exalted through resurrection and ascension, but only after brutal suffering during crucifixion—his appearance marred by scourging, beating, and crucifixion wounds.
+Christians believe Jesus was exalted through resurrection and ascension, but only after brutal suffering during crucifixion. His appearance was marred by scourging, beating, and crucifixion wounds.
 
 ### Evidence from the New Testament
 
@@ -52,6 +57,6 @@ The pattern is unmistakable: first disfigurement ("marred beyond human semblance
 
 ## Assessment
 
-**Christian View**: Jesus fulfills this prophecy through his brutal suffering on the cross (appearance marred) followed by resurrection and exaltation (lifted up). The sequence of humiliation then glory perfectly matches the prophet's vision.
+**Christian View**: Christians believe Jesus fulfills this prophecy through his brutal suffering on the cross (appearance marred) followed by resurrection and exaltation (lifted up). The sequence of humiliation then glory perfectly matches the prophet's vision.
 
 **Strength of Fulfillment**: Possibly. The pattern of suffering leading to exaltation clearly fits Jesus' death and resurrection. The "marred appearance" accurately describes crucifixion's brutality. However, the interpretation hinges on whether the servant is individual or collective, and whether exaltation means resurrection or national restoration.

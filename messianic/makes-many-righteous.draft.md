@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:11-12 prophesied the servant making many righteous and bearing sins, fulfilled in Jesus' atoning death and justification.
+keywords: make many righteous, Isaiah 53:11, numbered with transgressors, bore sins, intercession for sinners
+---
+
 # Makes Many Righteous
 
 > **Fulfillment Category:** Complete Fulfillment
@@ -16,7 +21,7 @@ Jesus himself cited this prophecy:
 
 > For I tell you that this Scripture must be fulfilled in me: **"And he was numbered with the transgressors."** For what is written about me has its fulfillment. — Luke 22:37 (ESV)
 
-And it happened—crucified between criminals:
+And it happened. Crucified between criminals:
 
 > And with him they crucified **two robbers, one on his right and one on his left**. — Mark 15:27 (ESV)
 
@@ -36,10 +41,10 @@ And it happened—crucified between criminals:
 
 ### Response
 
-Jesus' self-application of this prophecy (Luke 22:37) is significant—he consciously fulfilled it. The New Testament consistently teaches that through Jesus' death, many are made righteous (justified) before God, exactly as Isaiah prophesied.
+Jesus' self-application of this prophecy (Luke 22:37) is significant. He consciously fulfilled it. The New Testament consistently teaches that through Jesus' death, many are made righteous (justified) before God, exactly as Isaiah prophesied.
 
 ## Assessment
 
-**Christian View**: Jesus bore the sins of many, was numbered with transgressors at crucifixion, and makes many righteous through his atoning work. He continues to intercede for believers.
+**Christian View**: Christians believe Jesus bore the sins of many, was numbered with transgressors at crucifixion, and makes many righteous through his atoning work. He continues to intercede for believers.
 
 **Strength of Fulfillment**: Yes. Jesus explicitly claimed this prophecy and it was fulfilled at crucifixion. The New Testament theology of justification (being made righteous through Christ's atoning death) directly matches Isaiah 53:11-12's language.

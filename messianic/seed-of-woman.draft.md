@@ -1,3 +1,8 @@
+---
+description: Genesis 3:15 describes conflict between serpent and woman's seed, typologically applied to Jesus defeating Satan through crucifixion.
+keywords: seed of woman, Genesis 3:15, bruise head, crush Satan, protoevangelium, serpent defeat
+---
+
 # The Seed of the Woman
 
 > **Fulfillment Category:** Misunderstood Context
@@ -10,11 +15,11 @@ The first messianic prophecy appears immediately after the Fall, when God addres
 
 > I will put enmity between you and the woman, and between your offspring and her offspring; **he shall bruise your head, and you shall bruise his heel**. — Genesis 3:15 (ESV)
 
-This is known as the *protoevangelium* (first gospel)—the earliest promise of a coming Redeemer. Note the striking details:
+This is known as the *protoevangelium* (first gospel). It is the earliest promise of a coming Redeemer. Christians note the striking details:
 
-- **"Her offspring"** (seed of the woman)—unusual phrasing, since lineage typically traced through fathers. This hints at virgin birth.
-- **"He shall bruise your head"**—a fatal blow to Satan's authority
-- **"You shall bruise his heel"**—a painful but non-fatal wound to the Messiah
+- **"Her offspring"** (seed of the woman). Unusual phrasing, since lineage typically traced through fathers. This hints at virgin birth.
+- **"He shall bruise your head"**. A fatal blow to Satan's authority.
+- **"You shall bruise his heel"**. A painful but non-fatal wound to the Messiah.
 
 The prophecy predicts cosmic conflict between Satan and the Messiah, resulting in Satan's defeat and the Messiah's suffering.
 
@@ -48,19 +53,9 @@ Through his crucifixion (heel bruised) and resurrection, Jesus dealt the fatal b
 
 **Not Considered Messianic.**
 
-### Jewish Objections
+### Jewish Interpretation
 
-1. **Literal: humans vs. snakes**: The most straightforward reading explains natural enmity between humans and snakes—humans fear snakes and try to crush their heads, while snakes strike at humans' heels. It's etiological (explaining origins), not prophetic.
-
-2. **Ongoing struggle with evil**: Some interpret the serpent as representing evil inclination (yetzer hara) or evil forces generally. The "seed of the woman" is humanity collectively struggling against evil throughout history—not a specific individual Messiah.
-
-3. **No "he" in Hebrew**: The Hebrew pronoun "hu" can be "he," "it," or "they" depending on context. Since "seed" (zera) is collective, it could mean "they [humanity/Israel] shall bruise your head." No indication of singular male descendant.
-
-4. **Virgin birth reading rejected**: Christians emphasize "seed of the woman" as hinting at virgin birth (seed without father). Jews see no such implication—the phrase simply describes human descendants generally, as Eve is mother of all humanity.
-
-5. **No resurrection mentioned**: The "bruised heel" vs. "crushed head" distinction doesn't clearly predict death and resurrection. Both parties are injured; one wound is more serious, but that doesn't imply one party dies and rises again.
-
-6. **No Satan concept here**: Genesis 3 depicts a literal serpent (though crafty). The equation serpent = Satan comes from later Christian theology (Revelation 12:9), not from Genesis itself or Jewish interpretation.
+The most straightforward reading explains natural enmity between humans and snakes. Humans fear snakes and try to crush their heads, while snakes strike at humans' heels. It's etiological (explaining origins), not prophetic. The serpent represents evil inclination (yetzer hara) or evil forces generally. The "seed of the woman" is humanity collectively struggling against evil throughout history, not a specific individual Messiah. Genesis 3 depicts a literal serpent. The equation serpent = Satan comes from later Christian theology (Revelation 12:9), not from Genesis itself or Jewish interpretation.
 
 ## Christian Perspective
 

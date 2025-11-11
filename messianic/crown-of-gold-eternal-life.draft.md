@@ -1,3 +1,8 @@
+---
+description: Psalm 21 celebrates Israel's king with gold crown and victory; Jesus received crown of thorns, contradicting the psalm's details.
+keywords: Psalm 21, crown of gold, length of days forever, king's victory, asked life from God
+---
+
 # Crown of Gold and Eternal Life
 
 > **Fulfillment Category:** Misunderstood Context

@@ -1,3 +1,8 @@
+---
+description: Isaiah 11:1-5 foretold a Spirit-empowered descendant of Jesse who would judge righteously, fulfilled in Jesus Christ.
+keywords: Jesse's descendant, Isaiah 11, shoot from stump, Davidic lineage, Spirit of the Lord, righteous judge
+---
+
 # Descended from Jesse
 
 > **Fulfillment Category:** Vague or Debatable

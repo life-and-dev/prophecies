@@ -1,3 +1,8 @@
+---
+description: Psalm 2:7 declares divine sonship and begetting, applied by Paul to Jesus' resurrection and God's unique declaration of Sonship.
+keywords: You are my Son, Psalm 2:7, divine sonship, today begotten, nations inheritance, Kiss the Son
+---
+
 # Divine Sonship Declared
 
 > **Fulfillment Category:** Vague or Debatable

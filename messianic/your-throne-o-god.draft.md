@@ -1,3 +1,8 @@
+---
+description: Psalm 45 addresses Israel's king; Hebrews applies "Your throne, O God" to Jesus, but context suggests royal wedding hymn.
+keywords: Psalm 45, Your throne O God, Hebrews 1:8, forever and ever, anointed above fellows, royal wedding psalm
+---
+
 # Your Throne, O God, Is Forever
 
 > **Fulfillment Category:** Misunderstood Context

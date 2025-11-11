@@ -1,3 +1,8 @@
+---
+description: Daniel 9:24-26 prophesied the Messiah's appearance and being cut off, debated as fulfilled in Jesus' ministry and crucifixion.
+keywords: Daniel 70 weeks, seventy weeks prophecy, Daniel 9, Messiah cut off, anointed one, Jerusalem decree
+---
+
 # Daniel's Seventy Weeks
 
 > **Fulfillment Category:** Vague or Debatable
@@ -54,8 +59,8 @@ The timing aligns with Daniel's prophecy that the Messiah would be "cut off" bef
 - **Math doesn't work**: Even using "weeks of years" (490 years), calculations from any reasonable decree date don't land precisely on Jesus' ministry or crucifixion. Christians use various methods (prophetic years, gaps, recalculations) that Jews see as manipulating the numbers.
 
 **(3) Messiah not "cut off" in a good sense**:
-- The Hebrew "yikaret" (cut off) typically means "executed as punishment" or "destroyed"—it's a negative term (Genesis 17:14; Exodus 12:15; Leviticus 17:10). Jews argue this doesn't describe Messiah's redemptive death but rather someone being killed as punishment or tragedy.
-- The phrase "shall have nothing" (9:26) suggests the anointed one dies without achieving his purposes—hardly fitting for a successful messianic mission.
+- The Hebrew "yikaret" (cut off) typically means "executed as punishment" or "destroyed." It's a negative term (Genesis 17:14; Exodus 12:15; Leviticus 17:10). Jews argue this doesn't describe Messiah's redemptive death but rather someone being killed as punishment or tragedy.
+- The phrase "shall have nothing" (9:26) suggests the anointed one dies without achieving his purposes. Hardly fitting for a successful messianic mission.
 
 **(4) Atonement already accomplished**:
 - Daniel 9:24 lists six goals: "finish transgression, put an end to sin, atone for iniquity, bring everlasting righteousness, seal vision and prophet, anoint most holy place."
@@ -84,7 +89,7 @@ While calculations are debated, the general timeframe works:
 
 **Ambiguous term**: While "cut off" can mean punishment, it can also mean executed unjustly or as substitute. Isaiah 53:8 uses the same term for the suffering servant: "he was cut off out of the land of the living; for the transgression of my people he was stricken." This is vicarious, not punishment for his own sin.
 
-**"Shall have nothing"**: This describes the Messiah's earthly state—rejected, without kingdom or honor—not failure of mission. Jesus was cut off, had nothing in this world, yet accomplished atonement.
+**"Shall have nothing"**: This describes the Messiah's earthly state. Rejected, without kingdom or honor. Not failure of mission. Jesus was cut off, had nothing in this world, yet accomplished atonement.
 
 #### 3. Six Goals Progressive Fulfillment
 
@@ -101,7 +106,7 @@ Christians argue these were inaugurated at Jesus' first coming with full realiza
 
 **Temple desecration vs. destruction**: Antiochus desecrated the temple (167 BC), but Daniel 9:26 says the "people of the prince" will "destroy the city and the sanctuary." The Romans completely destroyed both in 70 AD—a better fit.
 
-**After Messiah cut off**: The destruction comes "after" the anointed one is cut off (9:26). If the anointed one is Onias III (killed ~170 BC) and the destruction is by Antiochus (167 BC), the timing is too close. Jesus was crucified (AD 30-33), then Jerusalem destroyed (70 AD)—a 37-40 year gap fits "after."
+**After Messiah cut off**: The destruction comes "after" the anointed one is cut off (9:26). If the anointed one is Onias III (killed ~170 BC) and the destruction is by Antiochus (167 BC), the timing is too close. Jesus was crucified (AD 30-33), then Jerusalem destroyed (70 AD). A 37-40 year gap fits "after."
 
 **"People of the prince"**: The Romans (people of the coming prince/antichrist) destroyed Jerusalem, fitting the prophecy better than Antiochus.
 

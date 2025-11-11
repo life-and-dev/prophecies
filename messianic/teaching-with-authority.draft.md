@@ -1,3 +1,8 @@
+---
+description: Isaiah 54:13 prophesied being taught by the LORD, applied by Jesus to himself as the divine teacher with authority.
+keywords: taught by God, Isaiah 54:13, teaching with authority, divine teacher, learned from Father
+---
+
 # Teaching with Authority
 
 > **Fulfillment Category:** Vague or Debatable
@@ -35,15 +40,9 @@ And after hearing Jesus teach, the crowds recognized this authority:
 
 **Not Considered Messianic.** Isaiah 54:13 is generally not viewed by Jews as a direct messianic prophecy.
 
-### Jewish Objections
+### Jewish Interpretation
 
-1. **Context is national restoration**: Isaiah 54 describes Israel's restoration after exile—"your children" refers to the Jewish people being taught by God through prophets and Torah study, not through one individual Messiah.
-
-2. **Already fulfilled**: Jews see this as fulfilled through the return from Babylonian exile, the rebuilding of Jerusalem, and the establishment of Torah education systems.
-
-3. **Present reality**: Traditional Judaism emphasizes that all Jews are currently taught by God through Torah study, synagogue instruction, and rabbinic teaching—this is an ongoing reality, not awaiting messianic fulfillment.
-
-4. **Misapplication**: Jesus' claim that people must "come to me" to be taught by the Father (John 6:45-46) is seen as adding to Scripture. The original text doesn't mention a mediator—it says people will be "taught by the LORD" directly through His word.
+Isaiah 54 describes Israel's restoration after exile. "Your children" refers to the Jewish people being taught by God through prophets and Torah study, not through one individual Messiah. Traditional Judaism emphasizes that all Jews are currently taught by God through Torah study, synagogue instruction, and rabbinic teaching. This is an ongoing reality, not awaiting messianic fulfillment.
 
 ## Christian Perspective
 

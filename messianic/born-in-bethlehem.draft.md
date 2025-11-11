@@ -1,3 +1,8 @@
+---
+description: Micah 5:2 prophesied the Messiah's birth in Bethlehem, fulfilled when Jesus was born there during a Roman census.
+keywords: Bethlehem birth, Micah 5:2, birthplace prophecy, Ephrathah, Caesar Augustus census
+---
+
 # Born in Bethlehem
 
 > **Fulfillment Category:** Vague or Debatable
@@ -40,9 +45,9 @@ Jesus was born exactly where Micah predicted, seven centuries earlier.
 
 1. **Contextual fulfillment missing**: Being born in Bethlehem is insufficient evidence of messiahship because the immediate context of Micah 4-5 describes the Messiah accomplishing specific military and political deliverances that Jesus did not fulfill.
 
-2. **Peace not established**: The prophecy says "they shall dwell secure" and "he shall be their peace," yet Israel remained under Roman occupation and was destroyed in 70 AD. The Messiah should bring immediate, visible security and peace.
+2. **Peace not established**: [The prophecy says "they shall dwell secure" and "he shall be their peace,"](https://jewsforjudaism.org/knowledge/documents/micah-5-bethlehem-messiahs-birthplace) yet Israel remained under Roman occupation and was destroyed in 70 AD. The Messiah should bring immediate, visible security and peace.
 
-3. **Assyrian deliverance**: Micah 5:5-6 specifically mentions defeating "the Assyrian" when he invades. Jesus did not defeat any military power, and by the time of his ministry, Assyria had ceased to exist for over 600 years.
+3. **Assyrian deliverance**: [Micah 5:5-6 specifically mentions defeating "the Assyrian" when he invades](https://hermeneutics.stackexchange.com/questions/208/what-is-micah-55-6-talking-about). Jesus did not defeat any military power, and by the time of his ministry, Assyria had ceased to exist for over 600 years.
 
 4. **Military victory absent**: The passage describes the Messiah defeating enemies militarily ("shepherd the land of Assyria with the sword," "your hand shall be lifted up over your adversaries, and all your enemies shall be cut off"). Jesus never led military campaigns or defeated Israel's enemies.
 

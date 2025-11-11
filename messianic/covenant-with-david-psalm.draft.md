@@ -1,3 +1,8 @@
+---
+description: Psalm 89 recounts God's covenant with David about his ongoing dynasty and descendants, not exclusively about one future Messiah.
+keywords: Psalm 89, covenant with David, David's sons, his offspring forever, firstborn highest kings
+---
+
 # Covenant with My Chosen, David
 
 > **Fulfillment Category:** Misunderstood Context

@@ -1,3 +1,8 @@
+---
+description: Zechariah 11:13 foretold silver thrown in the temple for the potter, fulfilled when Judas' betrayal money bought a potter's field.
+keywords: money thrown temple, Zechariah 11:13, potter field, thirty silver temple, Judas threw silver
+---
+
 # Money Thrown in Temple, Used for Potter's Field
 
 > **Fulfillment Category:** Vague or Debatable
@@ -12,18 +17,18 @@
 
 > Then when Judas, his betrayer, saw that Jesus was condemned, he changed his mind and **brought back the thirty pieces of silver to the chief priests** and the elders, saying, "I have sinned by betraying innocent blood." They said, "What is that to us? See to it yourself." And **throwing down the pieces of silver into the temple**, he departed, and he went and hanged himself. But the chief priests, taking the pieces of silver, said, "It is not lawful to put them into the treasury, since it is blood money." So they took counsel and **bought with them the potter's field** as a burial place for strangers. — Matthew 27:3-7 (ESV)
 
-Thirty silver pieces, thrown into the temple, used to buy a potter's field—precisely as Zechariah wrote.
+Thirty silver pieces, thrown into the temple, used to buy a potter's field. Precisely as Zechariah wrote.
 
 ### Evidence from the New Testament
 
 - **Thrown in temple** (Matthew 27:5): Judas threw silver into temple
 - **Potter's field** (Matthew 27:7): Money used to buy potter's field
-- **Exact sequence**: Same order—thirty silver, temple, potter
+- **Exact sequence**: Same order. Thirty silver, temple, potter.
 - **Matthew's citation** (Matthew 27:9-10): Links to Jeremiah/Zechariah
 
 ## Jewish Perspective
 
-*See previous prophecy—not considered messianic; symbolic action in Zechariah's time.*
+*See previous prophecy. Not considered messianic; symbolic action in Zechariah's time.*
 
 ## Christian Perspective
 
@@ -33,6 +38,6 @@ The sequence of details is too specific to dismiss as coincidence: (1) thirty pi
 
 ## Assessment
 
-**Christian View**: The precise fulfillment of multiple specific details (amount, location, use) demonstrates prophetic intent.
+**Christian View**: Christians believe the precise fulfillment of multiple specific details (amount, location, use) demonstrates prophetic intent.
 
 **Strength of Fulfillment**: Possibly. The multiple specific details matching in exact sequence is remarkable. However, whether Zechariah intended this as messianic prophecy remains debated.

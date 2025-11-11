@@ -1,3 +1,8 @@
+---
+description: Zechariah 9:9 foretold the king entering Jerusalem on a donkey, fulfilled in Jesus' deliberate triumphal entry.
+keywords: triumphal entry, Zechariah 9:9, riding on donkey, king comes humbly, Palm Sunday, colt foal donkey
+---
+
 # Triumphal Entry on a Donkey
 
 > **Fulfillment Category:** Vague or Debatable
@@ -10,7 +15,7 @@ Zechariah foresaw the Messiah's entry into Jerusalem:
 
 > Rejoice greatly, O daughter of Zion! Shout aloud, O daughter of Jerusalem! Behold, **your king is coming to you; righteous and having salvation is he, humble and mounted on a donkey, on a colt, the foal of a donkey**. — Zechariah 9:9 (ESV)
 
-A king entering Jerusalem—not on a warhorse, but humbly on a donkey.
+A king entering Jerusalem, not on a warhorse, but humbly on a donkey.
 
 ## Fulfillment in Jesus
 
@@ -28,15 +33,9 @@ A king entering Jerusalem—not on a warhorse, but humbly on a donkey.
 
 **Accepted as Messianic, but unfulfilled.**
 
-### Jewish Objections
+### Jewish Interpretation
 
-1. **Context requires complete fulfillment**: Zechariah 9:9-10 promises this king will "speak peace to the nations" and "his rule shall be from sea to sea." Jesus didn't establish peace or worldwide rule.
-
-2. **Military victory missing**: Zechariah 9:10 says "he shall cut off the chariot from Ephraim and the war horse from Jerusalem"—depicting disarmament because peace is established. War continued after Jesus' entry.
-
-3. **Humble entry, but what followed?**: The donkey signifies the Messiah comes in peace, not war—but this should be followed by actual peace and kingdom establishment. Jesus entered Jerusalem but was executed days later.
-
-4. **Temporary, not permanent**: The crowd's recognition was fleeting—within a week they were calling for his crucifixion. The Messiah's arrival should result in permanent, undeniable transformation.
+Zechariah 9:9-10 promises this king will "speak peace to the nations" and "his rule shall be from sea to sea." The prophecy requires complete fulfillment, including disarmament and worldwide peace. Jesus entered Jerusalem on a donkey but did not establish peace or worldwide rule. The donkey signifies the Messiah comes in peace, but this should be followed by actual peace and kingdom establishment. Jesus was executed days after his entry.
 
 ## Christian Perspective
 

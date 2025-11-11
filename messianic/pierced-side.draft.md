@@ -1,3 +1,8 @@
+---
+description: Zechariah 12:10 prophesied looking on the one pierced, fulfilled when a soldier pierced Jesus' side with a spear.
+keywords: pierced side, Zechariah 12:10, look on him pierced, spear in side, they shall mourn
+---
+
 # Pierced Side
 
 > **Fulfillment Category:** Vague or Debatable
@@ -25,17 +30,7 @@ Zechariah saw a future mourning over one who was pierced:
 
 ### Messianic Status
 
-**Debated Whether Messianic.**
-
-### Jewish Objections
-
-1. **Context: military victory**: Zechariah 12 describes Jerusalem's future deliverance when God defeats attacking nations. The "piercing" occurs in warfare context—Jews interpret this as a Jewish military leader or martyr killed in battle defending Jerusalem.
-
-2. **"Me whom they have pierced" vs. "him"**: Hebrew text ambiguous—could mean God speaking (how can God be pierced?), or "him whom they have pierced" referring to a human. Some translations read "they shall look to me concerning him whom they pierced."
-
-3. **National mourning, not individual**: The mourning involves "every family by itself" (12:12-14), depicting national lamentation over Jewish casualties in end-times battles.
-
-4. **Piercing is warfare, not crucifixion**: Hebrew "daqar" means pierce/thrust through with sword or spear in battle—describes military death, not crucifixion. The Roman soldier's spear thrust doesn't fit Zechariah 12's eschatological battle context.
+**Debated Whether Messianic.** Zechariah 12:10 is interpreted by many Jewish scholars as referring to a military context rather than a specific messianic figure. The "piercing" in context describes warfare casualties during Jerusalem's future deliverance, and the national mourning may refer to collective Jewish casualties rather than one individual.
 
 ## Christian Perspective
 

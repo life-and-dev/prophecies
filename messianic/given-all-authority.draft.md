@@ -1,3 +1,8 @@
+---
+description: Daniel 7:13-14's Son of Man receiving universal dominion, fulfilled when Jesus claimed all authority after his resurrection.
+keywords: Son of Man, Daniel 7:13, all authority, everlasting dominion, clouds of heaven, Ancient of Days
+---
+
 # Given All Authority
 
 > **Fulfillment Category:** Vague or Debatable
@@ -32,7 +37,7 @@ After his resurrection, Jesus declared:
 
 ### Jewish Objections
 
-1. **"Son of man" represents Israel**: Many Jewish scholars interpret "one like a son of man" (bar enash in Aramaic) as symbolizing Israel collectively, not an individual Messiah. Daniel 7's context supports this—four beasts represent four kingdoms (Babylon, Medo-Persia, Greece, Rome), then "one like a son of man" (human figure) contrasts with beastly kingdoms, representing Israel/the saints receiving God's kingdom (Daniel 7:18, 22, 27).
+1. **"Son of man" represents Israel**: Many Jewish scholars interpret "one like a son of man" (bar enash in Aramaic) as symbolizing Israel collectively, not an individual Messiah. Daniel 7's context supports this. Four beasts represent four kingdoms (Babylon, Medo-Persia, Greece, Rome), then "one like a son of man" (human figure) contrasts with beastly kingdoms, representing Israel/the saints receiving God's kingdom (Daniel 7:18, 22, 27).
 
 2. **Future event, not yet fulfilled**: Even Jews who interpret this as Messiah argue it describes a future event—Messiah coming "with clouds of heaven" in visible, glorious manifestation to establish God's kingdom on earth. Jesus didn't fulfill this during his earthly ministry.
 
@@ -64,7 +69,7 @@ After his resurrection, Jesus declared:
 
 ## Assessment
 
-**Christian View**: Jesus is the Son of Man who received all authority from the Ancient of Days at his ascension. His kingdom is being established progressively, with full visible manifestation awaiting his return on the clouds.
+**Christian View**: Christians believe Jesus is the Son of Man who received all authority from the Ancient of Days at his ascension. His kingdom is being established progressively, with full visible manifestation awaiting his return on the clouds.
 
 **Strength of Fulfillment**: Possibly. Jesus' explicit self-identification as the Son of Man, his claim to have received all authority (Matthew 28:18), and his prediction of returning on clouds (Mark 13:26; 14:62) demonstrate deliberate connection to Daniel 7:13-14. However, the visible universal kingdom and complete subjugation of all peoples remains incomplete, requiring eschatological fulfillment. The interpretation depends on whether:
 - Son of Man is individual (Christian) or collective Israel (Jewish)

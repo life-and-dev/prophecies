@@ -1,3 +1,8 @@
+---
+description: Isaiah 9:6-7 foretold divine titles for a child establishing endless government, debated as fulfilled in Jesus' eternal kingdom.
+keywords: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace, Isaiah 9:6, divine titles
+---
+
 # Titles of Divine Authority
 
 > **Fulfillment Category:** Vague or Debatable
@@ -39,17 +44,9 @@ Christians often apply these titles to Jesus, though they recognize the contextu
 
 **Debated/Accepted as Messianic.** While some Jewish sources recognize messianic elements, most reject the Christian interpretation of divine titles.
 
-### Jewish Objections
+### Jewish Interpretation
 
-1. **Translation issues**: "Mighty God" (El Gibbor) in Hebrew doesn't necessarily mean deity. It can also mean "mighty hero" or "divine warrior"—a human being with God-given strength. The term "Everlasting Father" is interpreted as "father of eternity," meaning a long-lived or enduring ruler, not "God the Father" as Christians claim.
-
-2. **Historical context**: Some argue verses 6-7 originally referred to King Hezekiah as a contemporary fulfillment. The titles describe an exceptional king, not necessarily deity incarnate.
-
-3. **Unfulfilled conditions**: The prophecy promises "of the increase of his government and of peace there will be no end," which Jews argue requires visible, earthly peace and ever-expanding territorial rule. Jesus did not establish such a government—no visible peace, no expanding territory, no political reign.
-
-4. **Temporal disconnect**: Since the prophecy speaks of a child "born to us" in past tense and "government on his shoulders" in present/future tense, Jews argue this describes events in Isaiah's own era, possibly Hezekiah's birth and reign (born during Isaiah's ministry, reigned with God's blessing).
-
-5. **Judgment context**: Verse 8 immediately shifts to judgment on Jacob/Israel, suggesting the child's role involves executing judgment in Isaiah's time, not a distant messianic future.
+"Mighty God" (El Gibbor) in Hebrew doesn't necessarily mean deity. It can also mean "mighty hero" or "divine warrior," a human being with God-given strength. The term "Everlasting Father" is interpreted as "father of eternity," meaning a long-lived or enduring ruler. Some argue verses 6-7 originally referred to King Hezekiah as a contemporary fulfillment. The titles describe an exceptional king, not necessarily deity incarnate. The prophecy promises "of the increase of his government and of peace there will be no end," which requires visible, earthly peace and ever-expanding territorial rule that Jesus did not establish.
 
 ## Christian Perspective
 

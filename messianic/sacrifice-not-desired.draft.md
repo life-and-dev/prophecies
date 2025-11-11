@@ -1,3 +1,8 @@
+---
+description: Psalm 40 is David's confession acknowledging personal iniquities and pleading for deliverance, contradicting application to sinless Jesus.
+keywords: Psalm 40, sacrifice not desired, body prepared, my iniquities, delight do your will, open ear
+---
+
 # Sacrifice and Offering You Did Not Desire
 
 > **Fulfillment Category:** Misunderstood Context

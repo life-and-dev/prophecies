@@ -1,3 +1,8 @@
+---
+description: Isaiah 53:5-6 prophesied piercing for our transgressions and bearing our iniquities, fulfilled in Jesus' crucifixion and atonement.
+keywords: pierced for transgressions, Isaiah 53:5, crushed for iniquities, by his wounds healed, vicarious atonement
+---
+
 # Pierced for Our Transgressions
 
 > **Fulfillment Category:** Complete Fulfillment

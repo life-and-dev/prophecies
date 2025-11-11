@@ -1,3 +1,8 @@
+---
+description: Psalm 68 celebrates God's military victories; Paul changes "received gifts" to "gave gifts" when applying it to Christ's ascension in Ephesians 4.
+keywords: Psalm 68, ascended on high, led captives, Ephesians 4:8, gave gifts, received gifts, Paul interpretation, midrash
+---
+
 # Ascended on High, Led Captives
 
 > **Fulfillment Category:** Misunderstood Context

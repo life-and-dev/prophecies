@@ -19,10 +19,6 @@ Christians believe Jesus Christ serves as high priest who opened the way for all
 
 > Consequently, **he is able to save to the uttermost those who draw near to God through him**, since he always lives to make intercession for them. — Hebrews 7:25 (ESV)
 
-Through Jesus' sacrificial death, the temple curtain separating humanity from God's presence was torn, granting believers direct access:
-
-> And behold, **the curtain of the temple was torn in two**, from top to bottom. And the earth shook, and the rocks were split. — Matthew 27:51 (ESV)
-
 > Therefore, brothers, since **we have confidence to enter the holy places by the blood of Jesus**, by the new and living way that he opened for us through the curtain, that is, through his flesh, and since we have a great priest over the house of God, **let us draw near with a true heart** in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. — Hebrews 10:19-22 (ESV)
 
 ### Christian

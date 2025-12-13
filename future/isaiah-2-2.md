@@ -3,7 +3,7 @@ description: Isaiah 2:2-4 predicts all nations will stream to Jerusalem to learn
 keywords: Isaiah 2, pilgrimage to Zion, swords into plowshares, universal peace, mountain of the Lord, future prophecy, unfulfilled
 ---
 
-# The Nations' Pilgrimage to Zion
+# Isaiah 2:2-4 (The Nations' Pilgrimage to Zion)
 
 ## Prophecy
 

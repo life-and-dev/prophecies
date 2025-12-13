@@ -3,7 +3,7 @@ description: Prophecy regarding the exile and death of King Jehoiachin (Coniah) 
 keywords: Jehoiachin, Coniah, Jeconiah, prophecy, Jeremiah 22, exile, Babylon, childless, genealogy of Jesus, ration tablets
 ---
 
-# The Exile of King Jehoiachin
+# Jeremiah 22:24-26,30 (The Exile of King Jehoiachin)
 
 ## Prophecy
 
@@ -26,7 +26,11 @@ The [Septuagint](https://www.britannica.com/topic/Septuagint) translators chose 
 
 ### Historic
 
-In 597 BCE, Jehoiachin surrendered to Nebuchadnezzar and was deported to Babylon. Babylonian records, specifically the **Jehoiachin's Ration Tablets** (excavated near the Ishtar Gate), list rations for "Ya’u-kīnu, king of the land of Yahudu," confirming his presence as a captive in Babylon. He died in exile, never returning to rule Judah.
+In 597 BCE, Jehoiachin surrendered to Nebuchadnezzar and was deported to Babylon. Babylonian records, specifically the **Jehoiachin's Ration Tablets** (excavated near the Ishtar Gate), list rations for "Ya'u-kīnu, king of the land of Yahudu," confirming his presence as a captive in Babylon. He died in exile, never returning to rule Judah.
+
+#### Biblical confirmation
+
+Multiple Old Testament authors confirm this prophecy's fulfillment. 2 Kings 24-25 provides the primary historical account of his 3-month reign, exile, and 37-year imprisonment in Babylon. 2 Chronicles 36:9-10 gives a parallel account. The prophet Ezekiel, exiled alongside Jehoiachin in 597 BCE, uses "the fifth year of King Jehoiachin's exile" as a chronological marker (Ezekiel 1:2), implicitly confirming the permanence of his removal from the throne.
 
 Regarding the "childless" prediction, 1 Chronicles 3:17-18 lists seven sons of Jehoiachin. However, none of his descendants ever reigned as king in Judah, fulfilling the prediction that no offspring would "succeed in sitting on the throne of David."
 

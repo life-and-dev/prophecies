@@ -3,7 +3,7 @@ description: Prophecy of a New Covenant where God writes His law on human hearts
 keywords: New Covenant, Jeremiah 31, prophecy, heart, forgiveness, Jesus Christ, Hebrews, messianic
 ---
 
-# The New Covenant
+# Jeremiah 31:31-34 (The New Covenant)
 
 ## Prophecy
 

@@ -4,9 +4,10 @@ These prophecies originally warned the original audience against the destruction
 
 However, for us they contain scientific measures to prove the credibility of [the inspired scriptures](https://word.ofgod.info/inspired).
 
-| Scripture    | Description                                                                 | Historians | Tanakh | Apostles |
-|--------------|-----------------------------------------------------------------------------|------------|--------|----------|
-| Isaiah 10:12 | [The punishment of the arrogant king of Assyria](political/isaiah-10-12.md) | Confirmed  | -      | -        |
+| Scripture            | Description                                                                                                     | Historians | Tanakh                                           | Apostles |
+| -------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------ | -------- |
+| Isaiah 10:12         | [The punishment of the arrogant king of Assyria](political/isaiah-10-12.md)                                     | Confirmed  | -                                                | -        |
+| Jeremiah 22:24-26,30 | [The exile, death in Babylon and cessation of King Jehoiachin (Coniah) royal line](political/jeremiah-22-24.md) | Confirmed  | 2 Kings 24-25; 2 Chronicles 36:9-10; Ezekiel 1:2 | -        |
 
 ---
 

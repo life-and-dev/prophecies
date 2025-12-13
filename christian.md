@@ -13,7 +13,7 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 
 | Scripture         | Description                                                                                         | Historians   | Tanakh | Apostles                        |
 |-------------------|-----------------------------------------------------------------------------------------------------|--------------|--------|---------------------------------|
-| Gensis 22:18      | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)* | Unmeasurable | -      | Acts 3:25-26; Galatians 3:16    |
+| Genesis 22:18      | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)* | Unmeasurable | -      | Acts 3:25-26; Galatians 3:16    |
 | Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)              | Unmeasurable | -      | Hebrews 4:14-16, 7:25, 10:19-22 |
 
 ---

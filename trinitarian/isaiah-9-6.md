@@ -3,7 +3,7 @@ description: Isaiah 9:6 predicts a child called "Strong Ěl" which Christians tr
 keywords: isaiah 9:6, mighty god, prince of peace, wonderful counselor, everlasting father, messianic prophecy, divinity of christ, hezekiah
 ---
 
-# Isaiah 9:6 (The Child with Four Titles)
+# Isaiah 9:6 (4 Title Child)
 
 ## Prophecy
 

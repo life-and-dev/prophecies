@@ -3,7 +3,7 @@ description: God promised Abraham that all nations would be blessed through his 
 keywords: Abrahamic blessing, Genesis 22:18, seed of Abraham, messianic prophecies, jesus christ, apostle peter, apostle paul, galatians 3:16
 ---
 
-# Blessing of All Nations Through Abraham's Seed
+# Genesis 22:18 (Abraham's Seed)
 
 ## The Prophecy
 

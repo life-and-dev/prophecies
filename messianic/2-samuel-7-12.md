@@ -3,7 +3,7 @@ description: God's covenant with David promising an eternal throne through his o
 keywords: 2 Samuel 7:12-16, Davidic covenant, eternal throne, offspring of David, kingdom forever, messianic king, house for my name
 ---
 
-# I Will Raise Up Your Offspring
+# 2 Samuel 7:12-16 (David's Offspring)
 
 ## The Prophecy
 

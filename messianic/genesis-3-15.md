@@ -3,7 +3,7 @@ description: Genesis 3:15 describes conflict between serpent and woman's seed, t
 keywords: seed of woman, Genesis 3:15, bruise head, crush Satan, protoevangelium, serpent defeat
 ---
 
-# The Seed of the Woman
+# Genesis 3:15 (The Women's Seed)
 
 Christians call this the first messianic prophecy (*protoevangelium* - first gospel). It appears immediately after the Fall, when God addresses the serpent:
 

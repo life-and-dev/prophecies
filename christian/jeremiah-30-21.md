@@ -3,7 +3,7 @@ description: Jeremiah's leader authorized to approach God; Christians see Jesus 
 keywords: Jeremiah 30:21, approach God, draw near, who would dare, high priest, Hebrews 4:14-16, access to God, prince from among people
 ---
 
-# Who Would Dare of Himself to Approach Me?
+# Jeremiah 30:12-22 (Approaching God)
 
 ## The Prophecy
 

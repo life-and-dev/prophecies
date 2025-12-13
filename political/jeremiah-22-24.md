@@ -3,7 +3,7 @@ description: Prophecy regarding the exile and death of King Jehoiachin (Coniah) 
 keywords: Jehoiachin, Coniah, Jeconiah, prophecy, Jeremiah 22, exile, Babylon, childless, genealogy of Jesus, ration tablets
 ---
 
-# Jeremiah 22:24-26,30 (The Exile of King Jehoiachin)
+# Jeremiah 22:24-26,30 (King Jehoiachin)
 
 ## Prophecy
 

@@ -3,7 +3,7 @@ description: Isaiah 10:12 predicts the punishment of the arrogant king of Assyri
 keywords: Isaiah 10, Assyria punishment, Nineveh, arrogance, historic prophecy, judgment of nations
 ---
 
-# Isaiah 10:12 (The Punishment of Assyria)
+# Isaiah 10:12 (Assyria)
 
 ## Prophecy
 

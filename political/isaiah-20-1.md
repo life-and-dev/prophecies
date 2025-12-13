@@ -1,10 +1,9 @@
 ---
-title: The Conquest of Ashdod
 description: Isaiah predicted Ashdod's conquest by Sargon II. Critics questioned Sargon's existence until 1843, when archaeology confirmed his reign and campaign.
 keywords: Isaiah 20, Sargon II, Ashdod, archaeology, biblical archaeology, prophecy, historic fulfillment, Paul-Émile Botta, Dur-Sharrukin
 ---
 
-# The Conquest of Ashdod
+# Isaiah 20:1 (Ashdod)
 
 ## Isaiah 20:1 (ESV)
 
@@ -29,7 +28,5 @@ External resources:
 - [The Inscriptions of Sargon II](https://www.tertullian.org/fathers/sargon_inscriptions.htm)
 
 ## Conclusion
-
-**Historic fulfillment**
 
 The prophecy contains specific verifiable details—the name of the king (Sargon), the target city (Ashdod), and the outcome (capture)—which have been fully corroborated by archaeological evidence. The discovery of Sargon's palace and annals transformed this from a debated passage to a testament of the Bible's historical reliability.

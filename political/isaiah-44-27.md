@@ -3,7 +3,7 @@ description: Isaiah prophesied the specific military strategy Cyrus would use to
 keywords: Isaiah 44, Isaiah 45, Cyrus the Great, Cyrus prophecy, drying rivers, Euphrates, Babylon conquest, rebuild Jerusalem, temple foundation, fulfilled prophecy, Cyrus Cylinder, Ezra 1, Herodotus
 ---
 
-# The Cyrus Prophecy
+# Isaiah 44:27-28 (Cyrus)
 
 ## Prophecy
 
@@ -39,8 +39,6 @@ The [Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617
 - [The Fall of Babylon (Herodotus) - Livius.org](https://www.livius.org/sources/content/herodotus/the-fall-of-babylon/)
 
 ## Conclusion
-
-**Historic fulfillment**
 
 The prophecy was literally and precisely fulfilled on multiple levels:
 1. Cyrus conquered Babylon using the specific **military tactic** of diverting rivers (Isaiah 44:27)

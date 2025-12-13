@@ -21,6 +21,4 @@ While Damascus is one of the oldest continuously inhabited cities in the world, 
 
 ## Conclusion
 
-**Historic fulfillment**
-
 The prediction of Damascus's fall to Assyria was historically verified in the 8th century BCE.

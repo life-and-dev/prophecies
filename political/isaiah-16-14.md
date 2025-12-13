@@ -24,6 +24,4 @@ Historical records from the Assyrian empire, specifically during the reigns of [
 
 ## Conclusion
 
-**Historic fulfillment**
-
 The subjugation of Moab by Assyrian forces in the late 8th century BCE fulfills the prophetic warning.

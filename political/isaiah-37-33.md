@@ -3,7 +3,7 @@ description: Isaiah prophesied that the Assyrian King Sennacherib would fail to 
 keywords: Isaiah 37, Sennacherib, Jerusalem siege, Hezekiah, Assyrian empire, Taylor Prism, fulfilled prophecy, biblical archaeology, history
 ---
 
-# Sennacherib's Failure to Enter Jerusalem
+# Isaiah 37:33-35 (Sennacherib's Failure)
 
 ## Prophecy
 
@@ -12,8 +12,6 @@ During the reign of King Hezekiah, the Assyrian Empire was the dominant world po
 > Therefore thus says the LORD concerning the king of Assyria: **He shall not come into this city or shoot an arrow there**, or come before it with a shield or **cast up a siege mound against it**. By the way that he came, by the same he shall return, and **he shall not come into this city**, declares the LORD. For I will defend this city to save it, for my own sake and for the sake of my servant David. — Isaiah 37:33-35 (ESV)
 
 ## Fulfillment
-
-### Historic View
 
 This prophecy is one of the most well-attested events in biblical history, confirmed by both the biblical narrative and secular Assyrian records.
 
@@ -28,7 +26,5 @@ The [Taylor Prism](https://www.britishmuseum.org/collection/object/W_1855-1003-1
 Crucially, Sennacherib **does not claim to have captured Jerusalem**, entered the city, or deposed Hezekiah. This is a stunning admission by silence, as Assyrian kings famously exaggerated their victories and never omitted a conquest. His claim of shutting Hezekiah up "like a bird in a cage" confirms he surrounded the city but failed to take it, exactly as Isaiah predicted: "He shall not come into this city."
 
 ## Conclusion
-
-**Historic fulfillment**
 
 The primary prediction—that the Assyrian king would fail to enter Jerusalem despite his superior military force—was literally fulfilled. Both the Bible and Sennacherib's own records agree that the siege ended with Hezekiah still on the throne and Jerusalem unconquered, a unique anomaly in Sennacherib's otherwise victorious campaign.

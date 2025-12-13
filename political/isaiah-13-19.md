@@ -32,6 +32,4 @@ While Cyrus conquered Babylon in 539 BCE without immediately destroying it, the 
 
 ## Conclusion
 
-**Historic fulfillment**
-
 Every measurable aspect of the prophecy was fulfilled according to historians. The city of Babylon, once the greatest in the world, is now an uninhabited archaeological site, confirming the prediction that it would "never be inhabited" again.

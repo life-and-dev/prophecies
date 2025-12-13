@@ -19,6 +19,4 @@ Isaiah delivered this prophecy [during the 740s BCE](https://www.britannica.com/
 
 ## Conclusion
 
-**Historic fulfillment**
-
 The total collapse of the seemingly invincible Assyrian Empire demonstrates the prophetic judgment pronounced against it.

@@ -7,6 +7,9 @@ However, for us they contain scientific measures to prove the credibility of [th
 | Scripture            | Description                                                                                                     | Historians | Tanakh                                           | Apostles |
 | -------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------ | -------- |
 | Isaiah 10:12         | [The punishment of the arrogant king of Assyria](political/isaiah-10-12.md)                                     | Confirmed  | -                                                | -        |
+| Isaiah 13:17,19-20   | [The destruction of Babylon by the Medes](political/isaiah-13-19.md)                                            | Confirmed  | -                                                | -        |
+| Isaiah 16:14         | [The doom of Moab within three years](political/isaiah-16-14.md)                                                | Confirmed  | -                                                | -        |
+| Isaiah 17:1         | [The fall of Damascus](political/isaiah-17-1.md)                                                | Confirmed  | -                                                | -        |
 | Jeremiah 22:24-26,30 | [The exile, death in Babylon and cessation of King Jehoiachin (Coniah) royal line](political/jeremiah-22-24.md) | Confirmed  | 2 Kings 24-25; 2 Chronicles 36:9-10; Ezekiel 1:2 | -        |
 
 ---

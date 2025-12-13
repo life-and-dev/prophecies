@@ -3,7 +3,7 @@ description: Isaiah 65:17-18 predicts the creation of new heavens and a new eart
 keywords: Isaiah 65, new heavens new earth, new creation, Revelation 21, future prophecy, eschatology
 ---
 
-# New Heavens and New Earth
+# Isaiaih 65:17 (New Heavens and Earth)
 
 ## Prophecy
 
@@ -15,7 +15,7 @@ Isaiah is the only Old Testament book to explicitly promise a cosmic renewal of 
 
 ### Future View
 
-This prophecy goes beyond historical restoration to a complete transformation of the cosmos. The New Testament adopts this specific language in **2 Peter 3:13** and **Revelation 21:1** to describe the eternal state after the final judgment.
+This prophecy goes beyond historical restoration to a complete transformation of the cosmos. The New Testament adopts this specific language in 2 Peter 3:13 and Revelation 21:1 to describe the eternal state after the final judgment.
 
 > "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away..." — Revelation 21:1 (ESV)
 

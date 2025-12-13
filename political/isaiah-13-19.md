@@ -3,7 +3,7 @@ description: Isaiah 13:19-20 predicts Babylon's permanent desolation. Once the "
 keywords: Isaiah 13, Babylon prophecy, destruction of Babylon, biblical archaeology, Tyre desolation, fulfilled prophecy, Isaiah 13:19-20, Medes and Persians
 ---
 
-# The Destruction of Babylon
+# Isaiah 13:17,19-20 (Babylon)
 
 ## Prophecy
 

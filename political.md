@@ -16,6 +16,8 @@ However, for us they contain scientific measures to prove the credibility of [th
 | Isaiah 37:33-35      | [The survival of Jerusalem during Sennacherib's siege](political/isaiah-37-33-35.md)                            | Confirmed  | 2 Kings 19:35-36                                 | -        |
 | Isaiah 44:27-28      | [Cyrus's conquest of Babylon](political/isaiah-44-27.md)                                                        | Confirmed  | Ezra 1:2-3                                       | -        |
 | Jeremiah 22:24-26,30 | [The exile, death in Babylon and cessation of King Jehoiachin (Coniah) royal line](political/jeremiah-22-24.md) | Confirmed  | 2 Kings 24-25; 2 Chronicles 36:9-10; Ezekiel 1:2 | -        |
+| Jeremiah 25:8-9 | [Babylon destroyes Jerusalem](political/jeremiah-25-8.md) | Confirmed | - |  |
+| Jeremiah 25:11-12 | [70 year Babylonian dominance](political/jeremiah-25-11.md) | Confirmed | - |  |
 
 ---
 

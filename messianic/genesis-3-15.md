@@ -76,17 +76,7 @@ John declared Christ's purpose:
 
 > The reason the Son of God appeared was to **destroy the works of the devil**. — 1 John 3:8 (ESV)
 
-**Old Testament Foreshadowing:**
-
-The bronze serpent incident in Numbers prefigures Christ's defeat of the serpent through the cross:
-
-> And the LORD said to Moses, "Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live." So Moses made a bronze serpent and set it on a pole. — Numbers 21:8-9 (ESV)
-
-Jesus explicitly connected this to His crucifixion:
-
-> And as Moses **lifted up the serpent in the wilderness**, so must the Son of Man be **lifted up**, that whoever believes in him may have eternal life. — John 3:14-15 (ESV)
-
-The serpent lifted up on the pole typologically represents Christ bearing the serpent's curse on the cross, defeating the serpent (the devil) through His death and providing salvation for those who look to Him in faith.
+The typology of [the serpent being "lifted up"](../christian/numbers-21-8.md) was mentioned by Jesus according to John 3:14 who quoted Numbers 21:8-9.
 
 #### Christian Arguments
 

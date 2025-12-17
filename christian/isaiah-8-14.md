@@ -1,9 +1,9 @@
 ---
-description: Isaiah 8:13-14 predicts the Lord would be a sanctuary to some but a stone of stumbling to others. The NT applies this to Israel's rejection of Jesus.
+description: Isaiah 8:14 predicts the Lord would be a sanctuary to some but a stone of stumbling to others. The NT applies this to Israel's rejection of Jesus.
 keywords: Isaiah 8, stone of stumbling, rock of offense, sanctuary, Jesus rejection, Romans 9, 1 Peter 2, messianic prophecy
 ---
 
-# The Stone of Stumbling
+# Isaiah 8:14 (Stumbling Stone)
 
 ## Prophecy
 
@@ -32,8 +32,6 @@ Christians believe this prophecy was ultimately fulfilled in Jesus Christ, whom 
 This prophecy, Christians believe, explains the theological necessity of the Messiah causing division within Israel, serving as a test of faith. Those who accepted Jesus found him to be a sanctuary and foundation, while those who rejected him found him to be a stumbling block.
 
 ## Conclusion
-
-**Competing interpretations**
 
 **The Jewish interpretation** addresses Isaiah's immediate 8th century BCE context. The "stone" metaphor described God Himself as both sanctuary and stumbling block during the Assyrian crisis—how the people experienced God depended on whether they trusted Him or relied on political alliances. The Talmud and Rashi applied this to specific leaders and factions in Isaiah's era and the exile period, maintaining the focus on God's dual role in Israel's history based on the people's faithfulness.
 

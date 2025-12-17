@@ -16,6 +16,7 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 | Genesis 22:18     | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)* | Unmeasurable | Acts 3:25-26; Galatians 3:16    |
 | Numbers 21:8-9    | [The bronze serpent lifted up to heal Israelites from snakebites](christian/numbers-21-8.md)        | Unmeasurable | John 3:14-15                    |
 | Isaiah 6:9-10     | [People would hear but not understand](christian/isaiah-6-9.md)                                     | Unmeasurable | Matthew 13:14                   |
+| Isaiah 7:14       | [The virgin birth of Immanuel *(Jesus?)*](trinitarian/isaiah-7-14.md)                               | -            | 2 Kings 15:29 - 16:9            | Matthew 1:23                              
 | Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)              | Unmeasurable | Hebrews 4:14-16, 7:25, 10:19-22 |
 
 ---

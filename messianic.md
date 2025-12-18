@@ -8,7 +8,8 @@ These prophecies are significant because it indicate how we will know who is the
 | ----------------- | --------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------- |
 | Genesis 3:15      | [Conflict between the serpent and the woman's seed](messianic/genesis-3-15.md)                            | Debatable    | John 8:44; Romans 16:20; 1 John 3:8                                               |
 | 2 Samuel 7:12-16  | [God's covenant with David promising an eternal throne through his offspring](messianic/2-samuel-7-12.md) | Unmeasurable | Luke 1:32-33; Acts 2:30-32                                                        |
-| Jeremiah 23:5-6   | [The LORD righteous is our Righteouness *(Jesus' title)*](messianic/jeremiah-23-5.md)                     | Unmeasurable | Matthew 1:1; Luke 3:23-31; Romans 3:21-26; 1 Corinthians 1:30; 2 Corinthians 5:21 |                                      
+| Psalm 2:7         | [The anointed king who is the son of God](messianic/psalm-2-7.md)                                         | Unmeasurable | Luke 3:38; Acts 13:32-33                                                          |                                                                                   
+| Jeremiah 23:5-6   | [The LORD righteous is our Righteouness *(Jesus' title)*](messianic/jeremiah-23-5.md)                     | Unmeasurable | Matthew 1:1; Luke 3:23-31; Romans 3:21-26; 1 Corinthians 1:30; 2 Corinthians 5:21 |
 | Jeremiah 31:31-34 | [A New Covenant where God writes His law on human hearts](messianic/jeremiah-31-31.md)                    | Unmeasurable | Luke 22:20; Hebrews 8:8-12, 10:16-17                                              |
 
 ---

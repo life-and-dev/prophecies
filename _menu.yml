@@ -1,6 +1,7 @@
 - messianic:
   - genesis-3-15
   - 2-samuel-7-12
+  - psalm-2-7
   - jeremiah-23-5
   - jeremiah-31-31
 - christian:
@@ -10,6 +11,7 @@
   - isaiah-8-14
   - jeremiah-30-21
 - trinitarian:
+  - "Psalm 2:7 (God's Son)": ../messianic/psalm-2-7
   - psalm-24
   - isaiah-7-14
   - isaiah-9-6

@@ -3,35 +3,53 @@ description: God declares divine sonship and begetting; Paul applied this to Jes
 keywords: Psalm 2:7, You are my Son, today begotten, divine sonship, Acts 13:33, nations inheritance, Kiss the Son, coronation decree
 ---
 
-# You Are My Son, Today I Have Begotten You
+# Psalm 2 (God's Son)
 
 ## The Prophecy
 
-> Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying, "Let us burst their bonds apart and cast away their cords from us." He who sits in the heavens laughs; the Lord holds them in derision. Then he will speak to them in his wrath, and terrify them in his fury, saying, "As for me, I have set my King on Zion, my holy hill." I will tell of the decree: The LORD said to me, **"You are my Son; today I have begotten you. Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.** You shall break them with a rod of iron and dash them in pieces like a potter's vessel." Now therefore, O kings, be wise; be warned, O rulers of the earth. Serve the LORD with fear, and rejoice with trembling. **Kiss the Son**, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him. — Psalm 2:1-12 (ESV)
+> I will tell of the decree:
+> the LORD said to me, “You are my Son; **today I have begotten you**.
+> Ask of me, and I will make the nations your heritage, and the ends of the earth your possession. You shall break them with a rod of iron and dash them in pieces like a potter's vessel.”
+> Now therefore, O kings, be wise; be warned, O rulers of the earth.
+> Serve the LORD with fear, and rejoice with trembling.
+> Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. — Psalm 2:7-12 (ESV)
 
 ## Fulfillment
+
+### God
+
+God Himself publicly declared Jesus as His Son:
+
+> And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, **a voice from heaven said, "This is My beloved Son, with whom I am well pleased."** — Matthew 3:16-17 (ESV)
+
+> And a cloud overshadowed them, and **a voice came out of the cloud, "This is My beloved Son; listen to him."** — Mark 9:7 (ESV)
 
 ### Apostles
 
 Paul's sermon in Pisidian Antioch explicitly connected this to Jesus' resurrection:
 
-> So Paul stood up, and motioning with his hand said: Men of Israel and you who fear God, listen... We bring you the good news that what God promised to the fathers, **this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, "You are my Son, today I have begotten you."** — Acts 13:16,32-33 (ESV)
+> So Paul stood up, and motioning with his hand said: ...
+> We bring you the good news that what God promised to the fathers, this **He has fulfilled to us** their children **by raising Jesus**, as also **it is written in the second Psalm**,
+> "You are My Son, today I have begotten you." — Acts 13:16, 32-33 (ESV)
 
 The author of Hebrews also applies this passage to Jesus:
 
-> For to which of the angels did God ever say, **"You are my Son, today I have begotten you"**? Or again, "I will be to him a father, and he shall be to me a son"? — Hebrews 1:5 (ESV)
+> For to which of the angels did God ever say, **"You are my Son, today I have begotten you"**? Or again, "I will be to him a father, and he shall be to Me a son"? — Hebrews 1:5 (ESV)
 
-> So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, **"You are my Son, today I have begotten you"**; as he says also in another place, "You are a priest forever, after the order of Melchizedek." — Hebrews 5:5-6 (ESV)
-
-God publicly declared Jesus as His Son:
-
-> And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, **a voice from heaven said, "This is my beloved Son, with whom I am well pleased."** — Matthew 3:16-17 (ESV)
-
-> And a cloud overshadowed them, and **a voice came out of the cloud, "This is my beloved Son; listen to him."** — Mark 9:7 (ESV)
+> So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, **"You are My Son, today I have begotten you"**; as He says also in another place, "You are a priest forever, after the order of Melchizedek." — Hebrews 5:5-6 (ESV)
 
 ### Christian
 
 Christians believe Jesus fulfilled this prophecy as God's unique divine Son, arguing that:
+
+**Prophetic Past Tense**: It is a common prophetic literary device to refer to future events in the past tense as if they have already occurred. For example, Isaiah 53 uses past tense to describe the Messiah's suffering long before it happened:
+
+> Surely he **has borne** our griefs and **carried** our sorrows;
+> yet we **esteemed** him stricken, smitten by God, and **afflicted**. But he **was pierced** for our transgressions; he **was crushed** for our iniquities; upon him was the chastisement that **brought** us peace, and with his wounds we are healed. — Isaiah 53:3 (ESV)
+
+**Interpretation of "today"**: The Hebrew word "yom," translated as "today," does not exclusively refer to the day the Psalm was written. It can also signify "a specific future day, later, some time, when, whenever." In this context, it points to the day of Jesus' resurrection (Acts 13:33).
+
+**Distinction between YHVH and His Son**: Psalm 2 clearly depicts an interaction between "The LORD" (YHVH) and "His Son," indicating they are distinct entities. This clarifies potential confusion for those who might equate "the Lord" solely with Jesus. The core message is that YHVH "begot" a Son, the Son inherits from YHVH, rules with a "rod of iron," and is to be honored ("Kiss the Son").
 
 **Paul's Explicit Application**: Paul directly applies Psalm 2:7 to Jesus' resurrection (Acts 13:33). Through resurrection, Jesus was "declared to be the Son of God in power according to the Spirit of holiness" (Romans 1:4). The "begetting" refers to resurrection—divine validation and declaration of Jesus as God's Son in power.
 

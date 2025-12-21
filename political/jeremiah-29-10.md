@@ -3,15 +3,13 @@ description: Prophecy predicting the return of the Jewish exiles to Jerusalem af
 keywords: Seventy years, Jeremiah 29, prophecy, exile, restoration, Cyrus Cylinder, Daniel 9, Temple rebuilding
 ---
 
-# Seventy Years Until Jewish Restoration
+# Jeremiah 29:10 (70 Years Until Return)
 
 ## Prophecy
 
 > “For thus says the **LORD**: When **seventy years are completed for Babylon**, I will visit you, and I will fulfill to you my promise and **bring you back to this place**.” — Jeremiah 29:10 (ESV)
 
 ## Fulfillment
-
-### Historic
 
 This prophecy was fulfilled through the return of Jewish exiles following the decree of Cyrus the Great. The book of Ezra explicit links this event to Jeremiah's words:
 
@@ -26,11 +24,9 @@ The [Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617
 
 ### Biblical
 
-The prophet Daniel explicitly refers to this prophecy in Daniel 9:2, stating that he "perceived in the books the number of years that, according to the word of the **LORD** to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years."
+The prophet Daniel explicitly refers to this prophecy in Daniel 9:2, stating that he "perceived in the books the number of years that, according to the word of the LORD to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years."
 
 ## Conclusion
-
-**Historic fulfillment**
 
 The prophecy was fulfilled when Cyrus the Great issued the decree allowing the Jews to return to Jerusalem, ending the Babylonian exile exactly within the prophesied seventy-year timeframe (whether calculated from the first deportation or the temple's destruction).
 

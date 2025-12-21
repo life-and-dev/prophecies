@@ -4,7 +4,7 @@ These prophecies were identified to prove that God foretold that Jesus would be 
 
 | Scripture       | Description                                                                                                   | Historians | Tanakh               | Apostles                                  |
 | --------------- | ------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | ----------------------------------------- |
-| Psalm 2:7       | [The begotten son of God](messianic/psalm-2-7.md)                                                             | -          | -                    | Luke 3:38; Acts 13:32-33; Hebrews 1:5     |
+| Psalm 2:7       | [The begotten son of God](messianic/psalm-2.md)                                                               | -          | -                    | Luke 3:38; Acts 13:32-33; Hebrews 1:5     |
 | Psalm 24        | [King of glory entering](trinitarian/psalm-24.md)                                                             | -          | -                    | -                                         |                                           |
 | Psalm 45:6-7    | [Your throne, O God, is forever and ever](trinitarian/psalm-45-6.md)                                          | -          | -                    | Hebrews 1:8-9                             |
 | Isaiah 7:14     | [The virgin birth of Immanuel *(Jesus?)*](trinitarian/isaiah-7-14.md)                                         | -          | 2 Kings 15:29 - 16:9 | Matthew 1:23                              |

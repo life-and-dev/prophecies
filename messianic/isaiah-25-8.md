@@ -3,7 +3,7 @@ description: Isaiah 25:8 promises God will swallow up death forever. Paul cites 
 keywords: Isaiah 25, swallow up death, resurrection, wipe away tears, Paul, 1 Corinthians 15, Christian prophecy, victory over death
 ---
 
-# Defeat of Death
+# Isaiah 25:8 (Defeating Death)
 
 ## Prophecy
 
@@ -30,8 +30,6 @@ Christians believe this prophecy was inaugurated by Jesus' resurrection and will
 Christians view Jesus' resurrection as the decisive blow against death that guarantees the final fulfillment of this promise. While death still exists physically, Christ's victory over death has broken its ultimate power. The complete fulfillment awaits the end of the age when "death shall be no more" (Revelation 21:4).
 
 ## Conclusion
-
-**Competing interpretations**
 
 Both Jewish and Christian interpretations understand Isaiah 25:8 as an eschatological (end-times) prophecy about God's ultimate defeat of death. The core agreement centers on the future, final nature of this fulfillment—neither tradition believes death has yet been fully "swallowed up forever."
 

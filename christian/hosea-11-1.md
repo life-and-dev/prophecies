@@ -71,7 +71,7 @@ While Hosea 11:1 looks backward historically, other parts of Hosea look forward 
 
 Christians who hold to the doctrine of biblical inspiration argue that Matthew, writing under the Holy Spirit's guidance, had authority to reveal deeper meanings in Old Testament texts that the original human author may not have fully understood.
 
-1 Peter 1:10-12 (ESV) states that Old Testament prophets themselves "searched and inquired carefully" about the salvation they prophesied, not fully understanding the timing or details. Christians argue the Holy Spirit can intend multiple layers of meaning.
+1 Peter 1:10-12 states that Old Testament prophets themselves "searched and inquired carefully" about the salvation they prophesied, not fully understanding the timing or details. Christians argue the Holy Spirit can intend multiple layers of meaning.
 
 Jesus interpreted the Old Testament messianically in ways that were not obvious (Luke 24:27, 44-45, ESV: "beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself"). Matthew follows Jesus' approach.
 

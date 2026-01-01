@@ -1,6 +1,6 @@
 # Political Prophecies
 
-These prophecies originally warned the original audience against the destruction of a kingdom or provided hope in troubling times. They are mainly concerned about the rise or fall of a king, kingdom or some other world events that effects the political powers. 
+These prophecies originally warned the original audience against the destruction of a kingdom or provided hope in troubling times. They are mainly concerned about the rise or fall of a king, kingdom or some other world events that effects the political powers.
 
 However, for us they contain scientific measures to prove the credibility of [the inspired scriptures](https://word.ofgod.info/inspired).
 
@@ -20,10 +20,12 @@ However, for us they contain scientific measures to prove the credibility of [th
 | Jeremiah 25:8-9      | [Babylon destroyes Jerusalem](political/jeremiah-25-8.md)                                                       | Confirmed  | -                                                | -           |
 | Jeremiah 25:11-12    | [70 year Babylonian dominance](political/jeremiah-25-11.md)                                                     | Confirmed  | -                                                | -           |
 | Jeremiah 29:10       | [70 years until Jewish restoration](political/jeremiah-29-10.md)                                                | Confirmed  | Ezra 1:1-3; Daniel 9:2                           | -           |
+| Jeremiah 34:4        | [The death of King Zedekiah](political/jeremiah-34-4.md)                                                        | Debatable  | Jeremiah 52:10-11                                | -           |
 
 ---
 
 The meaning of the above fulfillment categories:
+
 * **Historians**: Possible values for this column include:
   * *Confirmed*: Specific verifyable evidence exist that the prophecy had been historically fulfilled by secular sources.
   * *Vague*: Technically the prophecy had been historically fulfilled, but the events are too general to identify a unique measurable event.

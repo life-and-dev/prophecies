@@ -1,5 +1,4 @@
 ---
-reviewed: true
 description: Prophecy promising King Zedekiah a peaceful death and honorable burial, contrasting with historical accounts of his blindness and death in prison.
 keywords: Zedekiah prophecy, Jeremiah 34 fulfillment, prophecy contradiction, Zedekiah peaceful death, Septuagint Jeremiah
 ---

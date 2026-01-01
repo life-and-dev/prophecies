@@ -11,24 +11,14 @@ If Jesus is the Christ, it changes everything. How we understand God, ourselves,
 
 These propehcies prove that Jesus was the promised Christ (Messiah). Jews either does not consider it as a messianic prophecy. They often attribute the prophecy to another entity like the nation Israel in general or another king. The Tanakh (Old Testament) also do not confirm these prophecies because it was written before the Christ was born.
 
-| Scripture         | Description                                                                                          | Historians   | Apostles                        |
-| ----------------- | ---------------------------------------------------------------------------------------------------- | ------------ | ------------------------------- |
-| Genesis 22:18     | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)*  | Unmeasurable | Acts 3:25-26; Galatians 3:16    |
-| Numbers 21:8-9    | [The bronze serpent lifted up to heal Israelites from snakebites](christian/numbers-21-8.md)         | Unmeasurable | John 3:14-15                    |
-| Isaiah 6:9-10     | [People would hear but not understand](christian/isaiah-6-9.md)                                      | Unmeasurable | Matthew 13:14                   |
-| Isaiah 7:14       | [The virgin birth of Immanuel (Jesus?)*](trinitarian/isaiah-7-14.md)                                | Unmeasurable | Matthew 1:23                    |
-| Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Unmeasurable | Romans 9:32-33; 1 Peter 2:4-8   |
-| Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)               | Unmeasurable | Hebrews 4:14-16, 7:25, 10:19-22 |
+| Scripture         | Description                                                                                          | Apostles                        |
+| ----------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Genesis 22:18     | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)*  | Acts 3:25-26; Galatians 3:16    |
+| Numbers 21:8-9    | [The bronze serpent lifted up to heal Israelites from snakebites](christian/numbers-21-8.md)         | John 3:14-15                    |
+| Isaiah 6:9-10     | [People would hear but not understand](christian/isaiah-6-9.md)                                      | Matthew 13:14                   |
+| Isaiah 7:14       | [The virgin birth of Immanuel (Jesus?)*](trinitarian/isaiah-7-14.md)                                 | Matthew 1:23                    |
+| Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Romans 9:32-33; 1 Peter 2:4-8   |
+| Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)               | Hebrews 4:14-16, 7:25, 10:19-22 |
+| Hosea 11:1        | [The exodus for Egypt *(Jesus' family?)*](christian/hosea-11-1.md)                                   | Matthew 2:13-15                 |
 
----
-
-The meaning of the above fulfillment categories:
-* **Historians**: Possible values for this column include:
-  * *Confirmed*: Specific verifyable evidence exist that the prophecy had been historically fulfilled by secular sources.
-  * *Vague*: Technically the prophecy had been historically fulfilled, but the events are too general to identify a unique measurable event.
-  * *Unmeasurable*: The historians can neither confirm nor refute the prophecy as the prophecy is either to general or contains no measurable event. 
-  * *Debatable*: Conflicting and strong evidence could be provided that this prophecy was fulfilled or failed, but it is depends on the text's interpretation.
-  * *Failed*: Historic evidence prove that this prediction was not literally fulfilled, however some may argue that the prophecy should be viewed symbolically or spiritually. Often manuscript differences contribute to the misinterpretation of the prophecy. Read the sub-article for more details.
-  * *Partially*: Only some aspects of the prophecy had been historically fulfilled, while some remains to be fulfilled (but is still possible in the future)
-  * *Future*: No aspect of this prophecy had not been fulfilled yet, but the possibility still exist that it can be fulfilled in the future.
-* **Apostles**: According to the New Testament apostles or Jesus himself, the prophecy had been fulfilled or at least partially been fulfilled.
+According to the New Testament apostles or Jesus himself, these prophecies had at least been partially fulfilled.

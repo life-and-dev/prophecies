@@ -19,6 +19,6 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 | Isaiah 7:14       | [The virgin birth of Immanuel (Jesus?)*](trinitarian/isaiah-7-14.md)                                 | Matthew 1:23                    |
 | Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Romans 9:32-33; 1 Peter 2:4-8   |
 | Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)               | Hebrews 4:14-16, 7:25, 10:19-22 |
-| Hosea 11:1        | [The exodus for Egypt *(Jesus' family?)*](christian/hosea-11-1.md)                                   | Matthew 2:13-15                 |
+| Hosea 11:1        | [Out of Egypt *(Jesus' family?)*](christian/hosea-11-1.md)                                           | Matthew 2:13-15                 |
 
 According to the New Testament apostles or Jesus himself, these prophecies had at least been partially fulfilled.

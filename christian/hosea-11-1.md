@@ -3,7 +3,7 @@ description: Discover the debate over Hosea 11:1. Was it a prophecy of Jesus, or
 keywords: Hosea 11:1, Matthew 2:15, prophecy, fulfillment, typological, Jewish, Christian, debate, interpretation, son of God
 ---
 
-# Out of Egypt
+# Hosea 11:1 (Out of Egypt)
 
 The Old Testament contains passages that New Testament authors cite as prophecies fulfilled in Jesus Christ. But what happens when a verse, deeply rooted in Israel's history, is applied to the Messiah? This article explores Hosea 11:1, a verse about the Exodus, and delves into how Matthew's Gospel uses it, sparking a centuries-long debate between Jewish and Christian interpretations.
 

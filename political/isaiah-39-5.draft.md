@@ -1,9 +1,12 @@
 ---
-description: Isaiah 39 predicts Hezekiah's treasures and descendants would be carried to Babylon. Fulfilled in 586 BCE when Nebuchadnezzar destroyed Jerusalem.
+reviewed: true
+description: Discover how a moment of pride led to a prophecy in Isaiah 39, foretelling the Babylonian captivity of Judah's royalty and treasures over a century later.
 keywords: Isaiah 39, Babylonian captivity, Hezekiah, Nebuchadnezzar, exile, historic prophecy, Daniel, eunuchs
 ---
 
 # The Exile to Babylon
+
+In a moment of pride, King Hezekiah of Judah revealed the full extent of his kingdom's treasures to envoys from Babylon. This seemingly minor act of vanity prompted a divine warning from the prophet Isaiah, foretelling a devastating consequence that would not come to pass for another century. What did this prophecy entail, and how did history bear witness to its fulfillment?
 
 ## Prophecy
 

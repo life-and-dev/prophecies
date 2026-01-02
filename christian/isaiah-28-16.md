@@ -1,9 +1,12 @@
 ---
-description: Isaiah 28:16 predicts a precious cornerstone laid in Zion. Christians see Jesus as this sure foundation, while Jews interpret it as the temple or Torah.
-keywords: Isaiah 28:16, cornerstone, foundation stone, Zion, Jesus Christ, messianic prophecy, stumbling stone, tested stone
+description: Explore interpretations of the 'cornerstone' prophecy in Isaiah 28:16. See why Christians believe it refers to Jesus, while Jewish views differ.
+keywords: Isaiah 28:16, cornerstone prophecy, foundation in Zion, Jesus cornerstone, Jewish messianic prophecy, sure foundation, tested stone
+reviewed: true
 ---
 
 # Foundation Stone in Zion
+
+The prophecy in Isaiah 28:16 of a "precious cornerstone" laid in Zion has become a significant point of theological divergence between Christians and Jews. This article explores the different interpretations of this verse, examining how one passage can lead to such different conclusions about the Messiah.
 
 > Therefore thus says the Lord GOD, "Behold, **I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation**: 'Whoever believes will not be in haste.'" — Isaiah 28:16 (ESV)
 
@@ -45,6 +48,4 @@ From this perspective, "whoever believes" refers to trust in God's word, command
 
 ## Conclusion
 
-**Christian fulfillment**
-
-The New Testament authors Peter and Paul explicitly interpret this passage as referring to Jesus Christ. While the original context in Isaiah addresses the political situation of Judah and the Northern Kingdom, the apostolic interpretation sees Jesus as the ultimate fulfillment of the "sure foundation" laid by God in Zion, a view not shared by Rabbinic tradition.
+The prophecy of the cornerstone in Isaiah 28:16 stands as a key theological distinction between two faiths. [Christians see this as a clear prophecy of Jesus Christ](#christian), identifying Him as the "sure foundation" for salvation. In contrast, [Jewish interpretation views the cornerstone as a symbol of the faithful remnant, the Temple, or the Torah](#jews), rather than a specific messianic figure. This divergence highlights a fundamental difference in scriptural interpretation and messianic expectation.

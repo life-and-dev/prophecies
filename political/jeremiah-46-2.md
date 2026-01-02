@@ -5,6 +5,8 @@ keywords: Battle of Carchemish, Jeremiah 46, prophecy, Egypt, Pharaoh Neco, Nebu
 
 # The Battle of Carchemish
 
+This article explores the prophecy in Jeremiah 46:2, which foretells the defeat of the Egyptian army at the Battle of Carchemish. This pivotal event marked a significant shift in power in the ancient Near East, ending Egyptian dominance and heralding the rise of the Neo-Babylonian Empire under Nebuchadnezzar II.
+
 ## Prophecy
 
 > “Concerning the army of Pharaoh Neco, king of Egypt, which was by the river Euphrates at Carchemish and which Nebuchadnezzar king of Babylon **defeated** in the fourth year of Jehoiakim the son of Josiah, king of Judah...” — Jeremiah 46:2 (ESV)
@@ -17,9 +19,7 @@ The [Battle of Carchemish](https://www.worldhistory.org/Battle_of_Carchemish/) i
 
 ## Conclusion
 
-**Historic fulfillment**
-
-The prophecy accurately identified the combatants (Egypt vs. Babylon), the location (Carchemish), and the outcome (Babylonian victory), all of which are confirmed by secular history.
+The [prophecy in Jeremiah 46:2](#prophecy) regarding the Battle of Carchemish is a remarkable example of fulfilled prophecy. The prophecy's accuracy is confirmed by [historical accounts](#historic), which document the defeat of the Egyptian army by Nebuchadnezzar's forces. This event had significant geopolitical consequences, marking the end of Egyptian dominance and the beginning of the Neo-Babylonian Empire's supremacy in the region.
 
 External resources:
 - [Battle of Carchemish - World History Encyclopedia](https://www.worldhistory.org/Battle_of_Carchemish/)

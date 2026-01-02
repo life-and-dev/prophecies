@@ -1,11 +1,14 @@
 ---
-description: Isaiah 28:16 predicts a precious cornerstone laid in Zion. Christians see Jesus as this sure foundation, while Jews interpret it as the temple or Torah.
+reviewed: true
+description: Isaiah 28:16 predicts a precious cornerstone in Zion. This article explores why Christians see Jesus as this foundation, while Jewish tradition offers other views.
 keywords: Isaiah 28:16, cornerstone, foundation stone, Zion, Jesus Christ, messianic prophecy, stumbling stone, tested stone
 ---
 
 # Foundation Stone in Zion
 
-> Therefore thus says the Lord GOD, "Behold, **I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation**: 'Whoever believes will not be in haste.'" — Isaiah 28:16 (ESV)
+The prophecy in Isaiah 28:16 speaks of a "precious cornerstone" laid by God in Zion, serving as a "sure foundation." This single verse has become a cornerstone of theological debate, with interpretations diverging significantly between Christian and Jewish traditions. This article will explore the different understandings of who or what this foundational stone represents.
+
+> Therefore thus says the LORD GOD, "Behold, **I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation**: 'Whoever believes will not be in haste.'" — Isaiah 28:16 (ESV)
 
 ## Fulfillment
 
@@ -45,6 +48,4 @@ From this perspective, "whoever believes" refers to trust in God's word, command
 
 ## Conclusion
 
-**Christian fulfillment**
-
-The New Testament authors Peter and Paul explicitly interpret this passage as referring to Jesus Christ. While the original context in Isaiah addresses the political situation of Judah and the Northern Kingdom, the apostolic interpretation sees Jesus as the ultimate fulfillment of the "sure foundation" laid by God in Zion, a view not shared by Rabbinic tradition.
+The prophecy of the "cornerstone" in Isaiah 28:16 has led to distinct interpretations. The [Christian view](#christian) identifies Jesus Christ as the fulfillment of this prophecy, serving as the foundation for believers. In contrast, the [Jewish interpretation](#jews) generally understands the cornerstone to represent a faithful remnant, the Torah, or King Hezekiah, rather than a messianic figure.

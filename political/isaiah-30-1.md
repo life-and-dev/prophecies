@@ -18,7 +18,7 @@ Isaiah warned King Hezekiah against forming an alliance with Egypt, predicting t
 
 ### Historic View
 
-Historical records confirm that despite Hezekiah's tribute and appeals to Egypt, the Egyptian army was defeated by Sennacherib at the **Battle of Eltekeh**, and they failed to prevent the siege of Jerusalem. The city was ultimately saved by divine intervention (the death of 185,000 Assyrians), not by the Egyptian alliance, proving Isaiah's political assessment correct.
+Historical records, [including secular accounts from sources like the Metropolitan Museum of Art](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/sennacherib-and-jerusalem), confirm that despite Hezekiah's tribute and appeals to Egypt, the Egyptian army was defeated by Sennacherib at the **Battle of Eltekeh**, and they failed to prevent the siege of Jerusalem. The city was ultimately saved by divine intervention (the death of 185,000 Assyrians), not by the Egyptian alliance, proving Isaiah's political assessment correct.
 
 ## Conclusion
 

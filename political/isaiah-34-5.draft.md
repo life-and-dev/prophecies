@@ -15,7 +15,7 @@ Isaiah predicted a perpetual desolation for the land of Edom (modern southern Jo
 
 ### Historic View
 
-The nation of Edom was eventually driven out of their territory by the Nabataeans (who built Petra) and later disappeared entirely from history as a distinct people after the destruction of Jerusalem in 70 CE. Their ancient heartland eventually became a desolate waste, inhabited only by wild animals and nomads for centuries, exactly as described.
+The nation of Edom was eventually driven out of their territory by the [Nabataeans](https://nabataea.net/explore/history/history/) (who built Petra) and later disappeared entirely from history as a distinct people after the destruction of Jerusalem in 70 CE. Their ancient heartland eventually became a desolate waste, inhabited only by wild animals and nomads for centuries, exactly as described.
 
 ## Conclusion
 

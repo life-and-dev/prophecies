@@ -1,10 +1,9 @@
 ---
-reviewed: true
 description: A theological exploration of Isaiah 28:16's 'cornerstone'. Discover the divergent Christian and Jewish interpretations of this significant prophecy.
 keywords: Isaiah 28:16, cornerstone prophecy, Christian vs Jewish interpretation, messianic prophecy, foundation stone, Zion, Jesus Christ, stumbling stone, tested stone
 ---
 
-# Foundation Stone in Zion
+# Isaiah 28:16 (Foundation Stone in Zion)
 
 The prophet Isaiah speaks of a "tested stone" and a "precious cornerstone" that God will lay in Zion as a "sure foundation." This prophecy, found in Isaiah 28:16, has become a significant point of theological discussion and divergence between Christian and Jewish interpretations. This article will explore the different understandings of this cornerstone, examining how one passage can lead to such different conclusions.
 

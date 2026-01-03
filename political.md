@@ -22,6 +22,7 @@ However, for us they contain scientific measures to prove the credibility of [th
 | Jeremiah 25:11-12    | [70 year Babylonian dominance](political/jeremiah-25-11.md)                                                     | Confirmed  | -                                                | -           |
 | Jeremiah 29:10       | [70 years until Jewish restoration](political/jeremiah-29-10.md)                                                | Confirmed  | Ezra 1:1-3; Daniel 9:2                           | -           |
 | Jeremiah 34:4        | [The death of King Zedekiah](political/jeremiah-34-4.md)                                                        | Debatable  | Jeremiah 52:10-11                                | -           |
+| Jeremiah 46:2        | [The Battle of Carchemish](political/jeremiah-46-2.md)                                                          | Confirmed  | -                                                | -           |
 
 ---
 

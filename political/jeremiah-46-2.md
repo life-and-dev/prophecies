@@ -3,7 +3,7 @@ description: Prophecy predicting the defeat of the Egyptian army by Nebuchadnezz
 keywords: Battle of Carchemish, Jeremiah 46, prophecy, Egypt, Pharaoh Neco, Nebuchadnezzar, Babylon, 605 BCE
 ---
 
-# The Battle of Carchemish
+# Jeremiah 46:2 (Battle of Carchemish)
 
 The Battle of Carchemish was a pivotal moment in ancient history, marking a significant shift in power in the Near East. This article explores a specific prophecy concerning this battle and examines the historical evidence of its fulfillment.
 

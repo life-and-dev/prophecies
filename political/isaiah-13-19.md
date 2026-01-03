@@ -22,6 +22,10 @@ Critics often point out that it was **Cyrus the Persian** (not the Medes alone) 
 
 ## Fulfillment
 
+### Biblical View
+
+The prophet **Jeremiah** also delivered an extensive prophecy against Babylon, dedicating two full chapters to its downfall (Jeremiah 50-51). He predicted that Babylon would become "a heap of ruins, a haunt of jackals, a horror and a hissing, without an inhabitant" (Jeremiah 51:37). His detailed account reinforces Isaiah's prophecy, describing the sudden nature of the attack and the terror that would seize the city. The combined testimony of Isaiah and Jeremiah provides a powerful, dual witness to Babylon's prophesied end.
+
 ### Historians
 
 While Cyrus conquered Babylon in 539 BCE without immediately destroying it, the city began a long decline. It was eventually abandoned and fell into ruin. By the time of the New Testament, it was largely deserted. Today, the site of ancient Babylon (in modern-day Iraq) is a ruin, uninhabited as a living city, fulfilling the prophecy of permanent desolation.

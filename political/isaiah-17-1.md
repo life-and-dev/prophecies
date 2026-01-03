@@ -13,9 +13,17 @@ Isaiah prophesied the destruction of Damascus, the capital of Syria (Aram), whic
 
 ## Fulfillment
 
+### Biblical View
+
+The prophet **Amos**, a contemporary of Isaiah, also prophesied against Damascus. He declared that God would "send a fire into the house of Hazael" and "break the bar of Damascus" because of its repeated transgressions against Israel (Amos 1:3-5).
+
+Later, the prophet **Jeremiah** likewise foretold judgment upon Damascus, stating that its young men would fall in its streets and a fire would consume the palaces of its kings (Jeremiah 49:23-27).
+
+The historical fulfillment of these prophecies is recorded in **2 Kings 16:9**, which states that the king of Assyria went up against Damascus, captured it, killed its king Rezin, and carried its people away into exile.
+
 ### Historic View
 
-This prophecy was fulfilled in **732 BCE**, shortly after Isaiah spoke it. The Assyrian king [**Tiglath-Pileser III**](https://en.wikipedia.org/wiki/Tiglath-Pileser_III) conquered Damascus, killed its king Rezin, and deported its population (recorded in 2 Kings 16:9 and Assyrian annals).
+This prophecy was fulfilled in **732 BCE**, shortly after Isaiah spoke it. The Assyrian king [**Tiglath-Pileser III**](https://en.wikipedia.org/wiki/Tiglath-Pileser_III) conquered Damascus, killed its king Rezin, and deported its population, as confirmed by Assyrian annals.
 
 While Damascus is one of the oldest continuously inhabited cities in the world, the prophecy referred to the destruction of the **independent Aramean kingdom** of Damascus. The city as a political power was destroyed ("ceased to be a city" in the political sense) and became a vassal ruin.
 

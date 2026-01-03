@@ -13,6 +13,12 @@ Isaiah gave a very specific, time-bound prophecy regarding the nation of Moab, s
 
 ## Fulfillment
 
+### Biblical View
+
+The prophet **Jeremiah** delivered a lengthy oracle against Moab in Jeremiah 48, declaring that its pride would be humbled and its cities would become a desolation (Jeremiah 48:20, 29). He mourned for Moab's destruction, yet confirmed its certainty as a judgment from God.
+
+The prophet **Ezekiel** also prophesied against Moab, stating that because Moab (along with Seir) had arrogantly claimed that the house of Judah was like all the other nations, God would open up the flank of Moab and deliver it to the people of the East for judgment (Ezekiel 25:8-11).
+
 ### Historic View
 
 Historical records from the Assyrian empire, specifically during the reigns of [**Tiglath-Pileser III**](https://en.wikipedia.org/wiki/Tiglath-Pileser_III) and [**Sargon II**](https://en.wikipedia.org/wiki/Sargon_II), confirm military campaigns into the Transjordan region that subjugated Moab. Moab was reduced from an independent kingdom to a vassal state, stripping away its former glory and independence. The specificity of "three years" (like a contract worker's fixed term) indicates a precise near-term fulfillment.

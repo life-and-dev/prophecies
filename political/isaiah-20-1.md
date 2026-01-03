@@ -11,6 +11,12 @@ keywords: Isaiah 20, Sargon II, Ashdod, archaeology, biblical archaeology, proph
 
 ## Fulfillment
 
+### Biblical View
+
+The judgment on Ashdod was part of a broader prophetic consensus against the Philistine cities. The prophet **Amos** declared that God would "cut off the inhabitant from Ashdod" and that the "remnant of the Philistines shall perish" (Amos 1:8).
+
+Similarly, the prophet **Zephaniah** foretold Ashdod's fate, stating, "Ashdod shall be driven out at noon" as part of a wider judgment that would leave the Philistine coast desolate (Zephaniah 2:4). Isaiah's account of Sargon's campaign provides the specific historical fulfillment of these broader prophetic warnings.
+
 ### Critical
 
 For centuries, Sargon II was unknown to history outside of this biblical verse. Because his name did not appear in prominent classical histories, critical scholars in the early 19th century doubted his existence, suggesting the biblical account might be erroneous or referring to a different king by another name.
@@ -29,4 +35,4 @@ External resources:
 
 ## Conclusion
 
-The prophecy contains specific verifiable details—the name of the king (Sargon), the target city (Ashdod), and the outcome (capture)—which have been fully corroborated by archaeological evidence. The discovery of Sargon's palace and annals transformed this from a debated passage to a testament of the Bible's historical reliability.
+The prophecy contains specific verifiable details—the name of the king (Sargon), the target city (Ashdod), and the outcome (capture)—which have been fully corroborated by archaeological evidence. The combined testimony of Isaiah, Amos, and Zephaniah, confirmed by archaeology, provides a powerful witness to the historical reliability of the biblical prophets.

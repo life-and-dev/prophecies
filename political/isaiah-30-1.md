@@ -1,9 +1,12 @@
 ---
 description: Isaiah 30:1-7 warns Hezekiah that Egypt's help would be worthless. Historically, the Egyptian army failed to stop Sennacherib's siege of Jerusalem.
 keywords: Isaiah 30, Egypt alliance, Rahab who sits still, worthless help, Hezekiah, Sennacherib, Battle of Eltekeh
+reviewed: true
 ---
 
 # The Useless Alliance
+
+In ancient times, forming alliances was a critical strategy for survival among nations. This article explores a pivotal moment in Judah's history when King Hezekiah faced a choice between trusting in a political alliance with a powerful neighbor or heeding a prophetic warning against it.
 
 ## Prophecy
 
@@ -19,6 +22,4 @@ Historical records confirm that despite Hezekiah's tribute and appeals to Egypt,
 
 ## Conclusion
 
-**Historic fulfillment**
-
-The failure of the Egyptian alliance to protect Judah from Assyria confirmed the prophet's warning.
+The prophet Isaiah's warning against an [alliance with Egypt](#prophecy) was proven true by the historical outcome. The subsequent [failure of the Egyptian army](#fulfillment) to protect Judah from the Assyrian siege served as a stark confirmation of the divine message, underscoring the article's central theme of heeding prophetic counsel over political expediency.

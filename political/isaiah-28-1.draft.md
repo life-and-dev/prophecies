@@ -15,7 +15,7 @@ Isaiah predicted the imminent fall of the Northern Kingdom (Ephraim/Samaria), de
 
 ### Historic View
 
-This prophecy was fulfilled in **722 BCE**, shortly after Isaiah delivered it. The Assyrian king **Sargon II** (and his predecessor Shalmaneser V) besieged and destroyed Samaria, the capital of the Northern Kingdom. The Assyrians deported the population, effectively ending Ephraim as a political entity and fulfilling the prediction that the "flower" would be trampled. The [historical details](https://brill.com/display/title/2260) surrounding the fall of Samaria are complex, with both Shalmaneser V and Sargon II claiming credit for the conquest.
+This prophecy was fulfilled in **722 BCE**, shortly after Isaiah delivered it. The Assyrian king **Sargon II** (and his predecessor Shalmaneser V) besieged and destroyed Samaria, the capital of the Northern Kingdom. The Assyrians deported the population, effectively ending Ephraim as a political entity and fulfilling the prediction that the "flower" would be trampled.
 
 ## Conclusion
 

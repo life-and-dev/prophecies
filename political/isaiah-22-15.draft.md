@@ -19,10 +19,10 @@ By the time of the Assyrian siege recorded in Isaiah 36:3 (and 2 Kings 18:18), t
 *   **Eliakim** is listed as the one "over the household" (the steward).
 *   **Shebna** is listed as "the secretary" (a lower rank).
 
-This incidental detail in the historical narrative confirms that the changing of the guard predicted by Isaiah actually took place. [Archaeological evidence](https://biblehub.com/q/evidence_for_shebna's_downfall.htm) and Assyrian records confirm the historical context of Sennacherib's invasion and the roles of officials in Hezekiah's court.
+This incidental detail in the historical narrative confirms that the changing of the guard predicted by Isaiah actually took place.
 
 ## Conclusion
 
 **Historic fulfillment**
 
-The biblical record, supported by archaeological and historical context, confirms the specific administrative change predicted by Isaiah occurred within the lifetime of the individuals named.
+The biblical record confirms the specific administrative change predicted by Isaiah occurred within the lifetime of the individuals named.

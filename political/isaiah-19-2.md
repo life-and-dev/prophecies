@@ -15,7 +15,7 @@ Isaiah prophesied a period of internal strife and civil war within Egypt.
 
 ### Historic View
 
-This prophecy accurately describes the period of chaos in Egyptian history known as the **[Dodecarchy](https://www.britannica.com/biography/Psamtik-I)** (rule of twelve kings) following the decline of the 25th Dynasty. Egypt fractured into competing city-states and rival kingdoms, leading to civil war before **Psammetichus I** (Psamtik I) eventually unified the country around 664 BCE.
+This prophecy accurately describes the period of chaos in Egyptian history following the decline of the 25th Dynasty. After the Assyrians asserted control, they established a system of rival local rulers in the Nile Delta, known as the **Dodecarchy** (rule of twelve kings). This led to a period of internal conflict and fragmentation. [As one historian notes](https://www.daannijssen.com/2025/11/05/psamtik-i-of-egypt-from-protege-to-would-be-savior/), Psamtik I, one of these rulers, gradually expanded his power base from the city of Sais, forged alliances with other Delta princes, and hired foreign mercenaries to consolidate his control. Between 660 and 656 BCE, he unified the competing kingdoms, but only after a period of conflict that matches Isaiah's description of "city against city, kingdom against kingdom."
 
 ## Conclusion
 

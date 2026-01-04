@@ -15,8 +15,8 @@ Isaiah predicted that Egypt would be delivered into the hand of a "hard master" 
 
 ### Historic View
 
-This was fulfilled by the [conquest of Egypt by the Assyrian king **Esarhaddon**](https://en.wikipedia.org/wiki/Assyrian_conquest_of_Egypt) in 671 BCE, and later confirmed by his son **Ashurbanipal**. The Assyrian rule over Egypt was notoriously harsh and humiliating, matching the prophecy's description.
+This was fulfilled by the [conquest of Egypt by the Assyrian king **Esarhaddon**](https://en.wikipedia.org/wiki/Assyrian_conquest_of_Egypt) in 671 BCE, and later confirmed by his son **Ashurbanipal**. The Assyrian rule over Egypt was notoriously harsh and humiliating, matching the prophecy's description. The subsequent invasion by Nebuchadnezzar, prophesied by Jeremiah and Ezekiel, also came to pass, further devastating the nation.
 
 ## Conclusion
 
-The historical record of the brutal Assyrian conquest of Egypt validates this prophecy.
+The historical record of the brutal Assyrian conquest of Egypt, followed by the Babylonian invasion, validates the prophecies of Isaiah, Jeremiah, and Ezekiel.

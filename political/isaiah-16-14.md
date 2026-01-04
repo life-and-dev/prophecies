@@ -3,7 +3,7 @@ description: Isaiah 16:14 predicts Moab's glory would end within three years. As
 keywords: Isaiah 16, Moab, judgment, three years, Tiglath-Pileser III, historic prophecy, time-bound prophecy
 ---
 
-# The Doom of Moab
+# Isaiah 16:14 (Moab)
 
 ## Prophecy
 

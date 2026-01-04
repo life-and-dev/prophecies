@@ -5,8 +5,6 @@ keywords: Isaiah 30, Egypt alliance, Rahab who sits still, worthless help, Hezek
 
 # Isaiah 30:7 (Useless Alliance)
 
-In ancient times, forming alliances was a critical strategy for survival among nations. This article explores a pivotal moment in Judah's history when King Hezekiah faced a choice between trusting in a political alliance with a powerful neighbor or heeding a prophetic warning against it.
-
 ## Prophecy
 
 Isaiah warned King Hezekiah against forming an alliance with Egypt, predicting that "Rahab" (Egypt) would sit idle and provide no help against the Assyrians.

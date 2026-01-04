@@ -19,7 +19,7 @@ By the time of the Assyrian siege recorded in Isaiah 36:3 (and 2 Kings 18:18), t
 *   **Eliakim** is listed as the one "over the household" (the steward).
 *   **Shebna** is listed as "the secretary" (a lower rank).
 
-This incidental detail in the historical narrative confirms that the changing of the guard predicted by Isaiah actually took place.
+This incidental detail in the historical narrative confirms that the changing of the guard predicted by Isaiah actually took place. While direct extrabiblical mentions of Shebna are scarce, the historical context of his office and a [possible tomb inscription provide corroborating evidence](https://biblehub.com/q/evidence_for_shebna's_downfall.htm) for the biblical account.
 
 ## Conclusion
 

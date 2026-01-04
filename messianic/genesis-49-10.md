@@ -3,7 +3,7 @@ description: An analysis of the messianic prophecy in Genesis 49:10, exploring i
 keywords: Genesis 49:10, scepter of Judah, Shiloh prophecy, Lion of Judah, messianic fulfillment, Jesus' lineage, spiritual kingdom, Jewish interpretation, Christian interpretation
 ---
 
-# The Scepter of Judah
+# Genesis 49:10 (Scepter of Judah)
 
 Just before his death, Jacob gathered his sons to foretell what would happen to them in the days to come. His prophecy over his son Judah included a promise that a ruler would one day come from his lineage who would command the obedience of all peoples. This prophecy has been the subject of intense debate and interpretation for centuries.
 

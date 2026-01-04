@@ -1,7 +1,6 @@
 ---
 description: An analysis of the messianic prophecy in Genesis 49:10, exploring its fulfillment through Judah's lineage and the establishment of a spiritual kingdom.
 keywords: Genesis 49:10, scepter of Judah, Shiloh prophecy, Lion of Judah, messianic fulfillment, Jesus' lineage, spiritual kingdom, Jewish interpretation, Christian interpretation
-reviewed: true
 ---
 
 # The Scepter of Judah

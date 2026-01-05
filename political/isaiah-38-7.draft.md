@@ -32,20 +32,20 @@ The Hebrew term for "dial" can also be translated as "steps" or "stairs," leadin
 ### Divine Miracle
 
 This view holds that God directly intervened, altering the laws of nature to make the shadow move backward. The mechanism is not specified in the text, but proponents suggest possibilities such as:
-*   **Altering Earth's Rotation:** God may have temporarily reversed the Earth's rotation. While this would have had catastrophic global consequences, proponents argue that God could have supernaturally protected the planet from any ill effects.
-*   **Supernatural Refraction:** God could have miraculously bent the light of the sun in a way that defied the known laws of physics, causing the shadow to retreat.
+*   **Altering Earth's Rotation:** God may have temporarily reversed the Earth's rotation. While this would have had catastrophic global consequences, proponents argue that [God could have supernaturally protected the planet from any ill effects](https://christiananswers.net/q-eden/edn-c016.html).
+*   **Supernatural Refraction:** God could have miraculously bent the light of the sun in a way that defied the known laws of physics, causing the shadow to retreat. This is a [popular explanation among those who accept the event as a miracle but seek a scientific explanation](https://www.friendshiptaipei.com/blog/2014/2/8/55s2qkwdjz03s7t3ydjrx30vywk62x).
 
 ### Localized Phenomenon
 
 This perspective suggests the event was a genuine miracle, but one that did not require a change in the Earth's rotation. Instead, it could have been a localized event, such as:
-*   **Atmospheric Refraction:** An unusual atmospheric condition, like a dense fog or a specific cloud formation, could have bent the sunlight in a way that made the shadow appear to move backward.
-*   **Optical Illusion:** Some have proposed that a "mock sun" or other optical illusion could have created the appearance of the shadow retreating, even as the sun itself continued its normal course.
+*   **Atmospheric Refraction:** An unusual atmospheric condition, like a dense fog or a specific cloud formation, could have [bent the sunlight in a way that made the shadow appear to move backward](https://studyingprayer.com/2014/08/23/isaiahs-miracle-prayer-did-the-sun-go-backward-2-kings-2011/).
+*   **Optical Illusion:** Some have proposed that a ["mock sun" or other optical illusion could have created the appearance of the shadow retreating](https://biblehub.com/q/2_kings_20_9-11__sundial_shadow_reversal.htm), even as the sun itself continued its normal course.
 
 ### Critical-Scholarly View
 
-Many critical scholars approach the text from a non-supernatural perspective, suggesting the story may be:
-*   **Legendary Accretion:** The account may be a later addition to the story of Hezekiah's healing, intended to emphasize the king's importance and God's favor. Such miracle stories were common in ancient Near Eastern royal narratives.
-*   **Symbolic Narrative:** The story may not have been intended as a literal historical account, but rather as a symbolic representation of Hezekiah's life being "turned back" from the brink of death.
+Many critical scholars, who approach the text from a non-supernatural perspective, suggest the story may be:
+*   **Legendary Accretion:** The account may be a [later addition to the story of Hezekiah's healing](https://www.britannica.com/topic/biblical-literature/Old-Testament-literature), intended to emphasize the king's importance and God's favor. Such miracle stories were common in ancient Near Eastern royal narratives.
+*   **Symbolic Narrative:** The story may not have been intended as a literal historical account, but rather as a [symbolic representation of Hezekiah's life being "turned back" from the brink of death](https://www.jstor.org/stable/3266055).
 
 ## Conclusion
 

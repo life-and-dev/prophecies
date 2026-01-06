@@ -3,7 +3,7 @@ description: An exploration of the biblical account of the sun's shadow moving b
 keywords: Isaiah 38, Hezekiah, sundial of Ahaz, biblical miracles, Old Testament, prophecy, divine intervention, atmospheric refraction, scholarly interpretation
 ---
 
-# The Sun's Shadow Going Backward
+# Isaiah 38:8 (Shadow Going Backward)
 
 The biblical account of the sun's shadow moving backward on the sundial of Ahaz is one of the most intriguing and debated miracles in the Old Testament. Recorded in the book of Isaiah, this event served as a divine sign to King Hezekiah, but its interpretation has varied widely through the centuries. Was it a literal miracle that defied the laws of nature, a localized atmospheric event, or a symbolic narrative? This article explores the different theological and scholarly perspectives on this extraordinary event.
 

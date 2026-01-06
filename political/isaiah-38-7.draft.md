@@ -27,19 +27,19 @@ Furthermore, 2 Chronicles notes that envoys from Babylon came to inquire about t
 
 ### The Nature of the Sundial
 
-The Hebrew term for "dial" can also be translated as "steps" or "stairs," leading some scholars to suggest the "sundial of Ahaz" was a staircase designed to measure time by the shadow's length. This detail is important, as a shadow moving on stairs could be affected by different phenomena than a traditional flat sundial.
+The Hebrew term for "dial," [ma'aloth, can also be translated as "steps" or "stairs"](https://christiananswers.net/dictionary/dial.html), leading some scholars to suggest the "sundial of Ahaz" was a staircase designed to measure time by the shadow's length. This detail is important, as a shadow moving on stairs could be affected by different phenomena than a traditional flat sundial.
 
 ### Divine Miracle
 
 This view holds that God directly intervened, altering the laws of nature to make the shadow move backward. The mechanism is not specified in the text, but proponents suggest possibilities such as:
-*   **Altering Earth's Rotation:** God may have temporarily reversed the Earth's rotation. While this would have had catastrophic global consequences, proponents argue that [God could have supernaturally protected the planet from any ill effects](https://christiananswers.net/q-eden/edn-c016.html).
-*   **Supernatural Refraction:** God could have miraculously bent the light of the sun in a way that defied the known laws of physics, causing the shadow to retreat. This is a [popular explanation among those who accept the event as a miracle but seek a scientific explanation](https://www.friendshiptaipei.com/blog/2014/2/8/55s2qkwdjz03s7t3ydjrx30vywk62x).
+*   **Altering Earth's Rotation:** God may have temporarily [reversed the Earth's rotation](https://christiananswers.net/q-eden/edn-c016.html). While this would have had catastrophic global consequences, proponents argue that God could have supernaturally protected the planet from any ill effects.
+*   **Supernatural Refraction:** God could have [miraculously bent the light of the sun](https://www.friendshiptaipei.com/blog/2014/2/8/55s2qkwdjz03s7t3ydjrx30vywk62x) in a way that defied the known laws of physics, causing the shadow to retreat.
 
 ### Localized Phenomenon
 
 This perspective suggests the event was a genuine miracle, but one that did not require a change in the Earth's rotation. Instead, it could have been a localized event, such as:
-*   **Atmospheric Refraction:** An unusual atmospheric condition, like a dense fog or a specific cloud formation, could have [bent the sunlight in a way that made the shadow appear to move backward](https://studyingprayer.com/2014/08/23/isaiahs-miracle-prayer-did-the-sun-go-backward-2-kings-2011/).
-*   **Optical Illusion:** Some have proposed that a ["mock sun" or other optical illusion could have created the appearance of the shadow retreating](https://biblehub.com/q/2_kings_20_9-11__sundial_shadow_reversal.htm), even as the sun itself continued its normal course.
+*   **Atmospheric Refraction:** An unusual atmospheric condition, like a dense fog or a specific cloud formation, could have [bent the sunlight in a way that made the shadow appear to move backward](https://biblehub.com/q/2_kings_20_9-11__sundial_shadow_reversal.htm).
+*   **Optical Illusion:** Some have proposed that a ["mock sun" or other optical illusion could have created the appearance of the shadow retreating](https://precepts.wordpress.com/2013/07/29/hezekiahs-sundial/), even as the sun itself continued its normal course.
 
 ### Critical-Scholarly View
 

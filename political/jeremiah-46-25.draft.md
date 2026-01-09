@@ -1,4 +1,5 @@
 ---
+reviewed: true
 description: Prophecy predicting that Egypt would be punished by Babylon but, unlike other nations, would be restored and inhabited again.
 keywords: Jeremiah 46 prophecy, Nebuchadnezzar's invasion of Egypt, Egypt's restoration, Amon of Thebes, Babylonian tablet BM 33041, biblical prophecy fulfillment
 ---
@@ -13,15 +14,17 @@ The ancient world was a landscape of rising and falling empires, where nations c
 
 ## Fulfillment
 
-### Historic
+### Punishment by Babylon
 
 Babylonian tablet [BM 33041](https://www.jhalsey.com/jerusalem-book/standard/egypt/bm33041.html) confirms that Nebuchadnezzar marched against Egypt to deliver a battle in his 37th year (568-567 BCE), fulfilling the prediction of punishment.
+
+### Restoration of the Nation
 
 Crucially, the prophecy distinguished Egypt's fate from that of Babylon or Nineveh by promising restoration. History confirms that while Egypt was invaded and diminished, it was not destroyed or permanently desolated. It continued to be "inhabited as in the days of old," maintaining its identity and population through the Persian, Greek, and Roman periods to the present day.
 
 ## Conclusion
 
-The prophecy was fulfilled: Egypt was successfully invaded by Nebuchadnezzar ([punishment](#historic)) but survived as a functioning, inhabited nation ([restoration](#historic)), distinguishing it from other empires that were wiped out.
+The prophecy was fulfilled: Egypt was successfully invaded by Nebuchadnezzar ([punishment](#punishment-by-babylon)) but survived as a functioning, inhabited nation ([restoration](#restoration-of-the-nation)), distinguishing it from other empires that were wiped out.
 
 External resources:
 - [BM 33041 - The Jerusalem Book](https://www.jhalsey.com/jerusalem-book/standard/egypt/bm33041.html)

@@ -4,7 +4,7 @@ description: Prophecy predicting that Egypt would be punished by Babylon but, un
 keywords: Jeremiah 46 prophecy, Nebuchadnezzar's invasion of Egypt, Egypt's restoration, Amon of Thebes, Babylonian tablet BM 33041, biblical prophecy fulfillment
 ---
 
-# Egypt's Punishment and Restoration
+# Jeremiah 46:25-26 (Egypt)
 
 The ancient world was a landscape of rising and falling empires, where nations could be wiped off the map by a conquering force. The prophet Jeremiah delivered a startling prophecy regarding Egypt, one of the oldest and most powerful civilizations. This declaration foretold not only a coming judgment at the hands of Babylon but also a unique promise of survival and restoration. This article explores the historical context of this prophecy and examines the evidence for its fulfillment.
 

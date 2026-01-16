@@ -27,7 +27,7 @@ The crowds also recognized that He taught "as one who had authority, and not as 
 
 ### Jewish View
 
-In traditional Jewish thought, this verse is often understood as a promise related to the study of the Torah. The Talmud, a central text of Rabbinic Judaism, interprets "your children" (banayich) as "your builders" (bonayich), suggesting that those who study the Torah become builders of peace in the world.
+In traditional Jewish thought, this verse is often understood as a promise related to the study of the Torah. The [Talmud](https://www.sefaria.org/Berakhot.64a?lang=bi), a central text of Rabbinic Judaism, interprets "your children" (banayich) as "your builders" (bonayich), suggesting that those who study the Torah become builders of peace in the world.
 
 This view emphasizes that diligent study of God's laws and teachings is the pathway to the peace and prosperity promised in the prophecy.
 

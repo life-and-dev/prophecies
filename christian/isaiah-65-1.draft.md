@@ -1,9 +1,11 @@
 ---
-description: Isaiah 65:1 predicts God would be found by a nation that did not seek Him. Paul applies this to the inclusion of Gentiles in Romans 10.
-keywords: Isaiah 65, Gentiles found God, did not seek me, Romans 10, Paul, messianic prophecy, inclusion
+description: "Isaiah 65:1 sparks debate: is it about a rebellious Israel or a future call to Gentiles? This article explores Jewish and Christian views on this key prophecy."
+keywords: "Isaiah 65:1, prophecy, Gentiles, Jewish interpretation, Christian interpretation, Romans 10:20, biblical debate, Old Testament, Paul"
 ---
 
 # The Call of the Gentiles
+
+A verse in the book of Isaiah sparks a centuries-old debate. Does it describe a rebellious Israel that had forsaken its God, or does it predict a future invitation to nations who had never known Him? This question has led to sharply contrasting interpretations, each with significant theological implications. This article explores the prophetic text, its historical context, and the different ways it has been understood.
 
 ## Prophecy
 
@@ -33,8 +35,10 @@ Paul interprets verse 1 as referring to the Gentiles, while applying verse 2 to 
 
 ## Conclusion
 
-**Competing interpretations**
+The prophecy in [Isaiah 65:1](#prophecy) presents a pivotal point of interpretation in both Jewish and Christian theology.
 
-**The Jewish interpretation** addresses Isaiah 65's context of Israel's rebellion. Both verses 1-2 refer to the same rebellious people—Israel—who had abandoned God so thoroughly that they became "a nation not called by my name," acting like idolatrous pagans. The chapter continues describing Israel's specific sins (idolatry, self-righteousness, disobedience), with God patiently appealing to His rebellious covenant people. This reading maintains textual coherence with the surrounding context.
+The [Jewish interpretation](#jewish-interpretation) views the verse as an address to a rebellious Israel that had strayed from God, becoming like a nation that did not know His name. This reading is supported by the immediate context of the chapter, which focuses on Israel's sins.
 
-**The Christian interpretation** requires separating verses 1 and 2 to refer to different groups: verse 1 to Gentiles, verse 2 to Israel. Paul's application in Romans 10:20 reinterprets Isaiah's rebuke of Israel's apostasy as a prophecy about Gentiles finding God. This reading sees Isaiah speaking beyond his immediate context about rebellious Israel to prophetically describe first-century Gentile inclusion, though this creates tension with the chapter's unified focus on Israel's sins and God's response to His covenant people.
+In contrast, the [Christian interpretation](#christian-interpretation), articulated by the Apostle Paul, sees the verse as a prophecy of the inclusion of the Gentiles into God's covenant. This view understands the "nation that was not called by my name" as the non-Jewish peoples who would come to faith.
+
+Both views offer a coherent, though different, understanding of this significant passage.

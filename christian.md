@@ -20,6 +20,7 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 | Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Romans 9:32-33; 1 Peter 2:4-8      |
 | Isaiah 28:16      | [God laid the Foundational Stone in Zion *(Jesus?)*](christian/isaiah-28-16.md)                      | Romans 10:3-11; 1 Peter 2:6-8      |
 | Isaiah 40:3       | [The "Voice in the wilderness" (John preparing Jesus' ministry?)](christian/isaiah-40-3)             | Matthew 3:3; Luke 3:4              |
+| Isaiah 65:1       | [A nation not called God](christian/isaiah-65-1.md)                                                  | Romans 10:20                       |
 | Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)               | Hebrews 4:14-16, 7:25, 10:19-22    |
 | Hosea 6:2         | [Christ will be resurrected on the third day](christian/hosea-6-2.md)                                | Matthew 28:1-6; 1 Corinthians 15:4 |
 | Hosea 11:1        | [Out of Egypt *(Jesus' family?)*](christian/hosea-11-1.md)                                           | Matthew 2:13-15                    |

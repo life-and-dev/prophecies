@@ -3,7 +3,7 @@ description: "Isaiah 65:1 sparks debate: is it about a rebellious Israel or a fu
 keywords: "Isaiah 65:1, prophecy, Gentiles, Jewish interpretation, Christian interpretation, Romans 10:20, biblical debate, Old Testament, Paul"
 ---
 
-# The Call of the Gentiles
+# Isaiah 65:1 (A nation not called God)
 
 A verse in the book of Isaiah sparks a centuries-old debate. Does it describe a rebellious Israel that had forsaken its God, or does it predict a future invitation to nations who had never known Him? This question has led to sharply contrasting interpretations, each with significant theological implications. This article explores the prophetic text, its historical context, and the different ways it has been understood.
 
@@ -11,7 +11,7 @@ A verse in the book of Isaiah sparks a centuries-old debate. Does it describe a 
 
 Isaiah prophesied that God would reveal Himself to a people who were not previously seeking Him or called by His name.
 
-> "I was ready to be sought by those who did not ask for me; I was ready to be found by those who did not seek me. I said, 'Here I am, here I am,' to a nation that was not called by my name." — Isaiah 65:1 (ESV)
+> "I was ready to be sought by those who did not ask for Me; I was ready to be found by those who did not seek Me. I said, 'Here I am, here I am,' to a nation that was not called by My name." — Isaiah 65:1 (ESV)
 
 ## Interpretations
 

@@ -3,7 +3,7 @@ description: An analysis of Psalm 21, exploring its historical context as a roya
 keywords: Psalm 21, messianic prophecy, royal psalm, crown of gold, crown of thorns, Christian interpretation, scholarly criticism, Davidic king
 ---
 
-# Crown of Fine Gold Upon His Head
+# Psalm 21 (Royalty, Glory & Favor)
 
 Psalm 21 is traditionally known as a royal psalm, a song of thanksgiving for a king's victory and blessings. It speaks of a golden crown, long life, and glory bestowed by God. While historically applied to Israelite kings, some Christians interpret this psalm as a prophecy about the Messiah, Jesus. This article explores the historical context of Psalm 21 and examines the arguments for and against its application to Jesus.
 

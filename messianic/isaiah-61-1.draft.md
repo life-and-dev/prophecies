@@ -1,9 +1,11 @@
 ---
-description: Isaiah 61:1-2 predicts a Spirit-anointed messenger who brings good news to the poor. Jesus read this in Nazareth and declared "Today this Scripture has been fulfilled."
-keywords: Isaiah 61, Spirit of the Lord, good news to poor, liberty to captives, Jesus Nazareth, Luke 4, messianic prophecy, year of Lord's favor
+description: An exploration of the messianic prophecy in Isaiah 61 and its interpretation within Christianity, focusing on Jesus' proclamation in Nazareth.
+keywords: Isaiah 61, messianic prophecy, Christian interpretation, Jesus in Nazareth, Luke 4, Spirit of the Lord, anointed messenger, good news to the poor
 ---
 
 # The Anointed Proclaimer
+
+The prophet Isaiah foretold of a messenger anointed by God's Spirit to deliver good news to the poor and proclaim liberty. This passage is a cornerstone of messianic expectation, but who is this proclaimer, and when would this prophecy be fulfilled? This article explores the claims of one of history's most influential figures who applied this verse to himself.
 
 ## Prophecy
 
@@ -11,7 +13,7 @@ Isaiah describes the mission of the Spirit-anointed messenger:
 
 > **The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor**; he has sent me to bind up the brokenhearted, **to proclaim liberty to the captives**, and the opening of the prison to those who are bound; to proclaim the year of the LORD's favor... — Isaiah 61:1-2 (ESV)
 
-## Fulfillment
+## Interpretations
 
 ### Christian View
 
@@ -28,6 +30,4 @@ Notably, Jesus stopped reading before the phrase "and the day of vengeance of ou
 
 ## Conclusion
 
-**Partially fulfilled**
-
-Jesus' explicit self-identification with this prophecy, followed by a ministry that perfectly matched its description of healing and liberation, constitutes direct fulfillment of "the year of the LORD's favor." However, Jesus deliberately stopped reading before "the day of vengeance of our God," indicating that this aspect awaits his Second Coming.
+The prophecy of the anointed proclaimer in Isaiah 61 is understood in the [Christian view](#christian-view) to be fulfilled by Jesus of Nazareth. His reading of the scroll in Nazareth, followed by a ministry of healing, preaching, and liberation, is seen as the direct fulfillment of "the year of the LORD's favor." The final part of the prophecy, "the day of vengeance of our God," is believed to be awaiting fulfillment at his Second Coming.

@@ -1,9 +1,11 @@
 ---
-description: Psalm 22:18 describes dividing garments and casting lots; fulfilled by soldiers at crucifixion, though original context is David's lament.
-keywords: Psalm 22:18, divide my garments, casting lots, seamless tunic, John 19:23-24, soldiers gambled, crucifixion details
+description: An ancient psalm describes soldiers dividing garments and casting lots. A thousand years later, Roman soldiers did the same at a crucifixion. Coincidence or prophecy?
+keywords: Psalm 22 prophecy, crucifixion prophecy, dividing garments, casting lots, messianic prophecy, Psalm 22 fulfillment, seamless tunic
 ---
 
 # They Divide My Garments, Cast Lots for My Clothing
+
+A thousand years before the crucifixion of Jesus, a psalmist wrote of his enemies dividing his garments and casting lots for his clothing. The Gospel of John claims Roman soldiers unknowingly fulfilled this ancient verse. But was this a specific prophecy, or a coincidental act common to crucifixions? This article explores the arguments for and against this interpretation.
 
 ## The Prophecy
 
@@ -51,4 +53,12 @@ Critical scholars view Psalm 22 as David's lament psalm expressing his suffering
 
 ## Conclusion
 
-**Debatable fulfillment.** Roman soldiers divided Jesus' garments among themselves and cast lots for His seamless tunic, with John explicitly citing Psalm 22:18 as fulfilled (John 19:23-24). The dual action (dividing garments and casting lots) matches the psalm's dual statement, and this was beyond Jesus' control—soldiers acting according to standard practice. However, whether Psalm 22:18 was originally messianic prophecy is disputed. The superscription identifies the psalm as "A Psalm of David," and the entire content describes David's personal suffering and plea for deliverance from enemies who mock him and cause him physical anguish. Dividing garments of executed criminals was standard practice in the ancient world—victors and executioners regularly plundered possessions of the defeated. David likely experienced similar treatment when fleeing from Saul or during Absalom's rebellion. Jewish scholars view this as David's historical lament, with the crucifixion detail representing coincidental match to common practice rather than prophetic fulfillment. No Old Testament author identifies Psalm 22 as messianic prophecy. The literal fulfillment is documented, but whether the psalm originally functioned as prophecy or David was describing his own experience (with Jesus' crucifixion later matching through common executioner practices) depends on one's interpretive framework.
+The connection between Psalm 22:18 and the crucifixion of Jesus is a well-known but debated example of a potential fulfilled prophecy.
+
+- **The Prophecy**: A psalmist describes his enemies dividing his garments and casting lots for them. ([Read more](#the-prophecy))
+- **The Fulfillment**: Roman soldiers divided Jesus' garments and cast lots for his seamless tunic, an event the Apostle John explicitly links to the psalm. ([Read more](#fulfillment))
+- **Christian Interpretation**: Christians argue that the specific dual actions—dividing garments and casting lots—were beyond Jesus' control and represent a clear fulfillment of the prophecy. ([Read more](#christian))
+- **Jewish Interpretation**: Jewish scholars contend that the psalm is a personal lament of David, describing his own historical suffering, and that the dividing of garments was a common practice, not a unique prophetic sign. ([Read more](#jews))
+- **Critical View**: Critical scholars see the Gospel writers interpreting the crucifixion through the lens of existing scripture, with the connection to Psalm 22 being a meaningful parallel rather than a direct prophecy. ([Read more](#critical))
+
+Ultimately, whether this event constitutes a literal fulfillment of prophecy or a coincidental alignment of common practices depends on one's interpretive framework.

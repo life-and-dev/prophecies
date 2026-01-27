@@ -2,7 +2,7 @@
 description: Learn about the mission behind this systematic exploration of biblical prophecies to categorize credible predictions and explore unfulfilled prophecies.
 ---
 
-# About This Project
+# About
 
 My journey with faith has been anything but conventional. From atheism to exploring various Christian traditions including megachurches to house churches with involvement in various traditional protestants, charismatic and messianic congregations. I've spent years asking questions about God, the Bible, and what it truly means to follow Christ.
 

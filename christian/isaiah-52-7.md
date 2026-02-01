@@ -3,7 +3,7 @@ description: Isaiah 52:7 is a celebrated verse about a messenger of peace. Disco
 keywords: Isaiah 52, beautiful feet, good news, gospel, Paul, Romans 10, evangelism, messianic prophecy
 ---
 
-# The Messenger of Peace
+# Isaiah 52:7 (Messenger of Peace)
 
 Isaiah 52:7, with its imagery of a messenger bringing good news, is a pivotal Old Testament verse. While deeply rooted in the history of Israel's exile, its meaning has been a subject of rich interpretation. This article explores its significance within both its original Jewish context and its later application in Christian thought.
 

@@ -16,6 +16,7 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 | Genesis 22:18     | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)*  | Acts 3:25-26; Galatians 3:16       |
 | Numbers 21:8-9    | [The bronze serpent lifted up to heal Israelites from snakebites](christian/numbers-21-8.md)         | John 3:14-15                       |
 | Psalm 21 | [Royalty, glory and favour on the King *(Jesus?)*](christian/psalm-21.md) | - |
+| Psalm 22 | [The suffering and glory of the Chosen One](christian/psalm-22.draft.md) *(Jesus?)* | Matthew 27:35-46; John 19:23-24 |
 | Isaiah 6:9-10     | [People would hear but not understand](christian/isaiah-6-9.md)                                      | Matthew 13:14                      |
 | Isaiah 7:14       | [The virgin birth of Immanuel (Jesus?)*](trinitarian/isaiah-7-14.md)                                 | Matthew 1:23                       |
 | Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Romans 9:32-33; 1 Peter 2:4-8      |

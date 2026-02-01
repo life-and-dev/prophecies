@@ -23,7 +23,7 @@ Jesus cited this specific imagery to describe the reality of **Gehenna** (Hell),
 
 ### Jewish View
 
-In Jewish tradition, the interpretation of this verse is not uniform. Some rabbinic sources see the verse as a literal description of the fate of the wicked in the physical world, whose unburied corpses are left to the elements after a great battle. Other interpretations, like those found in the Aramaic translation of the Targum Jonathan, view it as a metaphor for the final judgment in Gehenna, where the wicked are punished until the righteous deem it sufficient. It is also a custom in some Jewish liturgical traditions to repeat the preceding verse (Isaiah 66:23) after reading 66:24, ending the reading on a note of universal worship rather than condemnation.
+In Jewish tradition, the interpretation of this verse is not uniform. [Some rabbinic sources](https://www.sefaria.org/Isaiah.66.24?with=Midrash%20ConnectionsList) see the verse as a literal description of the fate of the wicked in the physical world, whose unburied corpses are left to the elements after a great battle. Other interpretations, like those found in the Aramaic translation of the Targum Jonathan, view it as a metaphor for the final judgment in Gehenna, where the wicked are punished until the righteous deem it sufficient. It is also a custom in some Jewish liturgical traditions to repeat the preceding verse (Isaiah 66:23) after reading 66:24, ending the reading on a note of universal worship rather than condemnation.
 
 ## Conclusion
 

@@ -1,15 +1,17 @@
 ---
-description: David's cry of abandonment; Jesus quoted this exact phrase from the cross, though whether it's prophecy or familiar lament is debated.
-keywords: Psalm 22:1, my God why forsaken, Eli Eli lema sabachthani, Matthew 27:46, Mark 15:34, cry from cross, David's lament
+description: Explore the meaning of Psalm 22:1, famously quoted by Jesus on the cross. This article examines its historical context, Jewish and Christian interpretations.
+keywords: Psalm 22:1, Eli Eli lema sabachthani, Jesus's cry from the cross, messianic prophecy, David's lament, Christian theology, Jewish interpretation, biblical prophecy, crucifixion of Jesus, Old Testament prophecy
 ---
 
 # My God, My God, Why Have You Forsaken Me?
 
-## The Prophecy
+The cry, "My God, my God, why have you forsaken me?" from Psalm 22:1 is one of the most poignant and debated verses in the Bible. Famously uttered by Jesus on the cross, these words have become a cornerstone of Christian theology, viewed as a direct fulfillment of Old Testament prophecy. However, their interpretation is far from monolithic. Within Jewish tradition, they are seen as the personal lament of King David, a powerful expression of faith amidst suffering. This article explores the historical and theological landscape of this verse, examining the arguments for and against its prophetic nature and delving into the rich tapestry of meaning it holds for both Christians and Jews.
+
+## Psalm 22
 
 > **My God, my God, why have you forsaken me?** Why are you so far from saving me, from the words of my groaning? O my God, I cry by day, but you do not answer, and by night, but I find no rest. — Psalm 22:1-2 (ESV)
 
-## Fulfillment
+## Interpretations
 
 ### Apostles
 
@@ -31,10 +33,14 @@ Christians believe Jesus fulfilled this prophecy by quoting Psalm 22:1 exactly f
 
 However, whether this represents prophetic fulfillment or Jesus using familiar scriptural language depends on one's interpretive framework:
 
-**Jewish Perspective**: Jews view Psalm 22 as David's personal lament during persecution, not messianic prophecy. The psalm's superscription identifies it as "A Psalm of David," and the content describes David's own suffering and deliverance. When someone quotes Scripture in a moment of trial, it does not necessarily mean that Scripture prophesied their specific situation. Jesus may have been using David's existing prayer to express His own anguish, drawing on familiar liturgical language without claiming the psalm originally prophesied Him. Many faithful Jews throughout history have quoted this same psalm during suffering without implying it prophesied them.
+### Jewish Perspective
 
-**Alternate Interpretation**: Some scholars note that in Jewish practice, citing the opening line of a psalm could reference the entire psalm. Psalm 22, while beginning with forsakenness, ends with praise and deliverance ("he has done it," verse 31). Jesus may have been pointing to ultimate victory despite present suffering, using a well-known prayer that moves from anguish to triumph.
+Jews view Psalm 22 as David's personal lament during persecution, not messianic prophecy. The psalm's superscription identifies it as "A Psalm of David," and the content describes David's own suffering and deliverance. When someone quotes Scripture in a moment of trial, it does not necessarily mean that Scripture prophesied their specific situation. Jesus may have been using David's existing prayer to express His own anguish, drawing on familiar liturgical language without claiming the psalm originally prophesied Him. Many faithful Jews throughout history have quoted this same psalm during suffering without implying it prophesied them. The translation of verse 16 is a key point of contention. While Christian Bibles often translate the Hebrew as "they have pierced my hands and feet," Jewish translations, based on the Masoretic Text, render it as "like a lion, they are at my hands and my feet." As the Jewish commentator Rashi explains, this imagery depicts enemies tearing at the sufferer's hands and feet, a metaphor for intense physical agony.
+
+### Alternate Interpretation
+
+Some scholars note that in Jewish practice, citing the opening line of a psalm could reference the entire psalm. Psalm 22, while beginning with forsakenness, ends with praise and deliverance ("he has done it," verse 31). Jesus may have been pointing to ultimate victory despite present suffering, using a well-known prayer that moves from anguish to triumph.
 
 ## Conclusion
 
-**Debatable fulfillment.** Jesus quoted Psalm 22:1 exactly from the cross—a direct verbal correspondence documented by multiple eyewitnesses in the Gospels. The question hinges on interpretation: Did David write this prophetically about the Messiah's future suffering, or was Jesus using familiar scriptural language from David's personal lament to express His own anguish? People throughout history have quoted Scripture during trials without claiming those passages originally prophesied their specific situations. The superscription identifies Psalm 22 as "A Psalm of David," and the content describes David's own persecution and deliverance. No Old Testament author explicitly identifies this as messianic prophecy. Whether Jesus' quotation represents prophetic fulfillment or the use of existing liturgical prayer language depends on one's broader interpretive framework about the psalm's original intent. The exact quotation is undeniable; the prophetic nature is debated.
+The cry of "My God, my God, why have you forsaken me?" is undeniably a pivotal moment in the crucifixion narrative, with [Jesus's exact quotation of Psalm 22:1](##interpretations) recorded in the Gospels. The central debate revolves around whether this was the [fulfillment of a messianic prophecy](##christian) or the use of a [personal lament written by King David](##jewish-perspective) to express profound suffering. While Christians point to the psalm's detailed descriptions of crucifixion-like suffering as evidence of its prophetic nature, Jewish scholarship maintains that it is a personal prayer, with key verses translated differently. Ultimately, the interpretation of this verse remains a matter of faith and theological perspective, with both sides presenting compelling arguments.

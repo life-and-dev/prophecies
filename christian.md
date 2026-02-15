@@ -1,6 +1,6 @@
 # Christian Prophecies
 
-- To Christians, he is the Christ, [the Son of God](https://son.ofgod.info), the savior of the world
+- To Christians, he is [the Christ](https://kingdom.ofgod.info/christ), [the Son of God](https://son.ofgod.info), the savior of the world
 - To Muslims, he is a revered prophet, born of a virgin, but not God's Son
 - To Jews, he was a teacher who didn't fulfill messianic prophecies
 - To secularists, he was perhaps a wise moral teacher, but nothing more
@@ -9,13 +9,14 @@ According to the Bible, God made several promises about the Christ.
 
 If Jesus is the Christ, it changes everything. How we understand God, ourselves, history, and our eternal destiny.
 
-These propehcies prove that Jesus was the promised Christ (Messiah). Jews either does not consider it as a messianic prophecy. They often attribute the prophecy to another entity like the nation Israel in general or another king. The Tanakh (Old Testament) also do not confirm these prophecies because it was written before the Christ was born.
+These propehcies prove that Jesus was the promised Christ (Messiah). Jews or secular critics either does not consider it as a messianic prophecy. Often these prophecies are general promises which is not exlusive to Jesus only and may also be attributed to another king or anothe entity like the nation Israel in general.
 
 | Scripture         | Description                                                                                          | Apostles                           |
 | ----------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | Genesis 22:18     | [All nations would be blessed through Abraham's *offspring*](christian/genesis-22-18.md) *(Jesus?)*  | Acts 3:25-26; Galatians 3:16       |
 | Numbers 21:8-9    | [The bronze serpent lifted up to heal Israelites from snakebites](christian/numbers-21-8.md)         | John 3:14-15                       |
 | Psalm 21          | [Royalty, glory and favour on the King *(Jesus?)*](christian/psalm-21.md)                            | -                                  |
+| Psalm 91:11-12    | [God will protect the Jesus with Angels](christian/psalm-91-11.md)                                   | Matthew 4:5-7                      |
 | Isaiah 6:9-10     | [People would hear but not understand](christian/isaiah-6-9.md)                                      | Matthew 13:14                      |
 | Isaiah 7:14       | [The virgin birth of Immanuel (Jesus?)*](trinitarian/isaiah-7-14.md)                                 | Matthew 1:23                       |
 | Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Romans 9:32-33; 1 Peter 2:4-8      |

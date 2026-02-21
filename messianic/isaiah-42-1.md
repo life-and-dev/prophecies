@@ -1,10 +1,9 @@
 ---
 description: Isaiah 42:1-4 describes God's chosen servant who is gentle and brings justice. Matthew 12 applies this to Jesus' healing ministry.
-keywords: Isaiah 42, Servant of God, Servant Songs, gentle Messiah, bruised reed symbolism, faintly burning wick, justice to nations, Matthew 12
-reviewed: true
+keywords: Servant of God, Servant Songs, gentle Messiah, bruised reed symbolism, faintly burning wick, justice to nations, Matthew 12
 ---
 
-# The Beloved Servant of God
+# Isaiah 42:1-4 (Beloved Servant of God)
 
 The first of four "Servant Songs" in the Book of Isaiah introduces a mysterious figure chosen by God to bring justice to the nations. This figure, often referred to as the "Servant of the LORD," is characterized not by power or volume, but by extreme gentleness and persistent faithfulness. The passage in Isaiah 42:1-4 provides a vivid description of this servant's demeanor, using metaphors of nature to illustrate his compassion for the weak.
 

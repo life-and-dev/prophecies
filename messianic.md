@@ -30,6 +30,7 @@ Messianic prophecies are significant because it indicate how to identify the rea
 | Psalm 16:8-11     | [The Holy One will be resurrected](messianic/psalm-16-10.md)                                              | Confirmed    | Matthew 27:63; Acts 2:29-32, 13:35-37                                             |
 | Psalm 110:1       | [The LORD Himself will humble the Lord's enemies](messianic/psalm-110-1.md)                               | Unmeasurable | Matthew 22:41-46; Acts 2:34-36; Hebrews 1:13, 10:12-13                            |
 | Isaiah 25:8       | [God will swallow up death forever](messianic/isaiah-25-8.md)                                             | Unmeasurable | 1 Corinthians 15:54; Revelation 21:4                                              |
+| Isaiah 52:13-15   | [The Suffering Servant](messianic/isaiah-52-13.md)                                                        | Unmeasurable | Matthew 12:18-21, 27:26-30; Acts 8:32-35; Romans 15:21; 1 Peter 1:2               |
 | Jeremiah 23:5-6   | [The LORD righteous is our Righteouness *(Jesus' title)*](messianic/jeremiah-23-5.md)                     | Unmeasurable | Matthew 1:1; Luke 3:23-31; Romans 3:21-26; 1 Corinthians 1:30; 2 Corinthians 5:21 |
 | Jeremiah 31:31-34 | [A New Covenant where God writes His law on human hearts](messianic/jeremiah-31-31.md)                    | Unmeasurable | Luke 22:20; Hebrews 8:8-12, 10:16-17                                              |
 

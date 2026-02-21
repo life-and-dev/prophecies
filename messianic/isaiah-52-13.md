@@ -1,10 +1,9 @@
 ---
 description: Isaiah 52:13-15 describes a Servant who is both highly exalted and brutally disfigured. Who is this figure, and why does his appearance shock the nations?
-keywords: Isaiah 52:13, Suffering Servant, Messianic prophecy, yazzah translation, Jewish interpretation, Christian interpretation, atonement
-reviewed: true
+keywords: Suffering Servant, Messianic prophecy, yazzah translation, atonement
 ---
 
-# Exalted Yet Disfigured
+# Isaiah 52:13-15 (Exalted Yet Disfigured)
 
 Isaiah 52:13-15 presents a startling paradox. A servant of God is described as being simultaneously high and lifted up, yet he is also so brutally disfigured that he no longer appears human. This short but profound passage serves as the introduction to the "Suffering Servant" song found in the next chapter. It has sparked intense debate for millennia regarding the identity of the servant. Scholars and theologians continue to explore the meaning of his transformational journey from humiliation to supreme exaltation.
 

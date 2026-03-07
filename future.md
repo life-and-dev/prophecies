@@ -6,3 +6,4 @@ These prophecies refer to events that would only unfold in our future or at the 
 | ------------ | -------------------------------------------------------------------------------- |
 | Isaiah 2:2-4 | [All nations will stream to Jerusalem to learn God's ways](future/isaiah-2-2.md) |
 | Isaiah 65:17 | [New Heavens and New Earth](future/isaiah-65-17.md)                              |
+| Isaiah 66:24 | [Unquenchable Fire](future/isaiah-66-24.md)                                      |

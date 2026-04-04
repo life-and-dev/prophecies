@@ -18,7 +18,7 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 | Psalm 21          | [Royalty, glory and favour on the King *(Jesus?)*](christian/psalm-21.md)                            | -                                                                  |
 | Psalm 22          | [The suffering and glory of the Chosen One](christian/psalm-22.md) *(Jesus?)*                        | Matthew 27:35-46; Mark 15:34; Luke 24:39; John 19:23-24, 20:25-27  |
 | Psalm 91:11-12    | [God will protect the Jesus with Angels](christian/psalm-91-11.md)                                   | Matthew 4:5-7                                                      |
-| Psalm 118:22      | [The stone the builders rejected has become the cornerstone](christian/psalm-118-22.md)              | Matthew 21:42; Mark 12:10-11; Luke 20:17; Acts 4:11; 1 Peter 2:4-7 |
+| Psalm 118:22      | [The stone the builders rejected has become the cornerstone](christian/psalm-118-22.md)              | Matthew 21:42; Mark 12:10-11; Luke 20:17; Acts 4:11; 1 Peter 2:4-8 |
 | Isaiah 6:9-10     | [People would hear but not understand](christian/isaiah-6-9.md)                                      | Matthew 13:14                                                      |
 | Isaiah 7:14       | [The virgin birth of Immanuel (Jesus?)*](trinitarian/isaiah-7-14.md)                                 | Matthew 1:23                                                       |
 | Isaiah 8:13       | [the Lord would be a sanctuary to some but a stone of stumbling to others](christian/isaiah-8-14.md) | Romans 9:32-33; 1 Peter 2:4-8                                      |

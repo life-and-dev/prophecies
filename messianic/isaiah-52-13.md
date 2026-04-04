@@ -11,7 +11,12 @@ Isaiah 52:13-15 presents a startling paradox. A servant of God is described as b
 
 The passage describes a servant whose success leads to extreme elevation. This success is contrasted with a physical appearance that is marred beyond recognition.
 
-> Behold, **my servant shall act wisely; he shall be high and lifted up**, and shall be exalted. As many were astonished at you—**his appearance was so marred, beyond human semblance**, and his form beyond that of the children of mankind—so shall he sprinkle many nations; kings shall shut their mouths because of him, for that which has not been told them they see, and that which they have not heard they understand. — Isaiah 52:13-15 (ESV)
+> Behold, My servant shall act wisely; *(John 7:15-16)*  
+> he shall be high and lifted up, and shall be exalted. *(Philippians 2:5-11)*  
+>  
+> As many were astonished at you (**his appearance was so marred, beyond human semblance**, and his form beyond that of the children of mankind) so shall he sprinkle many nations.  
+>
+> — Isaiah 52:13-15 (ESV)
 
 The Hebrew text suggests a servant who "deals prudently" or "acts wisely." This wisdom results in him being "high and lifted up." Isaiah uses this phrase elsewhere only to describe God himself (Isaiah 6:1 (ESV)). This makes the subsequent description of his disfigurement even more shocking.
 

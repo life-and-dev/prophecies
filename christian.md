@@ -29,5 +29,6 @@ These propehcies prove that Jesus was the promised Christ (Messiah). Jews either
 | Jeremiah 30:12-21 | [Predicts a prince *(Jesus?)* authorized to approach God](christian/jeremiah-30-21.md)               | Hebrews 4:14-16, 7:25, 10:19-22                                    |
 | Hosea 6:2         | [Christ will be resurrected on the third day](christian/hosea-6-2.md)                                | Matthew 28:1-6; 1 Corinthians 15:4                                 |
 | Hosea 11:1        | [Out of Egypt *(Jesus' family?)*](christian/hosea-11-1.md)                                           | Matthew 2:13-15                                                    |
+| Malachi 3:1-4     | [Messenger of the covenant (John the Baptist and Jesus?)](christian/malachi-3-1.draft.md)            | Matthew 11:10-14; Mark 1:2-3; Luke 1:16-17, 7:27; John 1:23-24     |
 
 According to the New Testament apostles or Jesus himself, these prophecies had at least been partially fulfilled.

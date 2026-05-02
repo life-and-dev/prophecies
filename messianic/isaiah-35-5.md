@@ -3,7 +3,7 @@ description: An exploration of Isaiah 35's prophecy of miraculous healing and it
 keywords: Isaiah 35, messianic prophecy, Jesus's miracles, healing prophecy, Christian apologetics, Jewish eschatology, biblical prophecy
 ---
 
-# Miracles of Healing
+# Isaiah 35:5 (Miracles of Healing)
 
 The Old Testament prophet Isaiah foretold a time when God would intervene to save His people, a time marked by extraordinary events. Among the most anticipated signs were miraculous healings: the blind would see, the deaf would hear, the lame would leap, and the mute would sing. This article explores the prophetic announcement in Isaiah 35 and investigates its claimed fulfillment, examining the historical and theological arguments from both Christian and Jewish perspectives.
 
@@ -24,9 +24,10 @@ Christians believe this prophecy was literally fulfilled by Jesus of Nazareth du
 > And Jesus answered them, "Go and tell John what you hear and see: **the blind receive their sight and the lame walk**, lepers are cleansed and **the deaf hear**, and the dead are raised up, and the poor have good news preached to them." — Matthew 11:4-5 (ESV)
 
 The Gospels record numerous instances of these specific miracles:
-*   **Blind:** Healing the man born blind (John 9), Bartimaeus (Mark 10:46-52).
-*   **Deaf/Mute:** Healing the deaf man with a speech impediment (Mark 7:31-37).
-*   **Lame:** Healing the paralytic (Mark 2:1-12), the man at the pool of Bethesda (John 5:1-9).
+
+* **Blind:** Healing the man born blind (John 9), Bartimaeus (Mark 10:46-52).
+* **Deaf/Mute:** Healing the deaf man with a speech impediment (Mark 7:31-37).
+* **Lame:** Healing the paralytic (Mark 2:1-12), the man at the pool of Bethesda (John 5:1-9).
 
 > And great crowds came to him, bringing with them the lame, the blind, the crippled, the mute, and many others, and they put them at his feet, and he healed them, so that the crowd wondered, when they saw the mute speaking, the crippled healthy, the lame walking, and the blind seeing. And they glorified the God of Israel. — Matthew 15:30-31 (ESV)
 

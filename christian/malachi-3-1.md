@@ -3,7 +3,7 @@ description: Malachi 3 predicts a messenger who will prepare the way for the Lor
 keywords: malachi 3, messenger of the covenant, john the baptist, elijah, messianic prophecy, old testament prophecy, jewish interpretation, christian interpretation
 ---
 
-# Messenger of the Covenant
+# Malachi 3:1-4 (Messenger of the Covenant)
 
 The book of Malachi, the last prophetic voice in the Old Testament, closes with a dramatic promise: a messenger will appear to prepare the way for the Lord's sudden arrival at His temple. This prophecy has been a focal point of messianic expectation for centuries, sparking intense debate and diverse interpretations. Who is this mysterious messenger? And who is the "messenger of the covenant" that follows? This article explores the answers to these questions.
 

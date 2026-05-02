@@ -30,6 +30,7 @@ Messianic prophecies are significant because it indicate how to identify the rea
 | Psalm 16:8-11     | [The Holy One will be resurrected](messianic/psalm-16-10.md)                                              | Confirmed    | Matthew 27:63; Acts 2:29-32, 13:35-37                                             |
 | Psalm 110:1       | [The LORD Himself will humble the Lord's enemies](messianic/psalm-110-1.md)                               | Unmeasurable | Matthew 22:41-46; Acts 2:34-36; Hebrews 1:13, 10:12-13                            |
 | Isaiah 25:8       | [God will swallow up death forever](messianic/isaiah-25-8.md)                                             | Unmeasurable | 1 Corinthians 15:54; Revelation 21:4                                              |
+| Isaiah 35:5-6     | [The Messiah will perform miracles of healing](messianic/isaiah-35-5.md)                                  | Unmeasurable | Matthew 11:4-5, 15:30-31; Mark 2:1-12, 7:31-37, 10:46-52; John 5:1-9, 9           |
 | Isaiah 42:1-4     | [God's chosen servant who is gentle and brings justice](messianic/isaiah-42-1.md)                         | Unmeasurable | Matthew 12:18-21                                                                  |
 | Isaiah 52:13-15   | [The Suffering Servant](messianic/isaiah-52-13.md)                                                        | Unmeasurable | Matthew 12:18-21, 27:26-30; Acts 8:32-35; Romans 15:21; 1 Peter 1:2               |
 | Jeremiah 23:5-6   | [The LORD righteous is our Righteouness *(Jesus' title)*](messianic/jeremiah-23-5.md)                     | Unmeasurable | Matthew 1:1; Luke 3:23-31; Romans 3:21-26; 1 Corinthians 1:30; 2 Corinthians 5:21 |
@@ -40,13 +41,14 @@ Messianic prophecies are significant because it indicate how to identify the rea
 ---
 
 The meaning of the above fulfillment categories:
-* **Historians**: Possible values for this column include:
-  * *Confirmed*: Specific verifyable evidence exist that the prophecy had been historically fulfilled by secular sources.
-  * *Vague*: Technically the prophecy had been historically fulfilled, but the events are too general to identify a unique measurable event.
-  * *Unmeasurable*: The historians can neither confirm nor refute the prophecy as the prophecy is either to general or contains no measurable event.
-  * *Debatable*: Conflicting and strong evidence could be provided that this prophecy was fulfilled or failed, but it is depends on the text's interpretation.
-  * *Failed*: Historic evidence prove that this prediction was not literally fulfilled, however some may argue that the prophecy should be viewed symbolically or spiritually. Often manuscript differences contribute to the misinterpretation of the prophecy. Read the sub-article for more details.
-  * *Partially*: Only some aspects of the prophecy had been historically fulfilled, while some remains to be fulfilled (but is still possible in the future)
-  * *Future*: No aspect of this prophecy had not been fulfilled yet, but the possibility still exist that it can be fulfilled in the future.
-* **Tanakh**: According to the Tanakh (Old Testament bible authors) the events of the prophecy had been fulfilled.
-* **Apostles**: According to the New Testament apostles or Jesus himself, the prophecy had been fulfilled or at least partially been fulfilled.
+
+- **Historians**: Possible values for this column include:
+  - *Confirmed*: Specific verifyable evidence exist that the prophecy had been historically fulfilled by secular sources.
+  - *Vague*: Technically the prophecy had been historically fulfilled, but the events are too general to identify a unique measurable event.
+  - *Unmeasurable*: The historians can neither confirm nor refute the prophecy as the prophecy is either to general or contains no measurable event.
+  - *Debatable*: Conflicting and strong evidence could be provided that this prophecy was fulfilled or failed, but it is depends on the text's interpretation.
+  - *Failed*: Historic evidence prove that this prediction was not literally fulfilled, however some may argue that the prophecy should be viewed symbolically or spiritually. Often manuscript differences contribute to the misinterpretation of the prophecy. Read the sub-article for more details.
+  - *Partially*: Only some aspects of the prophecy had been historically fulfilled, while some remains to be fulfilled (but is still possible in the future)
+  - *Future*: No aspect of this prophecy had not been fulfilled yet, but the possibility still exist that it can be fulfilled in the future.
+- **Tanakh**: According to the Tanakh (Old Testament bible authors) the events of the prophecy had been fulfilled.
+- **Apostles**: According to the New Testament apostles or Jesus himself, the prophecy had been fulfilled or at least partially been fulfilled.

@@ -7,11 +7,11 @@ keywords: Psalm 97:7, angelic worship, Hebrews 1:6, YHWH worship, monotheism deb
 
 ## The Prophecy
 
-> The mountains melt like wax before the LORD ***(YHVH)*** before the Lord of all the earth. The heavens proclaim his righteousness, and all the peoples see His glory.
+> The mountains melt like wax before the LORD ***(YHWH)*** before the Lord of all the earth. The heavens proclaim his righteousness, and all the peoples see His glory.
 >
 > All worshipers of images are put to shame, who make their boast in worthless idols; **worship Him, all you gods**!
 >
-> Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O LORD ***(YHVH)***.
+> Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O LORD ***(YHWH)***.
 >
 > Psalms 97:5-8 (ESV)
 
@@ -36,7 +36,7 @@ However, this contradicts the Matthew and Luke's witnesses:
 >
 > -- Matthew 4:8-10 (ESV), Luke 4:8
 
-Therefore, the author of Hebrews are the only bible author to claim that angels are to worship Jesus. The angels are supposed to worship the LORD ([YHVH](https://ofgod.info/name)) and not Jesus:
+Therefore, the author of Hebrews are the only bible author to claim that angels are to worship Jesus. The angels are supposed to worship the LORD ([YHWH](https://ofgod.info/name)) and not Jesus:
 
 > For I will proclaim the name of the LORD ***(Yahweh)***; ascribe greatness to our God!
 > ...
@@ -70,7 +70,7 @@ Throughout Psalm 97, the subject is consistently identified as "the LORD" (YHWH)
 
 The psalm celebrates YHWH (traditionally understood as God the Father), not a separate Christ figure.
 
-Further confusion is caused by the English translator's choice to replace God's Hebrew name [YHVH](https://ofgod.info/name) with "the LORD", however in the Greek New Testament Jesus also has the title, "the Lord". By removing God's name it became unclear to English readers which Lord is which.
+Further confusion is caused by the English translator's choice to replace God's Hebrew name [YHWH](https://ofgod.info/name) with "the LORD", however in the Greek New Testament Jesus also has the title, "the Lord". By removing God's name it became unclear to English readers which Lord is which.
 
 #### Immediate Context
 

@@ -1,0 +1,146 @@
+favicon: logo.svg
+features:
+  bibleTooltips: true
+  sourceEdit: true
+menu:
+  - messianic:
+    - genesis-3-15
+    - genesis-49-10
+    - 2-samuel-7-12
+    - psalm-2
+    - psalm-16-10
+    - psalm-110-1
+    - isaiah-25-8
+    - isaiah-35-5
+    - isaiah-42-1
+    - isaiah-52-13
+    - jeremiah-23-5
+    - jeremiah-31-31
+    - micah-5-2
+    - zechariah-9-9
+  - christian:
+    - genesis-22-18
+    - numbers-21-8
+    - psalm-21
+    - psalm-22
+    - psalm-91-11
+    - psalm-118-22
+    - isaiah-6-9
+    - isaiah-8-14
+    - isaiah-28-16
+    - isaiah-40-3
+    - isaiah-52-7
+    - isaiah-65-1
+    - jeremiah-30-21
+    - hosea-6-2
+    - hosea-11-1
+    - zechariah-11-12
+    - zechariah-12-10
+    - zechariah-13-7
+    - malachi-3-1
+  - trinitarian:
+    - "Psalm 2:7 (God's Son)": ../messianic/psalm-2
+    - psalm-24
+    - psalm-45-6
+    - psalm-47
+    - psalm-97-7
+    - psalm-102-25
+    - isaiah-7-14
+    - isaiah-9-6
+    - isaiah-54-13
+    - "Jeremiah 23:5-6 (The Righteous Branch)": ../messianic/jeremiah-23-5
+  - political:
+    - isaiah-10-12
+    - isaiah-10-21
+    - isaiah-13-19
+    - isaiah-16-14
+    - isaiah-17-1
+    - isaiah-19-2
+    - isaiah-19-4
+    - isaiah-20-1
+    - isaiah-22-15
+    - isaiah-23
+    - isaiah-28-1
+    - isaiah-30-1
+    - isaiah-34-5
+    - isaiah-37-33
+    - isaiah-38-8
+    - isaiah-39-5
+    - isaiah-44-27
+    - jeremiah-22-24
+    - jeremiah-25-8
+    - jeremiah-25-11
+    - jeremiah-29-10
+    - jeremiah-34-4
+    - jeremiah-46-2
+    - jeremiah-46-25
+    - ezekiel-26
+  - future:
+    - isaiah-2-2
+    - isaiah-65-17
+    - isaiah-66-24
+  - ===
+  - about
+  - disclaimer
+server:
+  output: .output
+  path: .mdsite
+  repo: https://github.com/life-and-dev/prophecies
+site:
+  canonical: https://prophecies.ofgod.info
+  name: Prophecies of God
+themes:
+  light:
+    colors:
+      primary: '#1f5f7f'
+      secondary: '#656d76'
+      selected: '#dbe3eb'
+      error: '#d1242f'
+      warning: '#bf8700'
+      info: '#0969da'
+      success: '#1a7f37'
+      background: '#f6f8fa'
+      surface: '#ffffff'
+      surface-rail: '#edf1f5'
+      surface-appbar: '#e4eaf0'
+      on-surface-rail: '#32302a'
+      on-surface-appbar: '#000000'
+      on-background: '#24292f'
+      on-surface: '#24292f'
+      on-primary: '#ffffff'
+      on-secondary: '#ffffff'
+      on-selectable: '#24292f'
+      on-selected: '#ffffff'
+      on-error: '#ffffff'
+      on-warning: '#ffffff'
+      on-info: '#ffffff'
+      on-success: '#ffffff'
+      outline: '#d0d7de'
+      outline-bars: '#f3f4f6'
+  dark:
+    colors:
+      primary: '#3fafff'
+      secondary: '#8b949e'
+      selected: '#313943'
+      error: '#f85149'
+      warning: '#d29922'
+      info: '#58a6ff'
+      success: '#3fb950'
+      background: '#161b22'
+      surface: '#0d1117'
+      surface-rail: '#1f252d'
+      surface-appbar: '#282f38'
+      on-surface-rail: '#ced0d6'
+      on-surface-appbar: '#ffffff'
+      on-background: '#c9d1d9'
+      on-surface: '#c9d1d9'
+      on-primary: '#0d1117'
+      on-secondary: '#0d1117'
+      on-selectable: '#c9d1d9'
+      on-selected: '#ffffff'
+      on-error: '#ffffff'
+      on-warning: '#ffffff'
+      on-info: '#ffffff'
+      on-success: '#ffffff'
+      outline: '#30363d'
+      outline-bars: '#161b22'

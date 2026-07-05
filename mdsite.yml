@@ -1,5 +1,8 @@
 features:
   bibleTooltips: true
+  footer:
+    - about
+    - disclaimer
   sourceEdit: https://github.com/life-and-dev/prophecies/blob/main/
 menu:
   - messianic:
@@ -78,9 +81,6 @@ menu:
     - isaiah-2-2
     - isaiah-65-17
     - isaiah-66-24
-  - ===
-  - about
-  - disclaimer
 site:
   canonical: https://prophecies.ofgod.info
   favicon: logo.svg

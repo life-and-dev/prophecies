@@ -1,7 +1,6 @@
-favicon: logo.svg
 features:
   bibleTooltips: true
-  sourceEdit: true
+  sourceEdit: https://github.com/life-and-dev/prophecies/blob/main/
 menu:
   - messianic:
     - genesis-3-15
@@ -82,12 +81,9 @@ menu:
   - ===
   - about
   - disclaimer
-server:
-  output: .output
-  path: .mdsite
-  repo: https://github.com/life-and-dev/prophecies
 site:
   canonical: https://prophecies.ofgod.info
+  favicon: logo.svg
   name: Prophecies of God
 themes:
   light:

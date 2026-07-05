@@ -1,9 +1,8 @@
 features:
-  bibleTooltips: true
   footer:
     - about
     - disclaimer
-  sourceEdit: https://github.com/life-and-dev/prophecies/blob/main/
+  source-edit: https://github.com/life-and-dev/prophecies/blob/main/
 menu:
   - messianic:
     - genesis-3-15

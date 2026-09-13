@@ -13,14 +13,15 @@ keywords: isaiah 7:14, virgin birth, immanuel, almah, parthenos, messianic proph
 
 The name **Immanuel** (עִמָּנוּ אֵל) translates to "**God is with us**." The interpretation of this name is a central point of divergence between Christian and Jewish theology.
 
-### Trinitarian View (Ontological)
-Christians, particularly [Trinitarians](https://son.ofgod.info/trinity), interpret "God with us" as a literal description of Jesus' nature. They believe [Jesus was fully God and fully man](https://son.ofgod.info/son-as-god). Therefore, the name is not just symbolic but descriptive of the reality that in Jesus, God has physically entered human history to dwell among His people.
+### Trinitarian View
 
-### Unitarian View (Manifestational)
-Non-Trinitarian Christians (such as Biblical Unitarians) view the name "Immanuel" as indicating **God's action through Jesus**, rather than Jesus' identity as God. In this view, "God with us" means that God has not abandoned his people but is actively saving and redeeming them *by means of* his human Messiah, Jesus. The name is seen as symbolic (like "Elijah" meaning "My God is Yahweh"), affirming that in Jesus' life and ministry, God was perfectly represented and powerfully present, "reconciling the world to Himself" (2 Corinthians 5:18-19).
+Christians, particularly [Trinitarians](https://son.ofgod.info/trinity), interpret "God with us" as a **literal description of Jesus' nature**. They believe [Jesus was fully God and fully man](https://son.ofgod.info/son-as-god). According to this view, the name is not just symbolic but descriptive of the reality that in Jesus, God has physically entered human history to dwell among His people.
 
-### Jewish View (Theophoric)
-Jewish scholars interpret the name as a **theophoric name**, which was common in biblical times (e.g., *Daniel* means "God is my Judge," *Elijah* means "The LORD is my God"). In this view, the name does not imply the child *is* God. Instead, it serves as a sign to King Ahaz that **God is on our side** or "God is supporting us" against the invading armies of Syria and Ephraim. The child's presence would be a living reminder that God had not abandoned Judah during the crisis.
+### Unitarian View
+
+This view interpret the name as a **theophoric name**. A theophoric name is a name that includes a reference to God. The child’s name in that sense, as with Daniel (“God is my Judge”) and Elijah (“[The LORD](https://ofgod.info/names#lord) is my God”). Such names do not mean their bearers are God. Instead, the name serves as a sign to King Ahaz: God is with Judah and will support it against Syria and Ephraim. The child’s presence would remind Judah that God had not abandoned them during this crisis.
+
+Likewise the name "Immanuel" translated as "God with us" means that God has not abandoned his people but is actively saving and redeeming them *by means of* his human Messiah, Jesus. The name affirms Jesus' life and ministry, God was perfectly represented and powerfully present, "reconciling the world to Himself" (2 Corinthians 5:18-19).
 
 ## Textual Variants
 
@@ -40,17 +41,25 @@ Jewish scholars interpret this passage in its immediate historical context durin
 
 The Hebrew text uses "**ha-almah**" (הָעַלְמָה) — "**the** young woman," not "a young woman." This definite article indicates Isaiah was pointing to a **specific, identifiable woman** that both he and Ahaz could see or knew about at that moment. The use of "the" suggests the woman was present or immediately known to both parties, making the sign concrete and verifiable. ([Source: Jews for Judaism](https://jewsforjudaism.org/knowledge/articles/isaiah-714-a-virgin-birth/), [What Jews Believe](https://whatjewsbelieve.org/isaiah-714/))
 
-#### The Verb Tense
+#### Hebrew and Greek Wording
 
-The Hebrew word "**harah**" (הָרָה) is an adjective (or participle) meaning "**pregnant**" or "with child," acting as a present-state description rather than a future verb. It is best translated as "is pregnant" or "is with child." This indicates the young woman was **already pregnant** when Isaiah spoke, making the timeline immediate and measurable rather than distant. ([Source: Aish.com](https://aish.com/isaiah-714-a-virgin-birth/), [Source: Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/questions/13164/does-isaiah-714-indicate-that-the-young-woman-is-already-pregnant))
+The Hebrew expression **הָרָה** (*harah*) can be understood as “pregnant,” “with child,” or “will conceive,” depending on how it is read in context. This has led to different translations and interpretations.
+
+The Septuagint renders the clause with the future expression **ἐν γαστρὶ ἕξει**, literally “will have [a child] in the womb.” Its Greek translator therefore presents the pregnancy and birth as future.
+
+Neither wording identifies the woman or explains how conception occurs. The surrounding context, however, connects the child's early development with the immediate threat from Syria and Ephraim:
+
+> “For before the boy knows how to refuse the evil and choose the good, the land whose two kings you dread will be deserted.” — Isaiah 7:16 (ESV)
+
+For this reason, Jewish interpreters commonly understand the sign as involving a child in Ahaz's time. Christian interpreters may understand that historical sign as a preliminary fulfilment and Matthew's application to Jesus as a further fulfilment.
 
 #### Identity: Isaiah's Wife or Ahaz's Wife
 
 Jewish scholars generally propose two main candidates for the identity of "the young woman":
 
-1.  **Isaiah's Wife:** Many commentators (like Rashi and Ibn Ezra) identify her as Isaiah's wife, "the prophetess" mentioned in Isaiah 8:3. The birth of her son, Maher-Shalal-Hash-Baz, follows the same timeline formula as the Immanuel prophecy ("Before the boy knows how to cry 'My father'..."), suggesting they are the same event. ([Source: Outreach Judaism](https://outreachjudaism.org/dual-prophecy-virgin-birth/))
+1. **Isaiah's Wife:** Many commentators (like Rashi and Ibn Ezra) identify her as Isaiah's wife, "the prophetess" mentioned in Isaiah 8:3. The birth of her son, Maher-Shalal-Hash-Baz, follows the same timeline formula as the Immanuel prophecy ("Before the boy knows how to cry 'My father'..."), suggesting they are the same event. ([Source: Outreach Judaism](https://outreachjudaism.org/dual-prophecy-virgin-birth/))
 
-2.  **King Ahaz's Wife:** Other commentators (like Kimchi/Radak) suggest she is King Ahaz's wife (Queen Abijah), and the child is the future **King Hezekiah**. In this view, Hezekiah—who would grow up to be a righteous king—personifies "God is with us" by saving Judah from destruction. The sign assured Ahaz that his royal line would continue despite the current threat. ([Source: Jews for Judaism](https://jewsforjudaism.org/knowledge/articles/isaiah-714-a-virgin-birth/), [Source: Aish.com](https://aish.com/isaiah-714-a-virgin-birth/))
+2. **King Ahaz's Wife:** Other commentators (like Kimchi/Radak) suggest she is King Ahaz's wife (Queen Abijah), and the child is the future **King Hezekiah**. In this view, Hezekiah—who would grow up to be a righteous king—personifies "God is with us" by saving Judah from destruction. The sign assured Ahaz that his royal line would continue despite the current threat. ([Source: Jews for Judaism](https://jewsforjudaism.org/knowledge/articles/isaiah-714-a-virgin-birth/), [Source: Aish.com](https://aish.com/isaiah-714-a-virgin-birth/))
 
 #### The Sign's Mechanism
 
@@ -61,6 +70,7 @@ The sign's verses continue: "For before the boy knows how to refuse the evil and
 #### Why It Matters to Ahaz
 
 Because "the young woman" was present, identifiable (Isaiah's pregnant wife), and the pregnancy already underway, King Ahaz could:
+
 1. See the specific woman Isaiah referenced
 2. Track the birth of that specific child
 3. Measure the 2-3 year countdown to his enemies' defeat
@@ -72,8 +82,8 @@ A prophecy about a virgin birth 700 years in the future would have provided no c
 
 The historical record in the books of Kings confirms that the prophecy was fulfilled exactly as Isaiah predicted. Within the short timeframe of a young child's development (Isaiah 7:16), the two kings threatening Ahaz were defeated:
 
-1.  **Death of Rezin (Syria):** "The king of Assyria listened to him [Ahaz]. The king of Assyria marched up against Damascus and took it, carrying its people captive to Kir, and he killed Rezin." (2 Kings 16:9)
-2.  **Defeat of Pekah (Israel):** "In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured... Galilee... and he carried the people captive to Assyria. Then Hoshea... conspired against Pekah... and struck him down and put him to death." (2 Kings 15:29-30)
+1. **Death of Rezin (Syria):** "The king of Assyria listened to him [Ahaz]. The king of Assyria marched up against Damascus and took it, carrying its people captive to Kir, and he killed Rezin." (2 Kings 16:9)
+2. **Defeat of Pekah (Israel):** "In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured... Galilee... and he carried the people captive to Assyria. Then Hoshea... conspired against Pekah... and struck him down and put him to death." (2 Kings 15:29-30)
 
 These events occurred around 732 BCE, just a few years after Isaiah's prophecy (c. 735 BCE), validating the sign given to Ahaz.
 
@@ -85,34 +95,47 @@ Christians believe this prophecy was ultimately fulfilled in the birth of Jesus 
 
 Christians argue that while there may have been a partial fulfillment in Ahaz's time, the specific language of "virgin" (as preserved in the Septuagint) and the name "Immanuel" point to what they believe was a miraculous event—the virgin birth of Jesus, whom Christian theology identifies as God incarnate (the Incarnation).
 
-## Textual Variants in the Gospels
+## Septuagint Translation
 
-A common question is whether the virgin birth narratives in the Gospels were added by later scribes ("tampering") to align with the Septuagint's translation of Isaiah.
+The Hebrew text uses **עַלְמָה** (*almah*), a word commonly translated “young woman.” Its meaning can include virginity, but it does not by itself describe conception.
+
+The [Septuagint](https://en.wikipedia.org/wiki/Septuagint), an ancient Greek translation of the Old Testament, translates *almah* with **παρθένος** (*parthenos*):
+
+> “Therefore the LORD himself will give you a sign. Behold, **the virgin** will have a child in the womb and will bear a son, and you will call his name Immanuel.” — Isaiah 7:14 (Septuagint, literal translation)
+
+*Parthenos* normally means “virgin,” though it can also be used more broadly for a maiden or unmarried young woman. The Greek wording therefore supports translating the woman as “the virgin,” but it does not state that she conceived without sexual intercourse or that she remained a virgin after conception.
+
+The Greek phrase **ἐν γαστρὶ ἕξει** literally means “will have [a child] in the womb.” It predicts pregnancy and birth, but does not explain their mechanism.
+
+Matthew 1:23 quotes the central wording of the Septuagint when applying the verse to Jesus. Matthew's own narrative states that Mary conceived by the Holy Spirit. That claim comes from Matthew 1:18-25, not from the grammar of Isaiah 7:14 alone.
+
+This is a translation difference, not a Hebrew textual variant. The Hebrew text is unchanged. The difference is how the Septuagint translator understood and rendered *almah*.
 
 ### Matthew 1:16
+
 The most significant textual variant occurs in Matthew's genealogy.
-*   **Standard Greek Text:** "...Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ." This standard reading supports the virgin birth by breaking the pattern of "X begat Y."
-*   **Sinaitic Syriac (Syrˢⁱⁿ):** This 4th/5th-century manuscript reads: "...Joseph, to whom was betrothed Mary the virgin, **begat** Jesus."
+
+* **Standard Greek Text:** "...Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ." This standard reading supports the virgin birth by breaking the pattern of "X begat Y."
+* **Sinaitic Syriac (Syrˢⁱⁿ):** This 4th/5th-century manuscript reads: "...Joseph, to whom was betrothed Mary the virgin, **begat** Jesus."
 
 Some critics argue this Syriac reading reflects an original text where Joseph was the biological father. However, scholars note that even this manuscript calls Mary "the virgin" and includes the subsequent narrative of the virgin conception (Matt 1:18-25), creating an internal contradiction if "begat" is taken literally. Most textual critics view this as a scribal error or an attempt to fix the genealogy's rhythm, rather than evidence of a non-miraculous original text. ([Source: The Text of the Gospels](http://textus-receptus.com/wiki/Matthew_1:16))
 
 ### Luke 1:34
-In Luke, Mary asks, "How will this be, since I am a virgin?" (lit. "since I do not know a man"). There is **no manuscript evidence** omitting this verse. The text is remarkably stable across all ancient witnesses, suggesting that the virgin birth narrative was part of Luke's Gospel from its earliest circulation, not a later insertion. ([Source: Biblical Hermeneutics](https://hermeneutics.stackexchange.com/questions/27608/what-are-the-textual-variants-for-luke-134))
+
+In Luke, Mary asks, "How will this be, since I am a virgin?" (lit. "since I do not know a man"). The text is remarkably [stable across all ancient witnesses](https://hermeneutics.stackexchange.com/questions/27608/what-are-the-textual-variants-for-luke-134), suggesting that the virgin birth narrative was part of Luke's Gospel from its earliest circulation, not a later insertion.
 
 ## New Testament Usage
 
 It is important to note who actually used this prophecy in the New Testament:
 
-*   **Matthew:** The author of Matthew is the **only one** who explicitly quotes Isaiah 7:14 (Matthew 1:23) to connect Jesus' birth to the prophecy.
-*   **Luke:** Luke describes the event of the virgin birth and uses the same Greek word for virgin (*parthenos*), but he does not explicitly quote the verse from Isaiah.
-*   **Other apostles:** Neither Jesus nor any other apostle ever quoted Isaiah 7:14 or mentioned the virgin birth in their recorded preaching. Their focus was primarily on Jesus' death, resurrection, and lineage from David (Romans 1:3-4).
+* **Matthew:** The author of Matthew is the **only one** who explicitly quotes Isaiah 7:14 (Matthew 1:23) to connect Jesus' birth to the prophecy.
+* **Luke:** Luke describes the event of the virgin birth and uses the same Greek word for virgin (*parthenos*), but he does not explicitly quote the verse from Isaiah.
+* **Other apostles:** Neither Jesus nor any other apostle ever quoted Isaiah 7:14 or mentioned the virgin birth in their recorded preaching. Their focus was primarily on Jesus' death, resurrection, and lineage from David (Romans 1:3-4).
 
 ## Conclusion
 
-The interpretation of Isaiah 7:14 depends largely on one's theological framework and whether one prioritizes the immediate historical context or a later messianic application.
+Isaiah 7:14 has both an immediate historical setting and a later Christian application. The [meaning of Immanuel](#meaning-of-immanuel) can describe God's support and presence with Judah, while the [Jewish interpretation](#jews) understands the sign in relation to Ahaz's own crisis.
 
-* **Trinitarian View (Ontological):** Focuses on the Septuagint's use of "virgin" and Matthew's citation. It sees the prophecy as having a dual or ultimate fulfillment in the miraculous virgin birth of Jesus. "Immanuel" is interpreted literally: Jesus *is* God incarnate dwelling among humanity.
-* **Jewish View (Historical):** Focuses on the immediate crisis of 735 BCE. The "sign" was a natural pregnancy of a woman known to King Ahaz (likely his wife or Isaiah's wife). The child's birth and growth served as a visible timeline for the destruction of Judah's enemies. "Immanuel" signifies God's providential support for the nation.
-* **Unitarian View (Manifestational):** Focuses on God's action *through* Jesus. Like the Jewish view, it sees "Immanuel" as a theophoric name indicating God's presence, but applies it to Jesus as the ultimate agent of God's salvation. It accepts the virgin birth narrative in Matthew/Luke but interprets the "sign" as God finally fulfilling his promises to be "with us" by sending the Messiah to save his people from sin.
+The [Septuagint translation](#septuagint-translation) uses *parthenos*, a word normally translated “virgin,” but the Greek verse does not explain how conception occurred. Matthew applies this wording to Jesus in the [Christian interpretation](#christian) and presents Mary's conception as caused by the Holy Spirit.
 
-Ultimately, the disagreement centers on whether the text is a proof-text for Christ's divinity, a singular historical prediction, or a typological promise of God's redeeming presence through His anointed king.
+Finally, the name **Immanuel**, meaning “God is with us,” does not by itself prove that Jesus is God. As explained in [Meaning of Immanuel](#meaning-of-immanuel), it can function as a theophoric name and as a declaration that God was with and saving his people through his Messiah.

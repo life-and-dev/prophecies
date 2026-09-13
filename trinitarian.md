@@ -18,6 +18,7 @@ These prophecies were identified to prove that God foretold that Jesus would be 
 ---
 
 The meaning of the above fulfillment categories:
+
 * **Tanakh**: According to the Tanakh (Old Testament bible authors) the events of the prophecy had been fulfilled.
-* **Apostles**: According to the New Testament apostles or Jesus himself, the prophecy had been fulfilled or at least partially been fulfilled.
+* **Apostles**: According to the New Testament apostles or Jesus himself, the prophecy had been partially or fully fulfilled.
 * **Author of Hebrews**: According to the author of Hebrews, the prophecy had been fulfilled. Often the author of Hebrews has [different interpretation than the other bible authors](https://word.ofgod.info/books/hebrews).

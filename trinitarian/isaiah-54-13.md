@@ -21,7 +21,7 @@ This verse has been interpreted in different ways, particularly regarding how th
 
 Trinitarians often use this passage to argue for the deity of Christ. The logical progression is typically structured as follows:
 
-1. Isaiah prophesied that the LORD (Yahweh) Himself will teach the nation (Isaiah 54:13).
+1. Isaiah prophesied that [the LORD (Yahweh)](https://ofgod.info/name) Himself will teach the nation (Isaiah 54:13).
 2. Jesus taught the nation and applied this passage to his own ministry.
 3. Therefore, Jesus must be Yahweh.
 
@@ -33,11 +33,11 @@ When Jesus quotes this passage in the Gospel of John, he carefully maintains a d
 
 > It is written in the Prophets, "**And they will all be taught by God.**" Everyone who has heard and learned from the Father comes to me... — John 6:45 (ESV)
 
-In this verse, Jesus identifies the "Father" as the God who teaches. The result of hearing and learning from the Father is that a person "comes to me" (Jesus). The Father uses His teaching to draw people to His Son. If Jesus were the God doing the teaching, He would effectively be saying, "Everyone who has heard and learned from me comes to me," which ignores the distinction He explicitly makes.
+In this verse, Jesus identifies the "Father" as the God who teaches. The result of hearing and learning from the Father is that a person "comes to me" (Jesus). The Father uses His teaching to draw people to His Son. If Jesus were the God doing the teaching, He would be saying like *"Everyone who has heard and learned from me comes to me"*, which ignores the distinction He explicitly makes.
 
 Furthermore, Jesus repeatedly emphasized that His teachings were not His own, but originated entirely from the Father:
 
-> "For I have not spoken on my own authority, but the Father who sent me has himself given me a commandment—what to say and what to speak." — John 12:49 (ESV)
+> "For I have **not spoken on my own authority, but the Father who sent me** has himself given me a commandment — **what to say and what to speak**." — John 12:49 (ESV)
 
 Therefore, God is indeed fulfilling the prophecy of teaching the nation, but He is doing so **through** His chosen agent, Jesus Christ. Just as a king speaking through a herald does not make the herald the king, God teaching through Jesus does not make Jesus God. Jesus is the ultimate teacher sent from God, faithfully delivering the Father's instruction to humanity without claiming to be the source Himself.
 

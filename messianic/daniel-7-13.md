@@ -3,7 +3,7 @@ description: One like a son of man receives eternal dominion from the Ancient of
 keywords: Daniel 7:13-14, Son of Man, Ancient of Days, everlasting dominion, clouds of heaven, all authority, Matthew 28:18, universal kingdom
 ---
 
-# One Like a Son of Man Receives Dominion
+# Daniel 7:13 (Son of Man Receives Eternal Dominion)
 
 Daniel 7:13-14 portrays a human-like figure receiving an enduring kingdom in a heavenly court. The passage is important to both Jewish and Christian readings, yet they differ over the figure's identity and the timing of its fulfilment.
 
@@ -13,7 +13,7 @@ Daniel 7:13-14 portrays a human-like figure receiving an enduring kingdom in a h
 
 The direction of the vision is significant. The one like a son of man comes *to* the Ancient of Days and receives dominion from him. The text therefore describes an approach to the heavenly throne, rather than explicitly describing a descent to earth.
 
-Later verses say that “the saints of the Most High shall receive the kingdom” and that “the kingdom and the dominion” shall be given to them (Daniel 7:18,27). These statements form an important part of the discussion about whether the human-like figure represents an individual, the faithful people collectively, or an individual who represents them.
+Later verses say that “the saints of the Most High shall receive [the kingdom](https://kingdom.ofgod.info)” and that “the kingdom and the dominion” shall be given to them (Daniel 7:18,27). These statements form an important part of the discussion about whether the human-like figure represents an individual, the faithful people collectively, or an individual who represents them.
 
 ## Jesus and the Son of Man
 
@@ -33,23 +33,27 @@ These passages show why Christians connect Jesus with Daniel 7. They do not, by 
 
 ## Christian Interpretation
 
-*Many Christians interpret Daniel 7:13-14 as fulfilled first in Jesus' ascension.* On this reading, the Son of Man's coming to the Ancient of Days is his approach to the Father in heaven to receive authority. Jesus' statement that authority had been given to him is understood as consistent with the dominion given in Daniel's vision.
+Many Christians interpret Daniel 7:13-14 as **fulfilled first in Jesus' ascension**. On this reading, the Son of Man's coming to the Ancient of Days is his approach to the Father in heaven to receive authority. Jesus' statement that authority had been given to him is understood as consistent with the dominion given in Daniel's vision.
 
-*This interpretation commonly distinguishes the ascension from a future return.* The ascension is understood as the receiving of authority, while Mark 13:26 is understood as a future, visible coming in clouds. In this two-stage reading, the kingdom has begun but its universal public expression remains future.
+This interpretation commonly distinguishes the ascension from a **future return**. The ascension is understood as the receiving of authority, while Mark 13:26 is understood as a future, visible coming in clouds. In this two-stage reading, the kingdom has begun but its universal public expression remains future.
 
 ## Jewish Interpretation
 
-*Many Jewish interpretations read the one like a son of man collectively, as Israel or the saints of the Most High.* This reading contrasts the human figure with the beast-like kingdoms and gives weight to Daniel 7:18,22,27, where the saints receive the kingdom.
+Many Jewish interpretations read the one like a son of man **collectively, as Israel**. This reading contrasts the human figure with the beast-like kingdoms and gives weight to Daniel 7:18,22,27, where the saints receive the kingdom.
 
-*Other Jewish interpretations allow for an individual messianic figure but understand the vision as future.* They may expect the promised dominion and the service of all peoples, nations, and languages to be openly realised when the Messiah's kingdom is established.
+Other Jewish interpretations allow for an **individual messianic figure** but understand the vision as **future**. They may expect the promised dominion and the service of all peoples, nations, and languages to be openly realised when the Messiah's kingdom is established.
 
-From either Jewish reading, the phrase “came to the Ancient of Days” is not a description of a Messiah arriving on earth. It is a heavenly court scene. The difference is whether that scene is understood as referring to Jesus' ascension, a future messianic event, or the vindication of God's people.
+From either Jewish reading, the phrase “came to the Ancient of Days” is not a description of a Messiah arriving on earth. It is a **heavenly court scene**.
 
 ## Questions of Fulfilment
 
-Daniel presents an everlasting dominion and service from all peoples, nations, and languages. *Christian interpreters who adopt the ascension reading understand these promises as inaugurated through Jesus' received authority and completed at his future return.* *Jewish interpreters, and Christians who emphasise a future completion, understand the visible universal kingdom as still awaited.*
+Daniel presents an everlasting dominion and service from all peoples, nations, and languages.
 
-The passage itself identifies the Ancient of Days as the giver of dominion and distinguishes him from the one who receives it. It does not define that recipient's identity in a single explanatory statement. The surrounding references to the saints, together with Jesus' later use of Son of Man language, explain why the passage continues to receive more than one interpretation.
+Christian interpreters who adopt the ascension reading understand these promises as inaugurated through **Jesus' received authority and completed at his future return**.
+
+Jewish interpreters, and Christians who emphasise a future completion, understand the **visible universal kingdom as still awaited**.
+
+The passage itself identifies the Ancient of Days as the giver of dominion and [distinguishes Him](https://son.ofgod.info/son-of-man/distinct) from the one who receives it. It does not define that recipient's identity in a single explanatory statement. The surrounding references to the saints, together with Jesus' later use of Son of Man language, explain why the passage continues to receive more than one interpretation.
 
 ## Conclusion
 

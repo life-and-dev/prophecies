@@ -5,6 +5,7 @@ Both Jews and Christians believe these prophecies refer to [the Messiah or Chris
 Christians belief that Jesus fulfilled the Messianic prophecies as Peter publically defended Jesus by providing the 3 proofs that Jesus is the Christ:
 
 > “Men of Israel, hear these words: Jesus of Nazareth, [a man](https://son.ofgod.info/nature):
+>
 > 1. attested to you by God with mighty works and wonders and signs that God did through him in your midst, 
 > 2. as you yourselves know — this Jesus, delivered up according to the definite plan and foreknowledge of God:
 >    - you crucified and killed by the hands of lawless men. God raised him up, loosing the pangs of death, because it was not possible for him to be held by it. For David says concerning him,
@@ -35,6 +36,7 @@ Messianic prophecies are significant because it indicate how to identify the rea
 | Isaiah 52:13-15   | [The Suffering Servant](messianic/isaiah-52-13.md)                                                        | Unmeasurable | Matthew 12:18-21, 27:26-30; Acts 8:32-35; Romans 15:21; 1 Peter 1:2               |
 | Jeremiah 23:5-6   | [The LORD righteous is our Righteouness *(Jesus' title)*](messianic/jeremiah-23-5.md)                     | Unmeasurable | Matthew 1:1; Luke 3:23-31; Romans 3:21-26; 1 Corinthians 1:30; 2 Corinthians 5:21 |
 | Jeremiah 31:31-34 | [A New Covenant where God writes His law on human hearts](messianic/jeremiah-31-31.md)                    | Unmeasurable | Luke 22:20; Hebrews 8:8-12, 10:16-17                                              |
+| Daniel 7:13-14    | [Son of man receives eternal dominion from the Ancient of Days](messianic/daniel-7-13.md)                 | Partially    | Matthew 26:64; Mark 14:62; Luke 21:27; John 5:27; Acts 7:55-56; Revelation 1:7    |
 | Micah 5:2         | [Born in Bethlehem Ephrathah](messianic/micah-5-2.md)                                                     | Debatable    | Matthew 2:1-6; Luke 2:4-7                                                         |
 | Zechariah 9:9-10  | [The King will come on a donkey](messianic/zechariah-9-9.md)                                              | Debatable    | Matthew 21:1-11; Mark 11:1-11; Luke 19:28-44; John 12:12-16                       |
 

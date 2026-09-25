@@ -28,7 +28,7 @@ The Hebrew text of Isaiah 9:6 has been translated in significantly different way
 **ESV (English Standard Version):**
 > "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called **Wonderful Counselor**, **Mighty God**, **Everlasting Father**, **Prince of Peace**."
 
-**Aramaic Bible in Plain English:**
+**Aramaic Bible in Plain English** ([Bauscher's modern *Peshitta Holy Bible Translated*](https://biblehub.com/hpbt/isaiah/9.htm)):
 > "Because the Child is born to us, and the Son is given to us, and his authority was on his shoulder, and his Name was called The Wonder and The Counselor, *God*, *the Mighty Man of Eternity*, the Prince of Peace."
 
 **Brenton Septuagint Translation:**
@@ -47,14 +47,22 @@ The transliteration meaning is:
 
 Note: While the JPS 1917 translation gives all these titles to the child, [traditional Jewish interpretation](https://hermeneutics.stackexchange.com/questions/2800/should-the-title-in-isaiah-9-be-translated) (Rashi, Ibn Ezra, Kimchi) parses the grammar differently by making God (described as "Wonderful Counselor, Mighty God, Everlasting Father") the subject who names the child only "Prince of Peace."
 
-**[Targum Jonathan](https://www.sefaria.org/Targum_Jonathan_on_Isaiah.9.6?lang=bi)**
-For unto us a child is born, unto us a son is given, and he has taken the law upon himself to keep it. His name is called *from before Him* who is wonderful in counsel, *the mighty God who liveth to eternity* — the Messiah whose peace shall be great upon us in his days.
+**[Targum Jonathan](https://www.sefaria.org/Targum_Jonathan_on_Isaiah.9.6?lang=bi):**
+> "For unto us a child is born, unto us a son is given, and he has taken the law upon himself to keep it. His name is called *from before Him* who is wonderful in counsel, *the mighty God who liveth to eternity* — the Messiah whose peace shall be great upon us in his days."
 
 **REV (Revised English Version):**
 > "For a child will be born to us, a son will be given to us, and the government will be on his shoulders. And he will call his name Wonderful Counselor, *Mighty Hero, Father of the Coming Age*, Prince of Peace."
 
 **The Scriptures 2009:**
 > "For a child is born unto us, a son is given unto us, and the rule is on His shoulder. And His Name is called Wonder, Counsellor, *Strong Ěl*, *Father of Continuity*, Prince of Peace."
+
+## Aramaic Witnesses
+
+The English [*Aramaic Bible in Plain English*](https://biblehub.com/hpbt/isaiah/9.htm), Bauscher's Peshitta translation, says "God, the Mighty Man of Eternity." The English *Targum Jonathan* rendering says "the mighty God who liveth to eternity — the Messiah," [preserved in the Sefaria text](https://www.sefaria.org/api/texts/Targum_Jonathan_on_Isaiah.9.6?lang=bi). Neither English rendering uses **Everlasting Father**. Targum Jonathan's original Aramaic text also has no אב or אבי in this verse. By contrast, the Hebrew text preserves אֲבִי־עַד (*Avi-ad*), commonly rendered **Everlasting Father** ([Hebrew text](https://mechon-mamre.org/p/pt/pt1009.htm)).
+
+The Aramaic Bible in Plain English wording is identified as Bauscher's modern *Peshitta Holy Bible Translated*. It omits “Father” in English.
+
+The Peshitta is an ancient Syriac translation. Its earliest Old Testament portions probably date to the first or second century CE and were translated from Hebrew or Aramaic ([Britannica](https://www.britannica.com/topic/Peshitta)). Targum Jonathan is a Jewish interpretive paraphrase of the Prophets that was revised, and its date remains uncertain ([Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/14248-targum#anchor10)). Both are meaningful witnesses to ancient translation and interpretation.
 
 ## Textual Variants
 
@@ -176,7 +184,7 @@ However, several considerations complicate this reading:
 
 1. **Original Context**: [Isaiah's historical setting](#contextual-reading) addressed 8th-century BC Judah facing Assyrian invasion (chapters 8-9), with verse 7 explicitly limiting the child to "the throne of David"—a human throne for Davidic descendants. The immediate shift to contemporary judgment (Isaiah 9:8ff) and the straightforward birth language ("a child is born") may suggest the original audience understood this as a promise of a divinely empowered human king rather than God incarnate.
 
-2. **Linguistic Range**: The [translation and parsing alternatives](#textual-variants) show that Hebrew terms like "el" appear for non-divine figures (Moses as "elohim" in Exodus 7:1, judges as "elohim" in Psalm 82:6), and "father" frequently means "founder/establisher" (Genesis 4:20-21) rather than eternal source. The titles may legitimately describe functional authority delegated by God rather than ontological deity.
+2. **Linguistic Range**: The [translation and parsing alternatives](#textual-variants) and [Aramaic witnesses](#aramaic-witnesses) show that the Hebrew and its translations require careful interpretation. Hebrew terms like "el" appear for non-divine figures (Moses as "elohim" in Exodus 7:1, judges as "elohim" in Psalm 82:6), and "father" frequently means "founder/establisher" (Genesis 4:20-21) rather than eternal source. The titles may legitimately describe functional authority delegated by God rather than ontological deity.
 
 3. **New Testament Silence**: Despite extensively quoting Isaiah, Jesus and the apostles never cited Isaiah 9:6 to demonstrate Jesus's divinity. Matthew 28:18's language ("authority has been *given to me*") and 1 Corinthians 15:24-28 (Jesus subordinating himself to the Father and returning the kingdom) use language of delegation rather than ontological equality. Matthew's selective quotation of only Isaiah 9:1-2 (Matthew 4:14-16), while omitting verse 6, may suggest he did not view verse 6 as direct proof of deity.
 

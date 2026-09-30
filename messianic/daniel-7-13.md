@@ -53,7 +53,7 @@ Christian interpreters who adopt the ascension reading understand these promises
 
 Jewish interpreters, and Christians who emphasise a future completion, understand the **visible universal kingdom as still awaited**.
 
-The passage itself identifies the Ancient of Days as the giver of dominion and [distinguishes Him](https://son.ofgod.info/son-of-man/distinct) from the one who receives it. It does not define that recipient's identity in a single explanatory statement. The surrounding references to the saints, together with Jesus' later use of Son of Man language, explain why the passage continues to receive more than one interpretation.
+The passage itself identifies the Ancient of Days as the giver of dominion and [distinguishes Him](https://son.ofgod.info/human/distinct) from the one who receives it. It does not define that recipient's identity in a single explanatory statement. The surrounding references to the saints, together with Jesus' later use of Son of Man language, explain why the passage continues to receive more than one interpretation.
 
 ## Conclusion
 

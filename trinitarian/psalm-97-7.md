@@ -48,7 +48,7 @@ Therefore, the author of Hebrews are the only bible author to claim that angels 
 
 ### Trinitarians
 
-Despite this confusion, [Trinitarians](https://son.ofgod.info/trinity) interpret this passage as proving [Jesus' divine status](https://son.ofgod.info/son-as-god), arguing that:
+Despite this confusion, [Trinitarians](https://son.ofgod.info/trinity) interpret this passage as proving [Jesus' divine status](https://son.ofgod.info/divine), arguing that:
 
 - The command for angels to worship demonstrates Jesus shares divine nature
 - The title "firstborn" indicates Jesus' preeminence and deity

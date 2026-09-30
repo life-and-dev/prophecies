@@ -15,7 +15,7 @@ The name **Immanuel** (עִמָּנוּ אֵל) translates to "**God is with us*
 
 ### Trinitarian View
 
-Christians, particularly [Trinitarians](https://son.ofgod.info/trinity), interpret "God with us" as a **literal description of Jesus' nature**. They believe [Jesus was fully God and fully man](https://son.ofgod.info/son-as-god). According to this view, the name is not just symbolic but descriptive of the reality that in Jesus, God has physically entered human history to dwell among His people.
+Christians, particularly [Trinitarians](https://son.ofgod.info/trinity), interpret "God with us" as a **literal description of Jesus' nature**. They believe [Jesus was fully God and fully man](https://son.ofgod.info/name/divine). According to this view, the name is not just symbolic but descriptive of the reality that in Jesus, God has physically entered human history to dwell among His people.
 
 ### Unitarian View
 

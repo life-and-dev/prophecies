@@ -3,7 +3,7 @@ description: Isaiah 11:1-10 describes a righteous ruler from Jesse's line; the N
 keywords: Isaiah 11, Branch from Jesse, Root of Jesse, Spirit of the LORD, Jesus genealogy, Matthew 1, Romans 15, messianic prophecy
 ---
 
-# Descended from Jesse
+# Isaiah 11:1-5 (Descended from Jesse)
 
 ## Prophecy
 

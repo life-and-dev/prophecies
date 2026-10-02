@@ -3,7 +3,7 @@ description: Was the resurrection of Jesus on the third day prophesied in the Ol
 keywords: third day resurrection, Hosea 6:2, resurrection prophecy, Old Testament prophecy, Christian typology, Jewish interpretation, Messiah
 ---
 
-# Resurrection on the Third Day
+# Hosea 6:2 (Resurrection on the 3rd Day)
 
 The concept of a third-day resurrection is a cornerstone of Christian theology. While the New Testament clearly proclaims Jesus' resurrection on the third day, the Old Testament foundations for this belief are often debated. This article explores the prophetic significance of Hosea 6:2 and its connection to the resurrection of Jesus.
 

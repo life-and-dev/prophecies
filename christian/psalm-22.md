@@ -3,7 +3,7 @@ description: Psalm 22 describes a sufferer's journey from absolute forsakenness 
 keywords: Psalm 22, messianic prophecy, crucifixion, Jesus, David, My God why have you forsaken me, pierced hands and feet, dividing garments, casting lots
 ---
 
-# Psalm 22: The Suffering and Glory of the Chosen One
+# Psalm 22 (Suffering and Glory)
 
 Psalm 22 is a profound lament that begins in the depths of despair and concludes with a vision of worldwide worship. Historically attributed to King David, the psalm describes a righteous sufferer who feels abandoned by God while being surrounded by mocking enemies. 
 

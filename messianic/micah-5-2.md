@@ -3,7 +3,7 @@ description: Explore Micah's prophecy of a Bethlehem-born Messiah. This article 
 keywords: Micah 5:2, Bethlehem prophecy, messianic birthplace, Jesus' birth, Christian apologetics, Jewish objections, Assyrian deliverance, Targum Jonathan
 ---
 
-# Born in Bethlehem Ephrathah
+# Micah 5:2 (Born in Bethlehem Ephrathah)
 
 The Old Testament contains numerous prophecies about a coming Messiah, but few are as specific and geographically precise as the one found in the book of Micah. This ancient text pinpoints the small town of Bethlehem as the birthplace of Israel's future ruler. This article explores the well-known prophecy, its fulfillment, and the complex historical and theological debates it has sparked for centuries.
 

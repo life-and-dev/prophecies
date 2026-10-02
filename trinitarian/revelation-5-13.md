@@ -3,7 +3,7 @@ description: Interpretations of Revelation 5:13, the Lamb, and the one on the th
 keywords: Revelation 5, Lamb, proskyneo, throne
 ---
 
-# Revelation 5:13: Honour for God and the Lamb
+# Revelation 5:13 (Honour for God & Lamb)
 
 Revelation 5 gives universal blessing and honour to the one on the throne and the Lamb. This article considers whether the vision's language of honour, falling, and *proskyneō* requires the conclusion that Jesus is God.
 

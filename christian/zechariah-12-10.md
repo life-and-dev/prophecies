@@ -3,7 +3,7 @@ description: Zechariah prophesied looking on one pierced and mourning; fulfilled
 keywords: Zechariah 12:10, pierced side, look on him pierced, John 19:34-37, spear in side, they shall mourn, national mourning
 ---
 
-# They Will Look on Him Whom They Have Pierced
+# Zechariah 12:10-11 (Piercing Him)
 
 ## The Prophecy
 

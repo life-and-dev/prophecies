@@ -3,7 +3,7 @@ description: Zechariah's prophecy of striking the shepherd and scattering sheep;
 keywords: Zechariah 13:7, strike the shepherd, scatter the sheep, disciples fled, Matthew 26:56, Mark 14:27, false prophets context
 ---
 
-# Strike the Shepherd, Scatter the Sheep
+# Zechariah 13:7 (Strike the Shepherd)
 
 ## The Prophecy
 

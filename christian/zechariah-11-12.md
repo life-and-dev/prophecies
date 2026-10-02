@@ -3,7 +3,7 @@ description: The prophecy of thirty pieces of silver thrown to the potter in the
 keywords: Zechariah 11:12-13, thirty pieces of silver, Judas betrayal, potter's field, Matthew 27:3-10, slave price, house of the LORD
 ---
 
-# Thirty Pieces of Silver and the Potter
+# Zechariah 11:12-13 (30 Silver Pieces & Potter)
 
 ## The Prophecy
 

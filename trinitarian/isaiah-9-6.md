@@ -11,7 +11,7 @@ keywords: isaiah 9:6, mighty god, prince of peace, wonderful counselor, everlast
 
 ## Contextual Reading
 
-Isaiah 9:6 must be read within the broader narrative of Isaiah chapters 8-9, which address God's judgment and restoration of Israel during a specific historical crisis. The prophecy follows warnings about Assyrian invasion and promises of deliverance for God's people. Understanding this historical context is essential before applying the passage to messianic interpretation.
+Isaiah 9:6 must be read within the broader narrative of Isaiah chapters 8-9, which address God's judgment and restoration of Israel during a specific historical crisis. The prophecy follows warnings about Assyrian invasion and promises of deliverance for God's people. **No New Testament author refers to Isaiah 9:6 in a messianic context.**
 
 The very next verse provides crucial context:
 
@@ -19,7 +19,9 @@ The very next verse provides crucial context:
 
 This verse clarifies that the child will sit "on the throne of David and over his kingdom". This is a throne reserved for human descendants of King David. God, being eternal and sovereign over all creation, has no need to occupy David's earthly throne. The explicit reference to David's throne strongly suggests Isaiah is describing a human Davidic king, not God incarnate. This contextual detail is frequently overlooked but provides significant evidence that the prophecy originally referred to a righteous human ruler in David's line (such as King Hezekiah), rather than a declaration of divine incarnation.
 
-**Counter-Argument**: Christians later developed the doctrine of Christ's dual nature (fully God and fully human) to address this issue. However, this theological concept was not present in Isaiah's 8th-century BC context and would have been incomprehensible to his original audience.
+**Counter-Argument**: In 451 AD, the [Council of Chalcedon](https://church.ofgod.info/evolution/451-chalcedon) developed the doctrine of Christ's dual nature (fully God and fully human) to address this issue. However, this theological concept was not present in Isaiah's 8th-century BC context and would have been incomprehensible to his original audience.
+
+[Sean Finnegan](https://youtu.be/mtJxn39zPVM?si=7cPe98y2YAOYsdsy) argues that the Masoretic Text version   of Isaiah 9:6 was written in the past tense, not future tense as commonly translated. This implies the event had already occurred, which aligns with the historical fulfillment in King Hezekiah's reign, although he admits that often prophecies are written in past tense to describe future events.
 
 ## Alternative Bible Translations
 
@@ -37,15 +39,34 @@ The Hebrew text of Isaiah 9:6 has been translated in significantly different way
 **JPS Tanakh 1917:**
 > "For a child is born unto us, A son is given unto us; And the government is upon his shoulder; And his name is called *Pele-joez-el-gibbor-Abi-ad-sar-shalom*"
 
-The transliteration meaning is:
+**William Hollday 1978:**
+> "Planner of wonders; God the war hero (is) Father forever; prince of well-being"
+
+**New JPS 1985:**
+> The Mighty God is planning grace; The Eternal Father, a peaceable ruler.
+
+**John Goldingay 1999:**
+> One who plans a wonder is the warrior God; the father for ever is a commander who brings peace.
+
+**John Goldingay 2015:**
+> An-extraordinary-councelor-is-the-warrior-God, the-everlasting-Father-is-an-official-for-well-being.
+
+**Huge Williamson 2018:**
+> A Wonderful Planner is the Mighty God, An Eternal Father is the Prince of Peace.
+
+**Sean Finnegan 2024:**
+> For a child has been born to us, a son has been given to use and the government was upon his shoulder and his name has been called, *"The warrior God is a miraculous strategist; The eternal Father is the ruler who brings peace."*
+
+The transliteration meanings are:
 
 - Pele = Wonderful/Miracle
-- Joez = Counselor/Adviser
-- El-Gibbor = Mighty God
+- Joez = Counselor/Adviser (in this context more likely military advisor)
+- El = God, Gibbor = warrior, El-Gibbor = literally "god warrior", but commonly translated as "Mighty God"
 - Abi-Ad = Everlasting Father
 - Sar-Shalom = Prince of Peace
 
-Note: While the JPS 1917 translation gives all these titles to the child, [traditional Jewish interpretation](https://hermeneutics.stackexchange.com/questions/2800/should-the-title-in-isaiah-9-be-translated) (Rashi, Ibn Ezra, Kimchi) parses the grammar differently by making God (described as "Wonderful Counselor, Mighty God, Everlasting Father") the subject who names the child only "Prince of Peace."
+> [!Note]
+> While the JPS 1917 translation gives all these titles to the child, [traditional Jewish interpretation](https://hermeneutics.stackexchange.com/questions/2800/should-the-title-in-isaiah-9-be-translated) (Rashi, Ibn Ezra, Kimchi) parses the grammar differently by making God (described as "Wonderful in councel is God the Mighty, the Everlasting Father") the subject who names the child only "the Ruler of Peace."
 
 **[Targum Jonathan](https://www.sefaria.org/Targum_Jonathan_on_Isaiah.9.6?lang=bi):**
 > "For unto us a child is born, unto us a son is given, and he has taken the law upon himself to keep it. His name is called *from before Him* who is wonderful in counsel, *the mighty God who liveth to eternity* — the Messiah whose peace shall be great upon us in his days."
@@ -68,27 +89,27 @@ The Peshitta is an ancient Syriac translation. Its earliest Old Testament portio
 
 The Hebrew text of Isaiah 9:6 presents significant translation challenges, with multiple legitimate scholarly renderings of the four titles:
 
-**Mighty God** (אֵל גִּבּוֹר, *El Gibbor*):
-
-- Traditional: "Mighty God"
-- [Martin Luther's German Bible](https://en.wikipedia.org/wiki/Luther_Bible): "Divine Hero" (*Held-Gott*)
-- Alternative: "Mighty Hero" or "God of a Mighty One"
-
-> "Although English makes a clear distinction between 'God' and 'god,' the Hebrew language, which has only capital letters, cannot. A better translation for the English reader would be 'mighty hero,' or 'divine hero.'" — [Spirit & Truth Fellowship International](https://www.biblicalunitarian.com/videos/isaiah-9-6)
-
-**Everlasting Father** (אֲבִיעַד, *Avi-ad*):
-
-- Traditional: "Everlasting Father"
-- Alternative: "Father of the Coming Age"
-- Alternative: "Father of Eternity" / "Father of Continuity"
-
 **Wonderful Counselor** (פֶּלֶא יוֹעֵץ, *Pele Yoetz*):
 
 - Traditional: "Wonderful Counselor"
 - Alternative: "Messenger of Great Counsel"
 - Alternative: "Wonderful in Counsel"
 
-These variants demonstrate that while the traditional English translation "Mighty God" and "Everlasting Father" carry strong implications of divinity, the Hebrew allows for interpretations suggesting a mighty warrior empowered by God or a righteous king establishing an enduring dynasty.
+**Mighty God** (אֵל גִּבּוֹר, *El Gibbor*):
+
+- Traditional: "Mighty God"
+- [Martin Luther's German Bible](https://en.wikipedia.org/wiki/Luther_Bible): "Divine Hero" (*Held-Gott*)
+
+Alternative meanings according to [Sean Finnegan](https://youtu.be/mtJxn39zPVM?si=7cPe98y2YAOYsdsy) are:
+
+- ~~"mighty warrior"~~: Problem need to reverse order of words in  Hebrew to get "warrior god" or "mighty warrior". John Oswalt wrote in "The Book of Isaiah, Chapters 1-39, NICOT (Grand Rapids, MI. Eerdmans, 1986), 247, that "Whenever `el gibbor occurs elsewhere in the Bible there is no doubt that the term refers to God (Isaiah 10:21; cf. also Deuteronomy 10:17; Jeremiah 32:18)
+- ~~"mighty god-man"~~: Most popular view among Christians. NET Bible, Full Notes ed. W. Hall Harris III, James Davis, and Michael H. Burer, 2nd e. (Nashville: Thomas Nelson, 2019), 1267 wrote: "It is unlikely that Isaiah or his audience would have understood the title in such a bold way." If "god-man" is the correct translation and the past tense prophecy refers to Hezekiah we would have 2x god-mans which violate the doctrine of [the Trinity](https://son.ofgod.info/trinity). Even if the child was just another deity, then we still need to explain the extra deity that does not fit in a monotheistic religion.
+- "mighty God's agent": As with Psalm 82 and John 10, sometimes human agents are called gods because they represent God as His agents. Scholars backing this explanations: Keil & Delitzsch (1864), Edward L. Curtis (1890), Raymond Brown (1967), The NET Bible (2005), Hugh Williamson in ICC (2018).
+
+**Everlasting Father** (אֲבִיעַד, *Avi-ad*):
+
+- Traditional: "Everlasting Father"
+- Alternative: "Father of the Coming Age"
 
 ## Fulfillment
 
@@ -142,27 +163,6 @@ Significantly, the same title "Mighty God" (*El Gibbor*) appears in Isaiah 10:21
 
 However, some considerations complicate this interpretation. The term "el" appears for non-divine figures throughout Scripture—Moses is called "elohim" to Pharaoh (Exodus 7:1), and judges are termed "elohim" (Psalm 82:6)—suggesting the title may denote God-empowered authority rather than ontological deity. Similarly, "Father of the Coming Age" (*Avi-ad*) parallels Genesis 4:20-21, where Jabal is "father of tent-dwellers" and Jubal "father of musicians" without literal parentage—indicating "father" means "founder" or "inaugurator." Ancient Near Eastern throne names often incorporated divine elements to honor God's presence through the king. These titles may describe what God accomplishes *through* the Messiah rather than the Messiah's essential nature.
 
-#### Jesus's Fulfillment of the Titles
-
-Christians point to Jesus's life and claims as fulfilling these titles:
-
-- **Government/authority** (Matthew 28:18): "All authority in heaven and on earth has been given to me"
-- **Eternal kingdom** (Luke 1:33): "Of his kingdom there will be no end"
-- **Wonderful Counselor**: Jesus's wisdom and teaching amazed audiences (Matthew 7:28-29)
-- **Prince of Peace**: Jesus brings peace with God (Romans 5:1; John 14:27)
-
-Under the functional reading, Christians may also see Jesus as fulfilling **Everlasting Father** by ruling, protecting, and founding the coming age without being the Father-person. That claim is different from applying the title as a literal identity statement and therefore cannot itself establish Jesus's deity. Matthew 28:18 uses language of delegation: "All authority has been *given to me*." The New Testament never quotes Isaiah 9:6 to prove Jesus's divinity, despite extensively citing Isaiah elsewhere. If this passage clearly demonstrated deity, its absence from apostolic arguments is noteworthy. Additionally, 1 Corinthians 15:24-28 describes Jesus handing the kingdom back to the Father and subordinating himself, suggesting functional rather than ontological equality.
-
-#### Not Hezekiah
-
-Christians argue the prophecy cannot refer to King Hezekiah for several reasons:
-
-1. **Timing**: Isaiah's ministry began around 740 BC. The past tense "a child is born" would be premature if referring to Hezekiah, who was likely already born by that time.
-2. **Unfulfilled Titles**: Scripture never applies these exalted titles—particularly "Mighty God" or "Everlasting Father"—to Hezekiah during his lifetime.
-3. **Limited Kingdom**: 2 Kings 18:2 records that Hezekiah reigned only 29 years (715-686 BC), while Isaiah 9:7 promises a kingdom with "no end."
-
-While these arguments effectively rule out Hezekiah, they demonstrate only that Isaiah prophesied a *future* Davidic king, not necessarily that this king must be ontologically divine. A human Messiah ruling with God-delegated authority could fulfill the endless kingdom prophecy through resurrection and eternal appointment, without requiring pre-existent deity.
-
 #### Two-Stage Fulfillment and the Throne of David
 
 Many Christians adopt a two-stage fulfillment framework:
@@ -176,21 +176,21 @@ However, Isaiah 9:7 explicitly states the child will sit "on the throne of David
 
 The two-stage framework may explain why the promised peace is not yet complete, but it does not itself resolve the Father/Son personhood issue. That issue turns on whether **Everlasting Father** is read as personal identity or as a non-personal royal function.
 
-## Conclusion
+## Theophoric Name Explanation
 
-Traditional Christian interpretation sees **Mighty God** (*El Gibbor*) as evidence for Jesus's deity and may take **Everlasting Father** (*Avi-ad*) as either divine identity or fatherly kingship. The [divine-title argument](#divine-titles-transcending-humanity) strengthens the first claim, but it does not determine the grammar or historical meaning of Isaiah 9:6.
+[Sean Finnegan](https://youtu.be/mtJxn39zPVM?si=7cPe98y2YAOYsdsy) explains that this is a Theophoric Name. This means it is a name that contains a meaning like Isaiah means "Yah (is) salvation", Hezekiah means "Yah (is) my strength", Immanuel means "God (is) with us", Elijah means "Yah (is) my God". All these names refers to God, not the child. For example, Isaiah's parent did not think their child would be the god of salvation.
 
-However, several considerations complicate this reading:
+> Semitic names often consist of sentences that describe God ... These names do not describe that person who hold them but the God whom the parents worship. Similarly, the name given to the child in this v. does not describe that child or attribute divinity to him, but describes God's actions. — The Jewish Study Bible, ed. Adele Berlin and Marc Zvi Brettler, 2nd ed. (New York: Oxford University Press, 2014), 784
 
-1. **Original Context**: [Isaiah's historical setting](#contextual-reading) addressed 8th-century BC Judah facing Assyrian invasion (chapters 8-9), with verse 7 explicitly limiting the child to "the throne of David"—a human throne for Davidic descendants. The immediate shift to contemporary judgment (Isaiah 9:8ff) and the straightforward birth language ("a child is born") may suggest the original audience understood this as a promise of a divinely empowered human king rather than God incarnate.
+> So he has that complicated name, "An extraordinary-counselor-is-the-warrior-God, the-everlasting-Father-is-an-officer-for-well-being." Like earlier names in Isaiah (God-is-with-us, Remains-Will-Return, Plunder-hurries-loot-rushes), the name is a sentence. None of these names are the person's everyday name - as when the New Testament says that Jesus will be called Immanual, "God [is] with us," without meaning this expression is Jesus' name. Rather, the persons somehow stands for whatever the "name" says. God gives him **a sign of the truth** of the expression attached to him. The names don't mean that the person is God with us, or is the remains, or is the plunder, and likewise **this new name doesn't mean the child is what the name says**. Rather **he is a sign** and guarantee of it. It's as if he goes around bearing a billboard with that message and with the reminder that God commissioned the billboard. — John Goldingay, Isaiah for Everyone (Louisville, KY: Westminster John Knox Press, 2015), 40.
 
-2. **Linguistic Range**: The [translation and parsing alternatives](#textual-variants) and [Aramaic witnesses](#aramaic-witnesses) show that the Hebrew and its translations require careful interpretation. Hebrew terms like "el" appear for non-divine figures (Moses as "elohim" in Exodus 7:1, judges as "elohim" in Psalm 82:6), and "father" frequently means "founder/establisher" (Genesis 4:20-21) rather than eternal source. The titles may legitimately describe functional authority delegated by God rather than ontological deity.
-
-3. **New Testament Silence**: Despite extensively quoting Isaiah, Jesus and the apostles never cited Isaiah 9:6 to demonstrate Jesus's divinity. Matthew 28:18's language ("authority has been *given to me*") and 1 Corinthians 15:24-28 (Jesus subordinating himself to the Father and returning the kingdom) use language of delegation rather than ontological equality. Matthew's selective quotation of only Isaiah 9:1-2 (Matthew 4:14-16), while omitting verse 6, may suggest he did not view verse 6 as direct proof of deity.
-
-4. **Father/Son Personhood**: Classical Trinitarianism requires the Father and the Son to remain distinct persons. Reading the child's title **Everlasting Father** as a literal identity claim therefore conflicts with that distinction. A functional, royal reading can avoid the conflict, but it does not show that Isaiah taught the later [Trinity](https://son.ofgod.info/trinity) or settle the title's historical meaning. Isaiah's contemporary audience had no framework for understanding the Trinity as later defined, believing firmly that [God is One](https://son.ofgod.info/shema).
-
-The interpretation ultimately depends on whether one sees the titles as ontological declarations of deity or as functional descriptions of God's work through an appointed human Messiah. The original context, translation and parsing questions, and Jewish readings leave the historical meaning disputed. As [the Father/Son personhood problem](#the-fatherson-personhood-problem) shows, a straightforward identity/title assignment creates a real conflict with Father/Son person distinction and ordinary relations; only a non-personal functional reading avoids it. This is an argument against Isaiah 9:6 as a simple standalone Trinity proof, not a complete refutation of all Christian readings.
+> An advantage of this reading of Isaiah 9:6 is that it is compatible with the full range of christological positions Chrians hold.
+>
+> Secondly, this approach nicely fits with the original meaning in Isaiah's day, and it works for the prophecy's ultimate referent in Christ Jesus. Additionally, it is the interpretation with the least amount of special pleading.
+>
+> Finally, it puts everything in the correct order, allowing exegesis to drive theology rather than the other way around.
+>
+> — [Sean Finnegan](https://youtu.be/mtJxn39zPVM?si=7cPe98y2YAOYsdsy)
 
 ## External Resources
 
